@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudendpoints [64x64/16z] {
+xPH9RiDG34EBKZ_oplS_hUTP1Yd0MxtrVoJR9EfNYg8eiDC_w7PokWK_4_0VwkK0lJuV0EwhW3-gwm5Krm6GljC0efC1HES1V7qBt7o3g6zuqAu36Y1r4k2O
+27hUnmAl9m7juGUT-kROYBw7h_eLyYt7mcz_us-wXwqFtywIDvz-ovVrvojFr-yiwza0hlUmsqCFzMHzvZgG-dp0b_l6r-i1-aIO2CZVHzVhUO2ermVswtti
+-7eTeEgBeYX6
+}
+
+AWSEntityColoring(cloudendpoints)
+!define cloudendpoints(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudendpoints, cloudendpoints)
+!define cloudendpoints(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudendpoints, cloudendpoints)
+!define cloudendpointsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudendpoints, cloudendpoints)
+!define cloudendpointsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudendpoints, cloudendpoints)

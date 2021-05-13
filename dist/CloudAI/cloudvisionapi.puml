@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudvisionapi [64x64/16z] {
+xP053iGm0CCafGFX_l_QOpwdQdOC5WxigfdUbpz_f1jrwIRzba3HZZBpy2Ctwj9DUXuekY0RGKYWCxE6JmFbKiX6kB3XNQ3Jsq1F0uL_Qnr1r_guWZuIR7CX
+q7t0Nnty-WXokW_8wixtWVw4eUOF_GaJ1thm-RUsWDTjWNrZ-q2Yyuf7U_2w7y5_QYXKteS1hzS3YSutfHTH0GxF0e5-9D0Pr2F0phXHX-5JG0y1EmFq3D3V
+Xpz_bW
+}
+
+AWSEntityColoring(cloudvisionapi)
+!define cloudvisionapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudvisionapi, cloudvisionapi)
+!define cloudvisionapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudvisionapi, cloudvisionapi)
+!define cloudvisionapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudvisionapi, cloudvisionapi)
+!define cloudvisionapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudvisionapi, cloudvisionapi)

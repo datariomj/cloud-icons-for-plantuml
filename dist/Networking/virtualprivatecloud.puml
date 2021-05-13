@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $virtualprivatecloud [64x64/16z] {
+xTUr0O1004DHDBdkzfyMTtVDg_CR7BkV-8MmD3KAgb6_HswwH-x3FPX2Mx2yfqaG7UfFF7_gmTJS_SyKXaOqAJiZ6z5cFjPd9jAP5J9pFJAFwTMhLzzuhiuz
+Fv7IzzEUVl_tW_hztw-w_dR_F-qdCG
+}
+
+AWSEntityColoring(virtualprivatecloud)
+!define virtualprivatecloud(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, virtualprivatecloud, virtualprivatecloud)
+!define virtualprivatecloud(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, virtualprivatecloud, virtualprivatecloud)
+!define virtualprivatecloudParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, virtualprivatecloud, virtualprivatecloud)
+!define virtualprivatecloudParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, virtualprivatecloud, virtualprivatecloud)

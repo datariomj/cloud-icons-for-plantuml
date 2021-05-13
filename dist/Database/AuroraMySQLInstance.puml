@@ -10,7 +10,7 @@ sI_dlmFyzVeLW7zv_nzyUpk02UIyrvCM7G1_ylxDHWSw6t1kbIlNv2dZ_FvcH2GMEIxwzn9Pxt_Y4cUw
 }
 
 AWSEntityColoring(AuroraMySQLInstance)
-!define AuroraMySQLInstance(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, AuroraMySQLInstance, AuroraMySQLInstance)
-!define AuroraMySQLInstance(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, AuroraMySQLInstance, AuroraMySQLInstance)
-!define AuroraMySQLInstanceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, AuroraMySQLInstance, AuroraMySQLInstance)
-!define AuroraMySQLInstanceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, AuroraMySQLInstance, AuroraMySQLInstance)
+!define AuroraMySQLInstance(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AuroraMySQLInstance, AuroraMySQLInstance)
+!define AuroraMySQLInstance(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AuroraMySQLInstance, AuroraMySQLInstance)
+!define AuroraMySQLInstanceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AuroraMySQLInstance, AuroraMySQLInstance)
+!define AuroraMySQLInstanceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AuroraMySQLInstance, AuroraMySQLInstance)

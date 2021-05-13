@@ -1,0 +1,14 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $GKEOnPrem [64x64/16z] {
+xPP9beGX28Dh57VS_xGzyzAnvEM7JOzPAb-2IWt-VVMlwvkwzEtweLip7EhIK9tkErm-GtK709UbbsBhoLAHvcL9SjqOWxVLhCJ1WruCJWc_2xSHGasKYc53
+E3kWCiD1inugauaXcfJpwxADlTANvESPgOpuxAjYvA96LyNPFQT7oaElRUxfEQTxXjFnT-zdyvL7OSx3WS8Fya28Bl1ecREB_2iP1w_bG_uQNkFPOAKrprVF
+j1thttUy5-uFBH3Tc9-WHsD-WhVU_DpSt_YWhJC_o6wzlxjNtvyTA5pmMBVj-sl-iGMcDRywxF6h-Di0XuM-S8PkWMXV2xI39RlwhrFkVIlyTJk9SEqWQEaW
+MjSEXN288AAxlDT4qmYyRk1T0V-s-jSp
+}
+
+AWSEntityColoring(GKEOnPrem)
+!define GKEOnPrem(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, GKEOnPrem, GKEOnPrem)
+!define GKEOnPrem(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, GKEOnPrem, GKEOnPrem)
+!define GKEOnPremParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, GKEOnPrem, GKEOnPrem)
+!define GKEOnPremParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, GKEOnPrem, GKEOnPrem)

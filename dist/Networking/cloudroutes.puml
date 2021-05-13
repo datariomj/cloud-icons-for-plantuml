@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudroutes [64x64/16z] {
+xTGtSiHG30HHsG6okVzjbGfLsv_OeZUJlwQdJxDdqbolkLvplMRvUGND38W2-MzstQzURE033bh7Ff5p8J4W7leid8S-WRTzTBpPPu-ppoaU7llitViw3k3x
+om7P1czQm2s0xtVw2duAA7UkVmlW_zKDmF-pTm_BcFCzV7zvyW3VmqvCuXDed8qq2DGQSGwKVnDp6GAJTrGGKF4vudG59Ocm1dWDFmx4q9VhXOry-Bq0_PwZ
+6G3UFW7YTeiREGTayE5Em2OF_qFc_HK-mtkMbsTvUvRtFEzvtWVRipy
+}
+
+AWSEntityColoring(cloudroutes)
+!define cloudroutes(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudroutes, cloudroutes)
+!define cloudroutes(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudroutes, cloudroutes)
+!define cloudroutesParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudroutes, cloudroutes)
+!define cloudroutesParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudroutes, cloudroutes)

@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $IoTCore [64x64/16z] {
-xTM76fim34NX8rcsTD__WJkToUS6qjtoPuzZDaXRfzEfglIsR7ncKNf3ENZq7WQXmnAYvbl7wtYUkkgOZZ5ATpfDHmH33ngz6TQr3wv71NWphBJ3OEX9zvJK
-SUtGsBDWQsvQA4AlLCEr0csytFIUMXaENbehNYrYOAKb9_MimkCk6RXMaj26mSCqWzH2e_IiCnx7BPeMpBQR0oH1onqRU3Fo0ADhOD0rDVRs7Skv_EN4eb_E
-_rpLGIj9pbWivMhLpjMUCpJgnLvS-7QqsL-thbDQ2K9J1OoddbPpb1MdpT4DXp7xcJicfRubmAEaGPVC8lgNVaGOfK7VS-4OKYSb1wZFFO3FTRTBuZNmYjct
-Qengf7OAm4fzzg4oe6ctD4ftlOIb3XZqXxxJTOYJTtrXEgOWhtqPfOFIiDaRf0uhXzO-tx7KEuAlcjxJoKulGk-Pw--tzPLIrkVxnkbq-WW
+xTQ50Hj940NH6eRkdt-u1nR3YCpsFZ7KCkcEpMRZPgvFpH80OZLzm1Aascg9K5tlce5Y-xU9wE_cXAcZzku0F60wqybwHwNhGg6LG7nnGJZfvXk8EH1DB-WC
+NQbfxXQ4Nb3mvOmDFPUY5eoYPxoGj1B8u-cMawPMUe9aMZEUpA9NWcafCUuagPubdQILIRtD0-5Yd8MXXOphMgDhd0_NoLg8KLSimsx1Jnsae8MR8NU8T7KY
+DErbj12k-aQS7e7W5gcBVZdzW-II5x9Bdkd7VorKviMI3ov9OnTwn5OhQSz8LxlBMQz9aQI4QQLIptQ4gtu4Ykr6lvJ8jiiZCT3F-a581DTyilkHofG6JHv2
+hVrBtskDc3hzbHD7bnfJIW0sw0uG9QFgENTfacsGhUxxOfbkcQ4NLI2OshwliW0KlMn6J6UzF8IXDmpgHTzfUajYdlNszedG0lFOMy0-E0_7VHzXV7OTa0iv
+GvpwH64dwpEDsMb6rMVso--dzJRS_x-RRcmscty1
 }
 
 AWSEntityColoring(IoTCore)
-!define IoTCore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTCore, IoTCore)
-!define IoTCore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTCore, IoTCore)
-!define IoTCoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTCore, IoTCore)
-!define IoTCoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTCore, IoTCore)
+!define IoTCore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTCore, IoTCore)
+!define IoTCore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTCore, IoTCore)
+!define IoTCoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTCore, IoTCore)
+!define IoTCoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTCore, IoTCore)

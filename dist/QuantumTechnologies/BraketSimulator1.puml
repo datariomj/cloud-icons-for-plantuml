@@ -10,7 +10,7 @@ nYw5tzs_AZNIMvxQy0Vl7-5VQgJUyGCdqlOh2S8-uFlZS_ZpxzV_IDy
 }
 
 AWSEntityColoring(BraketSimulator1)
-!define BraketSimulator1(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, BraketSimulator1, BraketSimulator1)
-!define BraketSimulator1(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, BraketSimulator1, BraketSimulator1)
-!define BraketSimulator1Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, BraketSimulator1, BraketSimulator1)
-!define BraketSimulator1Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, BraketSimulator1, BraketSimulator1)
+!define BraketSimulator1(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, BraketSimulator1, BraketSimulator1)
+!define BraketSimulator1(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, BraketSimulator1, BraketSimulator1)
+!define BraketSimulator1Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, BraketSimulator1, BraketSimulator1)
+!define BraketSimulator1Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, BraketSimulator1, BraketSimulator1)

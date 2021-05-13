@@ -10,7 +10,7 @@ VB-KMCqWz91bD054rl5Eod_8Em
 }
 
 AWSEntityColoring(BraketChip)
-!define BraketChip(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, BraketChip, BraketChip)
-!define BraketChip(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, BraketChip, BraketChip)
-!define BraketChipParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, BraketChip, BraketChip)
-!define BraketChipParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, BraketChip, BraketChip)
+!define BraketChip(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, BraketChip, BraketChip)
+!define BraketChip(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, BraketChip, BraketChip)
+!define BraketChipParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, BraketChip, BraketChip)
+!define BraketChipParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, BraketChip, BraketChip)

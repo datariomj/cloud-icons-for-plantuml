@@ -7,7 +7,7 @@ cr_mAQSD7mMGiEWLQBBgCnHV8Ixw2ju5o3-pVWLewySVBInw3VtdXXUEI_RQ7_Irt_VCVz7mqVOZzVtL
 }
 
 AWSEntityColoring(IdentityAccessManagementEncryptedData)
-!define IdentityAccessManagementEncryptedData(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, IdentityAccessManagementEncryptedData, IdentityAccessManagementEncryptedData)
-!define IdentityAccessManagementEncryptedData(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, IdentityAccessManagementEncryptedData, IdentityAccessManagementEncryptedData)
-!define IdentityAccessManagementEncryptedDataParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, IdentityAccessManagementEncryptedData, IdentityAccessManagementEncryptedData)
-!define IdentityAccessManagementEncryptedDataParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, IdentityAccessManagementEncryptedData, IdentityAccessManagementEncryptedData)
+!define IdentityAccessManagementEncryptedData(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IdentityAccessManagementEncryptedData, IdentityAccessManagementEncryptedData)
+!define IdentityAccessManagementEncryptedData(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IdentityAccessManagementEncryptedData, IdentityAccessManagementEncryptedData)
+!define IdentityAccessManagementEncryptedDataParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IdentityAccessManagementEncryptedData, IdentityAccessManagementEncryptedData)
+!define IdentityAccessManagementEncryptedDataParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IdentityAccessManagementEncryptedData, IdentityAccessManagementEncryptedData)

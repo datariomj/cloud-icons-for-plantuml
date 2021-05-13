@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $KeyAccessJustifications [64x64/16z] {
+xTQ5gaGn38HX8ALJDE__jEl7c8L_q-ioU9il3HpDxvt_z7l-bD-LTzsuUbiMcBShkDKUyrXwRMHbzzpNY4EWWTZhmyxt2UGza_AqTCBJCdFUOEvROkzys5x9
+Zt5j8FPwpgzPcujldNHk5U2D5xnpMGdwORpa7pDhcRxex-p0sNi3uqluzXbBRFV5-ySut3zMOhnw_o-yu7LiyCONG9rdM5sDHy3xatYqliLVwSYF3Jp0iO6G
+HqwTtrQUEVFzNePlcON_1-DRJLl_N_8HCRy2kEE9TvLzFBBK5tqSV5RzoZEXcY-y2j3Fj_om1ZaTu1pWdCZFpN_E
+}
+
+AWSEntityColoring(KeyAccessJustifications)
+!define KeyAccessJustifications(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, KeyAccessJustifications, KeyAccessJustifications)
+!define KeyAccessJustifications(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, KeyAccessJustifications, KeyAccessJustifications)
+!define KeyAccessJustificationsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, KeyAccessJustifications, KeyAccessJustifications)
+!define KeyAccessJustificationsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, KeyAccessJustifications, KeyAccessJustifications)

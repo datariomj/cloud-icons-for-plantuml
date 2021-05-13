@@ -30,6 +30,15 @@ from awsicons.icon import Icon
 # Source directories for the 10.0-2021.04.30 release
 dir_list = [
     {
+        # todo: handle non 512 icons
+        "dir": "../source/official",
+        "dir_glob": "Products & Services/**/*512-color.svg",
+        "category_regex": "[^.]*\/(.*)\/(?:.*$)",
+        "filename_regex": "[^.]\/.*\/(.*)-512.*\\.svg$",
+        "category_mappings": {},
+        "filename_mappings": {},
+    },
+    {
         "dir": "../source/official",
         # dir structure changed from Category-Icons_04-30-2021/Arch-Category_64/filename
         # to: Category-Icons_04-30-2021/64/filename
@@ -120,9 +129,9 @@ MARKDOWN_PREFIX_TEMPLATE = """
 Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 -->
-# AWS Symbols
+# Cloud Symbols
 
-The table below lists all AWS symbols in the `dist/` directory, sorted by category.
+The table below lists all Cloud symbols in the `dist/` directory, sorted by category.
 
 If you want to reference and use these files without Internet connectivity, you can also download the whole [*PlantUML Icons for AWS* dist](dist/) directory and reference it locally with PlantUML.
 
@@ -130,7 +139,7 @@ If you want to reference and use these files without Internet connectivity, you 
 
 For each symbol, there is a resized icon in PNG format generated from the source file. Where the original icons had transparency set, this has been kept in the generated icons. You can also use the images outside of PlantUML, e.g. for documents or presentations, but the official [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/) are available in all popular formats.
 
-## All PNG generated AWS symbols
+## All PNG generated Cloud symbols
 
 Category | PUML Macro (Name) | Image (PNG) | PUML Url
   ---    |  ---  | :---:  | ---
@@ -166,9 +175,9 @@ def verify_environment():
 
     # Check execution from scripts working directory
     cur_dir = Path(".")
-    if str(cur_dir.absolute()).split("/")[-2:] != ["aws-icons-for-plantuml", "scripts"]:
+    if str(cur_dir.absolute()).split("/")[-2:] != ["cloud-icons-for-plantuml", "scripts"]:
         print(
-            f"Working directory for icon-builder.py must be aws-icons-for-plantuml/scripts, not {cur_dir}"
+            f"Working directory for icon-builder.py must be cloud-icons-for-plantuml/scripts, not {cur_dir}"
         )
         sys.exit(1)
     # Read config file
@@ -420,7 +429,7 @@ def main():
                     f"{cat} | {tgt}  | ![{tgt}](dist/{cat}/{tgt}.png?raw=true) |"
                     f"{cat}/{tgt}.puml\n"
                 )
-    with open(Path("../AWSSymbols.md"), "w") as f:
+    with open(Path("../CloudSymbols.md"), "w") as f:
         f.write(markdown)
 
 

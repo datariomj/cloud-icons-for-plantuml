@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $CodeBuild [64x64/16z] {
-xTG7ajim38NX1v14UVS_S4R2o5rbcMId-NULn0_kvh_espStivpd2G1ZtWU6G_IibhlUM5w0sw3QUjg80z_NE-Y0i_9bIx8sKZ00F_G62OPWS6crZZ8115FW
-1xv3asGg6icwPgxZ78ZQi3tV59rLX_Z2gePcjvUX63iUKDjI0Css1C3ODe2-uo-NxruK04OiAUAb3dlOAlvKKrKCGQmRmfSCoRC2dZLWshC6pFiQCEzhmBol
-0VBcE_ogPmBFtXiWa97N_7ZoqR7IQ83w1J-WklaO0lHWPRLnx3iQM_a5ezb37O3OaM_eP7d7Jh7lwyUvUOiFZNq_1CO77_oGxtl0kUEjvRal_kh7SgN2EHy2
-NrzRgfzwsAkt6jgGAOWJRmfxzlMtoKIlNzQnTohioKTzsdsz7cXdlWRS_FRoeUiGpJDV0nuyKvHMtyn6ddigngDd9aMMpS5BdWfiVXF6wfAdlFW1_iHtl7Zc
-Jtn7Q-Knx4Fzm1UV__qNPtd6vvBxlg5pzHC5hFYqb-BJllYyrwXqqj-QydJR2lv2txxz0G
+xTK7bjim303HOGT9uFxNpOfqjrLMoSjh7bUL3ylT_aNVlbKHqVEy0-Jplf4hBkpMLxtez1uU1Zd0NnSykBRXavbLHu9gCu5uCzsH7NNJbsNlvYulHS9t4v2n
+osAxGzQznWMOQI3gvTeku-eyZkufQpvwaev5JVWwcCrneU3wNF3a5Gz1hWKWtfOya6LM8Atum_LtxmD0halUrPSIyh3qnat7sviTuxqApbugTDkh8NqCEE-j
+E-hV-3dWl9y3plivmBrwJSXHFmOyuHh1uN8_vWkFlYO6RH62wBxFX73rBJj8pKPQ_5ZOz1g9ElpSdr3aNW9ysV0QI6RJ2okrLV_3izrzgH_Ar3LVFCNk_lC3
+oRe7iHKliH_mrTwzPZKpx_I0btVV_BAsahkl9uvVvhg8TaVTySKZpxxC7-HE6f_hjkr5FUN9DuP9upeJTxpD0NS__pMKSFatsVEcWVBehJjlPI6HgBRdnu3y
+wArtSykoPBDzFmPmywDAiT4XR-fUV4P_unCltWO_wXCnN7oM3wKjFxXDNt___P_yugtLZtLRzv5amv_enmz-thl1p_l9p_jGP_waltNAczngzX_wzkqF
 }
 
 AWSEntityColoring(CodeBuild)
-!define CodeBuild(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CodeBuild, CodeBuild)
-!define CodeBuild(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CodeBuild, CodeBuild)
-!define CodeBuildParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CodeBuild, CodeBuild)
-!define CodeBuildParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CodeBuild, CodeBuild)
+!define CodeBuild(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CodeBuild, CodeBuild)
+!define CodeBuild(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CodeBuild, CodeBuild)
+!define CodeBuildParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CodeBuild, CodeBuild)
+!define CodeBuildParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CodeBuild, CodeBuild)

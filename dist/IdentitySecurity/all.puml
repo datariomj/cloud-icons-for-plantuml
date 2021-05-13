@@ -1,0 +1,75 @@
+'Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+
+sprite $KeyAccessJustifications [64x64/16z] {
+xTQ5gaGn38HX8ALJDE__jEl7c8L_q-ioU9il3HpDxvt_z7l-bD-LTzsuUbiMcBShkDKUyrXwRMHbzzpNY4EWWTZhmyxt2UGza_AqTCBJCdFUOEvROkzys5x9
+Zt5j8FPwpgzPcujldNHk5U2D5xnpMGdwORpa7pDhcRxex-p0sNi3uqluzXbBRFV5-ySut3zMOhnw_o-yu7LiyCONG9rdM5sDHy3xatYqliLVwSYF3Jp0iO6G
+HqwTtrQUEVFzNePlcON_1-DRJLl_N_8HCRy2kEE9TvLzFBBK5tqSV5RzoZEXcY-y2j3Fj_om1ZaTu1pWdCZFpN_E
+}
+
+AWSEntityColoring(KeyAccessJustifications)
+!define KeyAccessJustifications(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, KeyAccessJustifications, KeyAccessJustifications)
+!define KeyAccessJustifications(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, KeyAccessJustifications, KeyAccessJustifications)
+!define KeyAccessJustificationsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, KeyAccessJustifications, KeyAccessJustifications)
+!define KeyAccessJustificationsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, KeyAccessJustifications, KeyAccessJustifications)
+
+sprite $beyondcorp [64x64/16z] {
+xPO53a8n44GZpP-9xlrFYpliVnKS1gTzNKspyIpz9M_KY_kWGTogzdUd2zvDriuDguPteiCQq3dEl2uGitskqZ7-tIVXyq7bUBu7UDmpY0VW668vhDZCvyjX
+UyfmhcpC7mzzMV9zN61ffe4DF3bQpmVpQkO5Lka0lmD_q30FkZllTbuG4V4UvCje_9_Bc_Xdz7_M4gp7tpy672zGiVbU1z9rC4nu20oZ5GW0pFC1F043Zxaj
+F87KpuumcT41_3VdOBeQIAD2JXLrKZQzrmjjinWUrrzB
+}
+
+AWSEntityColoring(beyondcorp)
+!define beyondcorp(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, beyondcorp, beyondcorp)
+!define beyondcorp(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, beyondcorp, beyondcorp)
+!define beyondcorpParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, beyondcorp, beyondcorp)
+!define beyondcorpParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, beyondcorp, beyondcorp)
+
+sprite $datalosspreventionapi [64x64/16z] {
+xTK5RWGn38NXKJso8tptFstPqWj3kvnVjFGDnujIkzqkUEUQvZ2PXIHRsZctnBa5dhoRu_1ixXeGLzNeeqhw-pkHbESR4671NiGzyNW3WDJz8IB4o_wjvXL0
+pVC69Zo8nruxdhv0vW_W94-_8r_RVoVswdKztnI-UnvvFzFF6Zu0LlUQUeZWIu2ySkvrr8V4qsQh7lJBs1kClU7i-e0e7wHy_VhhDnq0a-Cd_M1X_E6F0v3x
+w_p-ayUVk2vmWCVslF_h__PV-Osy_OtZh_nMk-SD6FxIuEvtkzq7
+}
+
+AWSEntityColoring(datalosspreventionapi)
+!define datalosspreventionapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, datalosspreventionapi, datalosspreventionapi)
+!define datalosspreventionapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, datalosspreventionapi, datalosspreventionapi)
+!define datalosspreventionapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, datalosspreventionapi, datalosspreventionapi)
+!define datalosspreventionapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, datalosspreventionapi, datalosspreventionapi)
+
+sprite $iam [64x64/16z] {
+xTD5KW1H40HHjBDtTV_JubJGQ366vdRYpNVjs7zLi4PNTSDIVE-xWINQlZyvYGjh-swuY8SUtW6vjXz1ZErdGApjPn1p-ncvXnKUIOAbNW-npCknnEj9_71V
+Vt3zDVZXzyz_WCtVNwzz_yTvOBb_-C3wzqlihMV4tdp6MzuD_Z86_uPUeKVVr2loQ9Mdz7Q9bvRym3pp5Qm-_i7awGy27ju2p57q0sTj7lx0MG-U_w0Todlf
+CO-wj9yypzvwqH-i5_u1IllrtpK
+}
+
+AWSEntityColoring(iam)
+!define iam(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, iam, iam)
+!define iam(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, iam, iam)
+!define iamParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, iam, iam)
+!define iamParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, iam, iam)
+
+sprite $securitycommandcenter [64x64/16z] {
+xTT5eW8m48FXJUbab_kVzhcKr2ROgZ_EzCELp-e4D8S-nhy7ggl50t2rUi3GujENK86L1o9nrUgbX1Ql9RHuxVd-UFuLjjSLhg-KgkKvw1LUf_KZ_fRshMul
+mVEb_bKitroxt0B7rwksNbDlvVlZzRcvjFpYFF_5VFtCXWOVJ-DR1mqlOsS17dVv64mj3sl8tG-5SjCFWDdNnvD-Vv2HyS5v6SzLUyzrEyzDiVR1NMl_ZD-l
+sjG7SvMnBq_y_Qy5rDFish_a_vFVwHq
+}
+
+AWSEntityColoring(securitycommandcenter)
+!define securitycommandcenter(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, securitycommandcenter, securitycommandcenter)
+!define securitycommandcenter(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, securitycommandcenter, securitycommandcenter)
+!define securitycommandcenterParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, securitycommandcenter, securitycommandcenter)
+!define securitycommandcenterParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, securitycommandcenter, securitycommandcenter)
+
+sprite $websecurityscanner [64x64/16z] {
+xTGt5iCm38FXHG6ryVwdJU-m34HysVHFBlpSz9ByQwiLBbKzKFN0-svCU7pjJ3m1tlhj7RYsEQQliBCcC2wmCodUYxpWbED3-1jhByzdzGM0aJVNqRjzzDvZ
+u3NlZsYCUUF3_HNxyNiHfmliSZ2_vFjMz61-oVQ7ea_Xi-XnIVn7Qa-z-CJtf-Dr7_qz2AyUG7C-GzppV0Kn9KxvCn0NK2FDzFBgqmCeNZyWVXtUzy50QvzR
+KmxdOOzpWLVVFj89uz9BUPtaEk7z1DS9FjzgTG8
+}
+
+AWSEntityColoring(websecurityscanner)
+!define websecurityscanner(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, websecurityscanner, websecurityscanner)
+!define websecurityscanner(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, websecurityscanner, websecurityscanner)
+!define websecurityscannerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, websecurityscanner, websecurityscanner)
+!define websecurityscannerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, websecurityscanner, websecurityscanner)
+

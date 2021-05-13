@@ -10,7 +10,7 @@ P3TW9zP9siNjqKoV4g0c3tAqWpwEFnGxuqkE0mzU6XKNnEDhFI3ghOynUgkAU_8KVcDV
 }
 
 AWSEntityColoring(RDSProxyInstance)
-!define RDSProxyInstance(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, RDSProxyInstance, RDSProxyInstance)
-!define RDSProxyInstance(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, RDSProxyInstance, RDSProxyInstance)
-!define RDSProxyInstanceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, RDSProxyInstance, RDSProxyInstance)
-!define RDSProxyInstanceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, RDSProxyInstance, RDSProxyInstance)
+!define RDSProxyInstance(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, RDSProxyInstance, RDSProxyInstance)
+!define RDSProxyInstance(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, RDSProxyInstance, RDSProxyInstance)
+!define RDSProxyInstanceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, RDSProxyInstance, RDSProxyInstance)
+!define RDSProxyInstanceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, RDSProxyInstance, RDSProxyInstance)

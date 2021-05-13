@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $DataSync [64x64/16z] {
-xTLLegKm40JGIj9Q-r_mp7KBq3pxuk0ID_wym-4GPkRvrS035oEuNmwWYxlh04PofsYGV4JLOcTmmFdWG727xF2t-5goJg5yPHWiItI-4vYsObiOR18dq6G0
-paq3EIkJL2kYDKu4JnpABHXSrZgtGBXCuCaLgMqrlAsFY6ZecbpXEW3bN3OODqLVokA0SwBwNsBKk-Y4mLaZoEhRhATaa-phj4OTLiufz7lXEqRMyY-uwHIC
-wpC5BIfZb3Pkb7O-phSqm6VjDvUQaswjVDBXNE8DDgk5byL1kKG1Q3p9Su1-kiI92o0hKtTtl69SXxJXOZWNEA2aFUjmm6xhwVgAAcW-QTFgycL0p6ekMIIJ
--JqqMUODafJnd_DqnBZnwhhV32V6qn6uCTRO_D-ww31-YoN_nk5m-0S
+xTDLmgKm30NWKoLfSlQ_tPdh5Yvbv7_YmwbB-EyT3eSX8iFvPqR3HHtSpokGkwek5QZEdIoXsUsz8Tdkuie7tLc1PoYV3IJdl8w5hmI5f7EA8mTLofA0Qjmc
+aA1E8BSA36wgy6XCdQIbvDoICZ_vu8cYSmigr-NC3Ox6TGtV8y9x-bfUlaU4PUJ5kSvF4O7Ec2S8Drb1OwX2ES5NyXagftZA30YKSnei31mFsfflIMfGPvXp
+G3YdXQkbEyeNL9_hVyDDOKEzVhCZsqoCKkfDfzJbyhsGWhVc78Mhl1lVZ8I5JmgKQqQqXpioxxoWSqq7qEs9arvHJWyxqGRqBw5H52yIBQCvIS556LoX2PsK
+PmLw6v39YJfNU4CQmPgcmIa2MBH_Z96uVUMRqPtJDA4vU_rDURgitYXdU4KMd0XFry2DS8x4UUTPXl1lk3X_nk5m-0K
 }
 
 AWSEntityColoring(DataSync)
-!define DataSync(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, DataSync, DataSync)
-!define DataSync(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, DataSync, DataSync)
-!define DataSyncParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, DataSync, DataSync)
-!define DataSyncParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, DataSync, DataSync)
+!define DataSync(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DataSync, DataSync)
+!define DataSync(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DataSync, DataSync)
+!define DataSyncParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DataSync, DataSync)
+!define DataSyncParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DataSync, DataSync)

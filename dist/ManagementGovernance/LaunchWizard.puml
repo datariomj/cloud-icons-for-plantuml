@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $LaunchWizard [64x64/16z] {
-xTM5UiKm241X2WHx__UTaRlHQMdcsxakVxzg4j-s__vpfemZmcWcX_s0InP1SAdXxU6LfgEFyKgtkUKMzdrkgodSnAlh_sqytONfyyDst2jSyd8oOFoiNAAL
-uuYIRNa-2CxuBG-yvtZt1K5oW5UrYG2A5Autb0yV_tcOAWzkU5S5KhtdczzmYkgFRNzo1an-t0T9MVa1oHj-l-sJLz_dpno_9g_dJv_NFfqRwWeF1LdWAWmi
-UfRFUGlFyZ0Tm6fd-Tp-1Hv6ki2pty5LbdWGBF3qFMwQURv7oFVFD80dhssGsUxzSpd2I5vJoJpV8yptpoyWUN_xCoUAbkyd7D-d__wx1W
+xT85bkCm54JHSiIq_-M6oipVccb-3S4hE5BviltrLpAQsUUBsBrmfxr3Lof5eqlWq_2eMwV_Zm_wLKhwcHVxRgyfufcfNV-NyVhTZPulclC-eAt9eykWolSg
+-I8gApVX3U-3LstcoCDCkNg_eK7Uu62r3ihx4GzFQi-UVtTCOruip6cVGe0EiUUt_EGwR_dj_PCRAFFc0g_zQF4EvEBxJyx5RtW17v-Vd6_S7m7Vxl_pg4BL
+x16-PdPlONouFBl6AtMLbnGSR8XNEVTVTN19LypEVWYFlcvsZGfEB-CniCpd2do-aeLPcVq6bYRFryeAZdnSy2ppkGAVRmpGSVd-EG2vm4lpfdoT_lhh0G
 }
 
 AWSEntityColoring(LaunchWizard)
-!define LaunchWizard(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, LaunchWizard, LaunchWizard)
-!define LaunchWizard(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, LaunchWizard, LaunchWizard)
-!define LaunchWizardParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, LaunchWizard, LaunchWizard)
-!define LaunchWizardParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, LaunchWizard, LaunchWizard)
+!define LaunchWizard(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, LaunchWizard, LaunchWizard)
+!define LaunchWizard(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, LaunchWizard, LaunchWizard)
+!define LaunchWizardParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, LaunchWizard, LaunchWizard)
+!define LaunchWizardParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, LaunchWizard, LaunchWizard)

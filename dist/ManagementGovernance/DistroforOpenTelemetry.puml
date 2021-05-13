@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $DistroforOpenTelemetry [64x64/16z] {
-xTH75jim30JG8K7K-nyubWGNf4bmijJVk8xUiCPrjzlDJTNYMpQnaVYE0qk4-tcUkm7RIcI-SFKwp68Wy_6dlC3YZO5gncPTp1kc5AENPrWKyqA-y7wUtWQY
-cht-wx_bYIxdHLy8xmtdcKyNv-_zhLpDixmGFEi3T3LlvM6nmvnevTF0PXcOeGRWDA_qcNVX1rqmmp8Y3DbfoP-Q8sACxGsIT_AE5R5W4Qux0NaZBz08_Vpt
-GkV-EhPHdJjUHCilrgVZAHvVoEOvYXRY7Ao_Ph73S0J7VAzY1mEyFuRVjrd7UFYC6RXNVmdaetOEn3MTrZV7p6dxcCY9T5f_IvX0oq8wI0vdzNd_Cy7BHkAJ
-RR20P7dnr8qyJteB9JugGyf1sZiqJ7YyU2v9WqczI0WUtsDWnZymbFfzAFNxc2Ags-ts0m
+xPD7sjmW44IBt8dxNzScJE2F87kfjvgWfw-wQEe-DpSt9inosHQF1btK5KX4-TmleUCXBSHNlh8jO-g2H_STwdS-uRsLZ0_usaYRlY0KUiUT-GLQ5_o6ls3d
+VdpXKG_zDN_wRtwCstxX9-7X6s3JdvprHm3j-fcUn8UVWBZhop9CxRWGt0NVF1f9K0f40FpgStnVEQFy5yvGHTOOdQCEF_mzl9lH0oPsuYjIgr1hDUuKH3tm
+2xXMHdbVhCQk7rfSGtZlhgGOasxfDiv-BiCvF78I-51CPGvh8qOwqnL3T7xMuCxyZ5wv83--ov7ldNVlcY2VnSy5r9TlC0SndlmQNmpXlRO4RR4m-Is-x-yW
+y7AGYaY3d-GvhI96sB98vPSrI9Zqi17DUT3U5Ppzw5ESb942PRb8BSC97hfSP08T-KBhIhGHhfE1SDLTwhYAW_wJNrBzmCtDpHy
 }
 
 AWSEntityColoring(DistroforOpenTelemetry)
-!define DistroforOpenTelemetry(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, DistroforOpenTelemetry, DistroforOpenTelemetry)
-!define DistroforOpenTelemetry(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, DistroforOpenTelemetry, DistroforOpenTelemetry)
-!define DistroforOpenTelemetryParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, DistroforOpenTelemetry, DistroforOpenTelemetry)
-!define DistroforOpenTelemetryParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, DistroforOpenTelemetry, DistroforOpenTelemetry)
+!define DistroforOpenTelemetry(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DistroforOpenTelemetry, DistroforOpenTelemetry)
+!define DistroforOpenTelemetry(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DistroforOpenTelemetry, DistroforOpenTelemetry)
+!define DistroforOpenTelemetryParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DistroforOpenTelemetry, DistroforOpenTelemetry)
+!define DistroforOpenTelemetryParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DistroforOpenTelemetry, DistroforOpenTelemetry)

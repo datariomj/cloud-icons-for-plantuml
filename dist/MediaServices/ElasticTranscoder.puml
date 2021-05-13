@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ElasticTranscoder [64x64/16z] {
-xPP55aCv40EhKRx_XGVI0o4xi8vMeRBLyFModkcddzJw7gum0A-lQ1buPZfOVuutn7XNmiSM17rzrgSEdBerem_TnsqhYGv_lvD-Vvy11gxtUFn-bfYMWdmB
-r-FlIcD3xvM_gRJU6eHYnpUMUeKdsEv70TGB_BolvTx7scT8Nyivughmo3wCpazu6HUvjdoUMvjQguFT8Fl4rt-3wTs8H9mYHSid5chtExF3zRa4X0vzplru
-0otX1gcLzEUZdVhAi7xwZ2ZkbK_uTdZE9m_wVpB1-0-8ZV-73sFufJGmfd_U4mLly-NJTKF2UdwPQyTNwdz-hlRIpTOKfYrlMFt7ErUPKH0jbG--uwV6uRdP
-XtPWYZdmfkdnhCojkY8lnPpujUIGqxzx3VoAJx17VWgmiN_sRwa7NWuUOP0d7h2fCR3KDJutjv4dtlighw_VvSgQAA2tl7IzV-LJosIZvhZ9oJVtLpacabx2
-veH0p_Zi6pbJ-CM4eILYbgEeHxxsp-yCTF8ne9xdHp_ePdWNlWngpVqVQUe7KbF_Xvh-4pCBMnyhgDMQMgZFUHcfmObl_zH6flCTFZawo_IrrBhk_4y__Ga
+xPH7bkGw3C10POda_O_xWvjlEbaUkzQ5ZICK6EHdl7cZgg_Bimf07gzDdI6tqGgazLnVGhNZpXhCnxDBE37MqnLaXd-YY3tI9zM_CcYhv3Bl-WNzkHuGA3Vz
+NpzEahfLsYrTV_ytZm0axDxsDpKpRcNIwivVf6v_qpiazNEg8EDQRzVrEdAUL_eYcxzCf7wFpLfAr-lKxvd2GT6BrE_fI5VtLP6ry_jUdsIBkrr76NMhcuXv
+hdeCi5jdIXVJTpUWsT5HjidlslaLSoDdf9jtrkFKoiV-PaBqj4UqbX_q4ryBh5D_y8lFmgoWRfGALS_NFtw-hE5RJv2E-4Nn9F7R_YmWJJsBkkGL9-BMdzs-
+-De4oepsr_YHP5i_aUOVFwR-O49RfZF7G1jVXBp2Zwc3bJcevXT-iXPHglpyKKThuzp-zFt8SO_uxTdxrWKvyMS1KjDhNnj8jr--5SYr91XNFf16n2zr-zHp
+16ub-jxFbEKUll3vr6ZUPuoqjhxgr_gRXLY4ajqWhxY_MRzHWSixqmtvI6r5p_m-lv69i6T8YQD_jK2roRpVlx68w7zlCDPP2cpD7wX_aZdycP3XCVyJEiiD
+e9jxGv_wId6BuzSa-MCgmsD7XVdSj_GnkMkcFfN3azfRWUOlOID1LFIBcAhv9s_U_0i
 }
 
 AWSEntityColoring(ElasticTranscoder)
-!define ElasticTranscoder(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElasticTranscoder, ElasticTranscoder)
-!define ElasticTranscoder(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElasticTranscoder, ElasticTranscoder)
-!define ElasticTranscoderParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElasticTranscoder, ElasticTranscoder)
-!define ElasticTranscoderParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElasticTranscoder, ElasticTranscoder)
+!define ElasticTranscoder(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElasticTranscoder, ElasticTranscoder)
+!define ElasticTranscoder(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElasticTranscoder, ElasticTranscoder)
+!define ElasticTranscoderParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElasticTranscoder, ElasticTranscoder)
+!define ElasticTranscoderParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElasticTranscoder, ElasticTranscoder)

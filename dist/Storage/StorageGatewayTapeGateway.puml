@@ -9,7 +9,7 @@ kqP9Kx-sVtfr5A-sKi_N0ADssW0_Hn_ENocRY0FnQFxM9M80XZABeQuVtl2lDQgO4bJNTi-dNqjJNk_l
 }
 
 AWSEntityColoring(StorageGatewayTapeGateway)
-!define StorageGatewayTapeGateway(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, StorageGatewayTapeGateway, StorageGatewayTapeGateway)
-!define StorageGatewayTapeGateway(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, StorageGatewayTapeGateway, StorageGatewayTapeGateway)
-!define StorageGatewayTapeGatewayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, StorageGatewayTapeGateway, StorageGatewayTapeGateway)
-!define StorageGatewayTapeGatewayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, StorageGatewayTapeGateway, StorageGatewayTapeGateway)
+!define StorageGatewayTapeGateway(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, StorageGatewayTapeGateway, StorageGatewayTapeGateway)
+!define StorageGatewayTapeGateway(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, StorageGatewayTapeGateway, StorageGatewayTapeGateway)
+!define StorageGatewayTapeGatewayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, StorageGatewayTapeGateway, StorageGatewayTapeGateway)
+!define StorageGatewayTapeGatewayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, StorageGatewayTapeGateway, StorageGatewayTapeGateway)

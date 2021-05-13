@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $IoTDeviceDefender [64x64/16z] {
-xTG5SiD038NX9vRkV-2GCfqjM76PyeUp_ins_TpktND_5myWtw45foJUPEsCDLC04ikzBC9DXN2AhSwbCKwHgBb7nCGL7Oj5BRa9uPeFNk0HkUm0ecNpCy8L
-DlfQCe0PZq7izmdEgcJasxmsJEZRF5D_4h_1BpyWR_FMXyfXR_D5i4m3rHjz4avHliLtJkHLR_T5LA_n6OFl8cjA2MmlUsEGrbWII0ZyakVB4ENa6LvL1dtk
--y9pyC3p2XdFFNYvA3PoH6yfBabxmIMxxd_VmCkWGaw1sbF_qcKHMu6NjQRsow_Uj263H0N1dti7HON0QaeVDdNroqxHcajJoth1BqFxQilzkJFZMpvvllzF
-_lRrfyWRtk63xz79AtBUPpdw1DUKWtBmGSWQCq1ommU3ecwK0cY-u8DxO6gPSFKRUfx3wdr3ZtF0WwSDFUK4sDdxUDNDSo3GPJPlp0YjtvnP_TpktJi2
+xTG7UeCm38RXN_AK9Tt_kgMOJXevJ_VwicDUDlZtxR__HDx41qXVZKqo22ZZDNYqZCsQPe1Ar-kK3P7UQcPifMw-fNN_nRdKBY8ZyXKppctOuorfcN7K0r_G
+PUYz79ae3pyo7I9ruVrH7KW9Jy6utYjOtPMXh_DrGaLzdK_aUvHUv_Fn0_brlir9Ezhhl16QMGFPwxphFF7KN-dTX4ZCN-LdpFxGsgkil8bwa5K6Dtl9MsDm
+DOzI0cT6ihEtj0-HHZv1zXEtdltyKv02hWTCPC-zKNguA2xL8SUPjrUcBzYRPw44-_z-i29l4K_FbBTG7nPnAPjRPxToskErnNER4imlrv272KFENi1Y8wFv
+-WRQ_UozuxRgSTfAKp_vnqFhJlxQMbfvJH9UVv5VNtyLkl022Nn7N_W23RmHMUW7aaS9U0HU2CF3Eb3qWfS44b-a6IZsWfSq1vQD15Hxx0zTJpgSmoClVD9n
+6w27wp_GqHpGRFETG6UzReT47EauQmHGCtzrrgR-dltttmq
 }
 
 AWSEntityColoring(IoTDeviceDefender)
-!define IoTDeviceDefender(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTDeviceDefender, IoTDeviceDefender)
-!define IoTDeviceDefender(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTDeviceDefender, IoTDeviceDefender)
-!define IoTDeviceDefenderParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTDeviceDefender, IoTDeviceDefender)
-!define IoTDeviceDefenderParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTDeviceDefender, IoTDeviceDefender)
+!define IoTDeviceDefender(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTDeviceDefender, IoTDeviceDefender)
+!define IoTDeviceDefender(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTDeviceDefender, IoTDeviceDefender)
+!define IoTDeviceDefenderParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTDeviceDefender, IoTDeviceDefender)
+!define IoTDeviceDefenderParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTDeviceDefender, IoTDeviceDefender)

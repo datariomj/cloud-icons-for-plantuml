@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $MigrationHub [64x64/16z] {
-xPM7Ykmm40HhHd7w___t1OjbC7l2w8WNYh2XNMsIrFgM_F9BBwLBKZGlGySKW2A5OT1qoA1AbQ56LpYXCoeX1LLkLrlN6OqfJPeA8NM6JeWArhinDV3HWNRq
-Shm1zFK3wuPrFHAjzkY63Idw24clBnryNBcsJ2wiVzpDIlS5nb2_Fp2L15TUj25eaWfA2atPjNBR-rMIezI1zfxlS4OqQkhKSDfRlcCQuA7KfIp8V4jKsasF
-aGMPx-dCc-wKBCZyoKyz2yxykVIkUXLu7FgAfMiLX4xzfSyQLu6E_DGDpu9dlni-RdhDWintDAmOO_cNFjIlWdBBDmGkXRakbgvLy9OdR-UBcvu5cM-8TT_R
-JS-2p7TKIdFMwgIU1PdlhzrNN8QItjxo3I7DwYadpRrT-GCJZFUt5CmeUgOm5SPk3n-XhFdQxE4ZvklnpHu-qYYZGfaVx-4p1V0ABQJHP-uX32LxPf_ITAmx
-K5vxE4ReX0wqKNCFJvcilGaTipblXvXD3Oe-om23gKypgzVGT-MNN_u2
+xPK5ZYmn34JB8SU9w_x7_P0iMQkefqUuy0G3rQ_IR7vBVlb5Ir6Iz9QByJO58YYa9mZGU1D39IkC3PsUCNcF1YSTZLbMMx_j3t90MU1aX_4Ete1abZ1foDO5
+elwuhOAi0D19DW2Y2T8VCQjw5oGZlTjUSgulNP27Q-tE8qC0uB2IDopIkI29UOyRp8_ViVB20nEDP4QuY_HJBXU-VDG5-h3F17D5_Q1Npz13VZX_oJ_ev2w8
+-H6lqA2xxOAOd-aOGKyego3a5txGSoXut9-oT6LT1Sbl-fnRvovmtlMtFfkl0jxsjov8eU32Lq6oeDTGiFCZ3Qa8RFjBD-egA24_uCXEbxH_R9sx8EO79fHa
+0HTRVoq8-G57uUeF-Yu8-OcAqX9wq5yBGdx0Am3beXhVKGtv6P_ahBaCVa9pLlV9AoQGy7adCqIGUKt6e2TXnD381kCbA2GLyp0FBqc9P8KVvk4b3SKQK6QS
+7P3U1PE1uqNC5MXEjpvUvw40Odo4-LyQ6T8JWF8w3ysST-W2wAXX7jvYefBCSDuZpgiYV1QHoO72Pp5089DFCsfkpk_ABx_y1G
 }
 
 AWSEntityColoring(MigrationHub)
-!define MigrationHub(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, MigrationHub, MigrationHub)
-!define MigrationHub(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, MigrationHub, MigrationHub)
-!define MigrationHubParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, MigrationHub, MigrationHub)
-!define MigrationHubParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, MigrationHub, MigrationHub)
+!define MigrationHub(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, MigrationHub, MigrationHub)
+!define MigrationHub(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, MigrationHub, MigrationHub)
+!define MigrationHubParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, MigrationHub, MigrationHub)
+!define MigrationHubParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, MigrationHub, MigrationHub)

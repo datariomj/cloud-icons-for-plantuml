@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $VirtualPrivateCloud [64x64/16z] {
-xTG7RkCm48NXDuLJtltlkys48K0I8SNRumybSVbP8VClzFRMETn7DZya59CLRok1U3PPOO0txqaWoAaDKZTpQMx4V7rHGNezu9fYjzo0avLrRVM3EuPGuD9H
-6fex3S0p3Dha6em7_B6fW76j43pIct5M4haUVd0frZtN9r06h7jTFH43yEHQ6k1dkVOor9XFXF50GNccXm0Am8ka7_QANgnPHfEXc8lOQzZvr9PyA9-Bs4d4
-OJwd9jFZ-TkKbs--C9wh0BnEfmhKSH_p01msjr-8nVhtVG6MZ_ySYEE-OUTzpFyshtSCzLBVa7wbPq3obPu9wCYjljFFMzwAw_rK6Hjrhz_xutrZxFf4yZ8O
-6_xi4yc1ucKgfCYpDpGDl6wW61YpBnW9vNK59nNUZvsZ6GZUO2Ys0W81fDWGtb4Gaca2qT6a8NXBG7kx7ETD0Op721q2vssfWAYf0XByY7GLY7hoF_BszXK
+xPQ5eYCX34Kl420XkV__kIkbgoDlQDUtfoudDWR_G5wyS6srTWi-GcZ67HbSPcIaQivm5Q06rr2WVtPSa9qhs7U28gq4SAJO15neeM1i6wgasuXBrJTk46W1
+BerI47iz0SswlDr8GBX3dKqfXESCTEuGSOy3VwjzEm_VU8gU-qmbpi8NlE6NioEY0NNmbB3Z8wAXE0ynGT6OHuJip-Quj-W9A41gJh9AxBRcnwcHUipJGj5O
+sNDcQZ5EHfr5R34eT_2PcgHL3N8MOPUt_43xNCNCV91ACVPzlG-WGcxjp-zEwj_u3eZTteqAwBuVa2D_7bJJ6aS-1UFGrmk-8ySpFXN9dl5f2RcfVOKl-OoM
+y0swu4_Sz2jyqT_olD-VyXrji__OWay80_MpRp1s35ucf_cu-uAuFIxJCDZHxlwubLDu7KSb2reCA3KbfqAvWC0P1SZ82MdC1S82yxWooIcL7cI1SWdzUa4J
+Wif5Ej1ysffGuv457NAHae6aV0Hh9QMKgmR_7LwyU0y
 }
 
 AWSEntityColoring(VirtualPrivateCloud)
-!define VirtualPrivateCloud(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, VirtualPrivateCloud, VirtualPrivateCloud)
-!define VirtualPrivateCloud(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, VirtualPrivateCloud, VirtualPrivateCloud)
-!define VirtualPrivateCloudParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, VirtualPrivateCloud, VirtualPrivateCloud)
-!define VirtualPrivateCloudParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, VirtualPrivateCloud, VirtualPrivateCloud)
+!define VirtualPrivateCloud(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, VirtualPrivateCloud, VirtualPrivateCloud)
+!define VirtualPrivateCloud(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, VirtualPrivateCloud, VirtualPrivateCloud)
+!define VirtualPrivateCloudParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, VirtualPrivateCloud, VirtualPrivateCloud)
+!define VirtualPrivateCloudParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, VirtualPrivateCloud, VirtualPrivateCloud)

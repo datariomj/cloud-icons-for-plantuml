@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $IdentityandAccessManagement [64x64/16z] {
-xTPLOiCm44NHf-79_XVS6iE9FUL6Dmn7y2KV_dwzNYzeHt7j3Tivx9QFpKlzQXyUTH-C8ScQDu3Lb02lU4URnd4W2vvMvP221w_VDAhuuwJqIxpGtFYbVeEl
-hZ-5qNW9ODdd3PV5JXytzaGOak7pzBhJAmyDn8VN3Tx4tv-OgRP-0M3ZSys34dHSV_YntE9RK_3H4ux55kz0Y-F-tOvjcdzwhU__u3IFK_B7lj_JMMsd3xg8
-y_lEhxgldz_rwuU_Nw_NUmC
+xTPbOWCX48RXRmGdzxzkknfFOEeDRrmUv1Tx-FkDHgCi7ULh7y6jcX5l-Toyr2_sDQTYzranvOhD1q1zz08aYq_WPU8458ENNIKuWuSUjaWi_ZWfy-_mJjQc
+3nA-mLlNNvs2TOj8VUto4PVbJfzlx8anvQRFyskx3_DdhrCJITDhWuy-lJ-fictz3a2SdssUf90Srv_JiThYcJpqw1d7SejF12h7_QTuh6d--TMw_waaPNuD
+9d_i-ptBQTpfYrnMl-_yidlx-Ms_VlZxZKQZDm
 }
 
 AWSEntityColoring(IdentityandAccessManagement)
-!define IdentityandAccessManagement(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, IdentityandAccessManagement, IdentityandAccessManagement)
-!define IdentityandAccessManagement(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, IdentityandAccessManagement, IdentityandAccessManagement)
-!define IdentityandAccessManagementParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, IdentityandAccessManagement, IdentityandAccessManagement)
-!define IdentityandAccessManagementParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, IdentityandAccessManagement, IdentityandAccessManagement)
+!define IdentityandAccessManagement(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IdentityandAccessManagement, IdentityandAccessManagement)
+!define IdentityandAccessManagement(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IdentityandAccessManagement, IdentityandAccessManagement)
+!define IdentityandAccessManagementParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IdentityandAccessManagement, IdentityandAccessManagement)
+!define IdentityandAccessManagementParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IdentityandAccessManagement, IdentityandAccessManagement)

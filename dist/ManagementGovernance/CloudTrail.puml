@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $CloudTrail [64x64/16z] {
-xTDLOaKX40FG86FP_tvhFALCtSkvaXzS-ETisxQ5j5gR1jya6e1I0FJWwndGB4XgHV4tL2_60mMCh-DNVNg1yrKgV6ek-0eAcQVJwIBAboa8Ncje05wuaWRX
-983ceK3mUHtEcVIvvLm5CwNoMLuACmtsWdFRcH6WA9cBWkRCXHRKOAf2dr_UoeoXyraToem5drSAtqNWND4Xw8TC68mh69nwo8H1kM93C0wPq6N_RaFm_XTs
-bboGISUW1E2ECruBL2wO3avLZT2pgNg5ySrS0E620eTrFwJIiLACAzOQhTqxfD7R8rsTFyAsRTij
+xT15Wjn044JHA4wA-n_N90rrYysstkPl2fF_dDljTlDHIwaZU8bN02a1QC7pDA5ga245oNYMucsJ0Cfp7CdvoXACf-IF6pobu0a3dHye6drq2HxoV5r51N1m
+aehnF11KSpdsZmxZezwdaplt5N1DpjpbANDDXGOtHGCQrmmW3Mw8ZEfS5v9HWgiAXDkYet2Ded5Nn-0Q3UvBYT-bmxX49a6VkqAXN8A9KUQki9KXwoJeSrS8
+bCzS9ywlUqFVy463yrd3H0Z036_uaQDmWSd4AI8HyeOVU8Rngh2UCBX0W7dkSuM69LcvH6kbrg_cAhq-QSFuHxZTRhVF
 }
 
 AWSEntityColoring(CloudTrail)
-!define CloudTrail(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, CloudTrail, CloudTrail)
-!define CloudTrail(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, CloudTrail, CloudTrail)
-!define CloudTrailParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, CloudTrail, CloudTrail)
-!define CloudTrailParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, CloudTrail, CloudTrail)
+!define CloudTrail(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CloudTrail, CloudTrail)
+!define CloudTrail(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CloudTrail, CloudTrail)
+!define CloudTrailParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CloudTrail, CloudTrail)
+!define CloudTrailParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CloudTrail, CloudTrail)

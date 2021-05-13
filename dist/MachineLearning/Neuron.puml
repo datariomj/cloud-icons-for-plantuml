@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Neuron [64x64/16z] {
-xPQ9igmu240Fa138_t_mbCtCFBllXjTwjJRkceEo6VRVaxUy9U8MRM2_rf03nh7bht07ZRr3mQ_JIv3rSjgNK9X_BYTeN3GyFzvfqlFazCnJA6P7Wv-iJGND
-aqUyOVXfa386UbBzWnlIdinCnjw3V7A3vTVuozCeFbxUyAM2OBxg6-Dr_2I-vltfKX0Gv0dmBk-mjkfUuDVv74ZiWzyXZBp2Xw_KXojJvDWRcikZoG-WqZy0
-eWe062r-OMlKMC4TAPrZ6Ql1LyA8LZp_YvTAfLE3dwoTsDwrDtBNVZ4xV8999QAYYbRQYK4s-AeXGs97vK_i44pGwCPVT3ku4STDS_271tfykJ04xBWma2Zd
-TNa_Jh8oFmJ9kjNbwsKB1NTGLdrIbwzm2na24ebKGlJvIJXp5xyd7imh_CA4zFf-JyHOL_Za8UM_Eiyhl3FIqGUJYkV0-_ovXlxKJeC_ESbtO7LXnFQpQt_-
-VwSW_3SmG93yyVzTJsSPFTJYJnkYe-vEiEpFNoMz-UiyQErFP9Ng_lnTqfY_-_t3_VxbVlzqlt-xtp_Uxr_lzy_tvIrl-GS
+xPQ7ikKW28P_m882x_-wEtYRsMfkPgUU_zIGV89WY_-dbrwQymbj1IZsNTeRK2lG_5ju9yYCc0Bgz-d1uB7_lILBfvzXUuPYvxHNeFglbaEwRqatsqhHJrfG
+-kgj2Ru27mpIVz5JzeS4hK7sfcN-OxpirJQqY0QxZ8XYVyRtkpj_zM1_31uzTZaoVdZiwfX_vlLoIM20GHT0Jta5HZ370FG-xnLiaNmOe_eTtdGQetY4C-Tt
+0TjKE-GRKZqDXBVUTwJQ4JzGHaLD0v4gKVwhgADWdF0j2qPohRzGbhETyJCS9HAewJbpL-0nptW32a6I4eWW8t415S1E-9ZhOROm442mC5vDpjFw4uS2MZ3J
+MF9_C9sFdmfFdwXl5ncBevxpcd-Saijso9Vfd5_E1WHG1GHZXNJE1rD-t3XZT-ALaXjyWobwlF7HeOPsXvzPBrT0y-DPptc7TwG-yhVaTtX5SmKlnXdg3Ng7
+NzbcYINXLP4JldykaXhp0wcOeTkj-U_rsma4sAUPGBwjt__UFxn9jKzpbGzhUZZSltRj-zVv_hbhtp_Fz-_Kldy_FJyyFxyyFpyzFxyzFpy-Fxy-Fpy_rqil
+_G
 }
 
 AWSEntityColoring(Neuron)
-!define Neuron(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, Neuron, Neuron)
-!define Neuron(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, Neuron, Neuron)
-!define NeuronParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, Neuron, Neuron)
-!define NeuronParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, Neuron, Neuron)
+!define Neuron(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Neuron, Neuron)
+!define Neuron(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Neuron, Neuron)
+!define NeuronParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Neuron, Neuron)
+!define NeuronParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Neuron, Neuron)

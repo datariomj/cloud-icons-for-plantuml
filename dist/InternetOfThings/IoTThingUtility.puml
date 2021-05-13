@@ -8,7 +8,7 @@ f0ETzJ_tet5bsG_DINwi_N8kGtX-7GFgwKtZ-RM17WLhykdtTwK26dv9zPyPFotvkV-v7_FN0Vz4zlFu
 }
 
 AWSEntityColoring(IoTThingUtility)
-!define IoTThingUtility(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTThingUtility, IoTThingUtility)
-!define IoTThingUtility(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTThingUtility, IoTThingUtility)
-!define IoTThingUtilityParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTThingUtility, IoTThingUtility)
-!define IoTThingUtilityParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTThingUtility, IoTThingUtility)
+!define IoTThingUtility(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTThingUtility, IoTThingUtility)
+!define IoTThingUtility(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTThingUtility, IoTThingUtility)
+!define IoTThingUtilityParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTThingUtility, IoTThingUtility)
+!define IoTThingUtilityParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTThingUtility, IoTThingUtility)

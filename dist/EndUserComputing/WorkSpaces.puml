@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $WorkSpaces [64x64/16z] {
-xTHPUkim20NW0n88plxtUwVmtSIZxFQfRMWpyyU0SVYzuXtlYDRZCne0slYOpWxqZ0QeFz_qlAvRr3D8VOCBO5Uq0JfOuK0ZoQ4G4yYq8NzD2WMyfc59Eg1n
-pW5RJk7v-7phrACQDg35en-9nOcnCsy23N9K7muebC-eJmvzq82kW5UkxnMfSUmP2lHyZg_rtVquz2GwcGsL9BgxdtRk0sZ9NL_ZzOcNIl71TMJ3tFiGQEnv
-0zgOUwO1FTVr3u4E1kQ-2jNrw9oyvci7OkVKNVLCAV9SdLkU8bNoq5hTcyVNnyZgAhxh1KQceVPfubikV0vQpH4Gpdnsm5zy2E9_VdFsEFMr756-bloP7y0u
-zRMS3szqNHqlEuTFF4CV7hxNRqERU78a6T3OyxJ1dkU-yezU3o0-uncTtZ_eAnHJ3p_n1empNfjmu4CX4yxwzTdnsG7ZXSW6-CRxwagQDr7-fFH94-Mhz9oO
-dIRA-tAcTve8U3I8tzRLX4AhauhRJKnAdyHGvtUCTxpZDm
+xPRdOWCX38F51cE__-Dsd6Zfk73ZNuVQR7y42KFEVfV-zI-9gT-dUmI0A3Vf1AGk4V1LRKYhdgCr0x5lusG7LsrJTK3H4tHn26935OYlZyt35G_VZl3gC8jw
+UA7uYAnc77g90zc6D6qKqz1tQqdNFChm0SHEnFLF2rDqmR-wbCsmRoCD5sO1esYFUTdc69WxHzd9ACX3ViObh_6fMKmsjOo1l1bU28qSnSo7tVuiQrw0gBR3
+KmMe1_nRyxNl4MZ2CLzVuvFlFDUs7VCZgA_pvx1op3CeXqzyvzgUvDalihDqPtbJDv3HEjti4c_Unp7bsRgNlZ-maRbrhlBgaUcRfzAQPytajLaPEGBUrZpx
+gap-rR6yryTcITRyHWGP_6ZoMT-1jkRfb7osoiMQzJrfgokU7KOUTSzlG5pmLEjc0j_tU2tDSb_oitx_TGFa9az9ifhlyfJ70T_XweBFG5loF2OUyCBFrffx
+VVApI_NSPOIht_ZgFksaKoOcBs7_zsjjWZnVPZrDJnFaUNvT54q8Ae_UXLOc0WATtB-W2sBtrKArtwX__UiP
 }
 
 AWSEntityColoring(WorkSpaces)
-!define WorkSpaces(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, WorkSpaces, WorkSpaces)
-!define WorkSpaces(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, WorkSpaces, WorkSpaces)
-!define WorkSpacesParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, WorkSpaces, WorkSpaces)
-!define WorkSpacesParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, WorkSpaces, WorkSpaces)
+!define WorkSpaces(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, WorkSpaces, WorkSpaces)
+!define WorkSpaces(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, WorkSpaces, WorkSpaces)
+!define WorkSpacesParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, WorkSpaces, WorkSpaces)
+!define WorkSpacesParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, WorkSpaces, WorkSpaces)

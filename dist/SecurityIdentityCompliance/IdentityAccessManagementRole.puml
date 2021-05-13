@@ -9,7 +9,7 @@ DFVkl8K1iLZLJtEJ6cap2BIMrBbQ57fZ0a0Iy-tLSsfJO74YHlJXBJtTCH4c66TtBla708c4pv_2nSN5
 }
 
 AWSEntityColoring(IdentityAccessManagementRole)
-!define IdentityAccessManagementRole(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, IdentityAccessManagementRole, IdentityAccessManagementRole)
-!define IdentityAccessManagementRole(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, IdentityAccessManagementRole, IdentityAccessManagementRole)
-!define IdentityAccessManagementRoleParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, IdentityAccessManagementRole, IdentityAccessManagementRole)
-!define IdentityAccessManagementRoleParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, IdentityAccessManagementRole, IdentityAccessManagementRole)
+!define IdentityAccessManagementRole(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IdentityAccessManagementRole, IdentityAccessManagementRole)
+!define IdentityAccessManagementRole(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IdentityAccessManagementRole, IdentityAccessManagementRole)
+!define IdentityAccessManagementRoleParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IdentityAccessManagementRole, IdentityAccessManagementRole)
+!define IdentityAccessManagementRoleParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IdentityAccessManagementRole, IdentityAccessManagementRole)

@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ClientVPN [64x64/16z] {
-xTG5ii8m58NXSrtsl-2dwMGW46oyFqxprTl-U6TdPnNkaQzY8_n6MYzm0yWy8eo1v-SWu6F5Kq3rBDUUyYTdu8EFugaP5EXwZlAuL-JYlmXXjkfzuDKwVKS0
-VCjZESOWrHs4s7b3zQ8_LqGxBtH_xhdnF7iNV2VU8zzk076FaW1MPO3oy92uZSi0EJZWXyffZQHkSG9xZ_X0dU0UbOBg5lVf5xIF51DnyDBRp3lXCyd5mFMk
-s_jUdWO9k-Utfq4WDduvT3rc-FsqzRcL8c0vOeZaUldhxLTSfRlBW6ZsVT7i6Rt8ONi_1gvYwALFrUpk485kRyWb88sSVEAx_2R7zgSpkFf6JlY9XnTKGSRw
-CtuYwpkbcvaFpzHDFBpRTz4FDBn113Ry4od6vwzpejTyC_TtmVoM_-v57_6g7xtehthAfrsL_U7Epiw-
+xPK7hkGW40LVHnFlVznDLg_H38xwogw91WgQt7-SbvUNcbFAzQdiX7-GFQd20VQKStO6hDsqcq9AF1G1tmn1OUDZ0jsgO0azoE1sNQ_VfHFqkcyeaxISLSJh
+kTuWiqG0H40wzVEqZ4DRxuMHpwU-pQ9QlKfyvYiTrrvFV1bQQ4a884rjcubyh3VU_4A0c0d09Nn0yu7jW6mB0QcjOH1gHAI0jXszCcIBLR1jWc5Ic-rjYCP8
+mzEuZ6sSbRIpddtKUy4oxedInwTbviVaJloq-W7HH0_Xm3zS1Wdvs9yNdPSvzWlIIVj55Qp_4OYM-IQRDsZumkRJCHz_G_zWz9dc1vzVynDyvZU1jG-_clqD
+DQl2ZjPVL42UQzly0W3bhuBLRsNXWmiXCVx2uGjg9OdurqporlUfoTsNy9d_ViB_bvNx1S9tgCB3dt7iDrllpqJqo8_eiyXpV-MXd_DJFtZeVtBFh_v5wJ_C
+oylBRm
 }
 
 AWSEntityColoring(ClientVPN)
-!define ClientVPN(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, ClientVPN, ClientVPN)
-!define ClientVPN(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, ClientVPN, ClientVPN)
-!define ClientVPNParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, ClientVPN, ClientVPN)
-!define ClientVPNParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, ClientVPN, ClientVPN)
+!define ClientVPN(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ClientVPN, ClientVPN)
+!define ClientVPN(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ClientVPN, ClientVPN)
+!define ClientVPNParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ClientVPN, ClientVPN)
+!define ClientVPNParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ClientVPN, ClientVPN)

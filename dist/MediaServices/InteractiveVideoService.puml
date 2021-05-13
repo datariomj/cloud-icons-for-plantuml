@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $InteractiveVideoService [64x64/16z] {
-xPNRUWGX28EH4V3zNxZdV9glKjcsUpVSxF4VJ8modb5ttHKstriyJ7SHnmSNwV4GRasObsPrsbMazvNlNKIzHiSbSiLW7j-U2vsOnwfEj3SePHwkj9z5X8Z6
-oFWHAXB7rKV6nqa1_XCxFl3icWNCGtofJ4ITULSHAy68G5lvbcp-mGRm9BnOVMO-BX9UvQzYvc6xCI-UPTwQ9xbdVfTv-evvHJVmC_EyDRhd7QPFdcE73vxm
-oDx2esMFPJ4PZmQ-y8Yqs70iB-VHZNXqXZqvZsQDU3mLHgOyYGK_DxTZ0JaFivc7gzYVZ8U_n8EQJyfuGx183rQzAB4zZp-kF5R4JkvuG_mN7iAvNBTNKNpJ
-SsLpipQ7PkuTGBLOk9EAuWJc-GrpwXEOx-_gz9r7aFbv-AeJcFalHwn-xpDFDz6pvZTERyP7xY9VLNlUS8EKaiCyV3qNZYpp45QVlhhocZkVsp1v4buicmr3
-RJoZxhhh5G
+xPQ7hjr024JnThFm_v-RDa8sRWydUQftL6uzks9erk_GHn_9khrVvJNT5sBxmBHqUOMlYMZF4wKrJiz2I-zxllU5oepHqeYgwDZpGwKIDGdWOw4yLO-ywioq
+ZAzeJhGWKi_3bOKIFqTEL4JlU9L2zEn28_F9y-OhjI-zXqzdNkpiW0NZp0yBFfO2zZoR-U4II7i-dP8Vj06y2poejjMyr5LVQr159GR5UHnulglvaVdgFihi
+-UkQvqmqhlX2LCNpvvgNIbIkUVvjUXVFgtIul_l0D_oVkPDMp-lM-lRpFQ_QOJe-cr1zlytegiyyRZlmg7xOyyoZVvBZxLGO-SnRi9v7Hs4kFl9cjkTjg24_
+zxmbs_56RIVTyGF5vdXCy-aZ6TSy0dSy0Z_DXaiUUNVyzTIP-OfNq3j-lLqvCzJ_Mzspw4kvL4oaBog4wFTtV19P3VhzZTgB2Itevp-U2GAmzVYHjnzkvOlr
+p5jpVEl-HlVUyH9m4ILxvgqNWjltpCStC5hMyxPFuzitx_dyTWDpylMRM5zg8958sz3lq4SV_GG
 }
 
 AWSEntityColoring(InteractiveVideoService)
-!define InteractiveVideoService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, InteractiveVideoService, InteractiveVideoService)
-!define InteractiveVideoService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, InteractiveVideoService, InteractiveVideoService)
-!define InteractiveVideoServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, InteractiveVideoService, InteractiveVideoService)
-!define InteractiveVideoServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, InteractiveVideoService, InteractiveVideoService)
+!define InteractiveVideoService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, InteractiveVideoService, InteractiveVideoService)
+!define InteractiveVideoService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, InteractiveVideoService, InteractiveVideoService)
+!define InteractiveVideoServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, InteractiveVideoService, InteractiveVideoService)
+!define InteractiveVideoServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, InteractiveVideoService, InteractiveVideoService)

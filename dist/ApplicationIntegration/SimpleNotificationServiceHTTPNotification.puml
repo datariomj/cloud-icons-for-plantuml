@@ -8,7 +8,7 @@ y0geUtkuppwrw-lpfpUwV-9A_-C7xFzdtn_R_Nyok_jdT__kdf_Ty_jylW
 }
 
 AWSEntityColoring(SimpleNotificationServiceHTTPNotification)
-!define SimpleNotificationServiceHTTPNotification(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, SimpleNotificationServiceHTTPNotification, SimpleNotificationServiceHTTPNotification)
-!define SimpleNotificationServiceHTTPNotification(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, SimpleNotificationServiceHTTPNotification, SimpleNotificationServiceHTTPNotification)
-!define SimpleNotificationServiceHTTPNotificationParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, SimpleNotificationServiceHTTPNotification, SimpleNotificationServiceHTTPNotification)
-!define SimpleNotificationServiceHTTPNotificationParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, SimpleNotificationServiceHTTPNotification, SimpleNotificationServiceHTTPNotification)
+!define SimpleNotificationServiceHTTPNotification(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, SimpleNotificationServiceHTTPNotification, SimpleNotificationServiceHTTPNotification)
+!define SimpleNotificationServiceHTTPNotification(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, SimpleNotificationServiceHTTPNotification, SimpleNotificationServiceHTTPNotification)
+!define SimpleNotificationServiceHTTPNotificationParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, SimpleNotificationServiceHTTPNotification, SimpleNotificationServiceHTTPNotification)
+!define SimpleNotificationServiceHTTPNotificationParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, SimpleNotificationServiceHTTPNotification, SimpleNotificationServiceHTTPNotification)

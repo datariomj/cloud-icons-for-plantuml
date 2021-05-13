@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ElasticsearchService [64x64/16z] {
-xTO5akH034JH59GWxt_WZGwxXa4xJByPdfdubVlhBxSZRxwamYvUvazNFy2xdkNBFEJWS3vJdEKjlzspFh2h5_h8I_vYN_krD5_kqvha2_tjEkePdthcDtsw
-gQsyTezwny45LxuT00G0ri3lr-q3i6YI7GefMloNNnV3piWc4pZrr0UqcOfBLcn1JNrgiQ2a0HuP1YosI0_z9KFJu0TfnM9YpNt16N3k54N5t2yKHNXLGnd8
-iLTX8dYTeni-zg9SQ5wNI8gDFUnyioi4HSTUx7NZrxsuTWj5-CplnMMyJlO2dVb4q97SBGGTFVOKOGloYYiBofdlR2QS9R0acGfjAk2Sxt-6nNOSBTAn33Rt
-L3ZPuURHRBrOX_ROqo3HlDGBG91Sa6RMp3C4K7DJG4AmI0QaoA4dqmI0U9AjS989rDZVxbXy9UYXJorUjnTVOGrzN9y_EvlaWZRx9Vvy3SXIr8izKu3WoptP
-v2D-ny2kvjUFvNOKxFtM1zUldzTVV_q3
+xTPLeYKn28JX8Wg1slzonzAvBao_ZFx7vMit_iRzxtynsgxxBRzmqfj-k_KN-5wlx9w7R8x-2GgzicV-k4-zukGt_RJlTQoRVfrNhtRVMtEID_tpGlqJR_Mg
+Rt-nqMeR5YG_yHsR2tXyT00G03BYStzUZrUWQP1qBP35fZ_b1yeYtTI2LC7MQQ-eGQluNbtqWfNrLfqB9Q91kfesOD158kc_r-1iw9junQ1XvFr2vqJdLLGi
+LaJQ3woG4ZmvAXMMzbLecCz-za1FUwaSS3vcC4fBUpHsn8i3KIbfButZcJSefQPzATVYEWsiG4_xZWWqyXHo5cZE6oOxbAS1PKUaVHI941Xt4vMEmfnt2oew
+NT0i65PH8oesJEv_3PFHiHl1Zj7G8ksZe0TzzjOr61MD7AYHzOm6qMl_6zS5m4HncgSygGBKrbi1YXPCaWfPPD8pj0c0qesCVTuqO6Nyws8llYNmfBVgBm_n
+GIwCfDV7ysUOxqDoqE_uwtL2Hi6wxMa2AEzxqibt_8cAqyfVFwxUTfD-tevuTVtw6_M__tq5
 }
 
 AWSEntityColoring(ElasticsearchService)
-!define ElasticsearchService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, ElasticsearchService, ElasticsearchService)
-!define ElasticsearchService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, ElasticsearchService, ElasticsearchService)
-!define ElasticsearchServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, ElasticsearchService, ElasticsearchService)
-!define ElasticsearchServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, ElasticsearchService, ElasticsearchService)
+!define ElasticsearchService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElasticsearchService, ElasticsearchService)
+!define ElasticsearchService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElasticsearchService, ElasticsearchService)
+!define ElasticsearchServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElasticsearchService, ElasticsearchService)
+!define ElasticsearchServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElasticsearchService, ElasticsearchService)

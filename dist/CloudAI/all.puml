@@ -1,0 +1,123 @@
+'Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+
+sprite $AIPlatform [64x64/16z] {
+xTOrUaKn34JXnf-aRlQ_sZ2OPgJaCPp-lsZ2qBDdrWT4tncyAHydzwPzv5nxBtYyDtgybp-0vTvJ3-Br0_Hc__xTjPG7zoZ-mxqFr7Bc7QNu_zTi2bqnzLTl
+mYjUVm3Rryi-Fz37dkEplHzVHNdiF8JlkF3q0ctvzAjVVa8J_sxhOqhvDUMRJLLuKtyVIov7W9608E4mxo1fVzdzrtFdUltArn-0xn_CzyA4bnpr_uTzLG-I
+rxo3LVFWLUOV2juuTwXoVzhp4p9_uVFdLPs_dprx1G
+}
+
+AWSEntityColoring(AIPlatform)
+!define AIPlatform(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AIPlatform, AIPlatform)
+!define AIPlatform(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AIPlatform, AIPlatform)
+!define AIPlatformParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AIPlatform, AIPlatform)
+!define AIPlatformParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AIPlatform, AIPlatform)
+
+sprite $AutoML [64x64/16z] {
+xTH9UeH034FX_h2Jyeft_zDcdYeHZK5PelrlgGTWofKhzJF0urUwVFRZq86iiWPKMGTA-UeVgB86L3a7j1-mThnVFtRvEBEUVruVWSmM5zvP7o4FfA0gwuON
+osNYDSjfliHRZFhtUDptOVAuzyTFTFA7Jwj-7d26nytmOa2JQp-wV_oDBn2l7lPvtkFWrOF9uPXVXBVgeV77_ygwuO7VRyo7447bYq--pP7rqVS8deVvsAtF
+Jhs_VeMRv6wzTu2sBtKWmHe0re7ra1z_3e0rW2bNhZm3
+}
+
+AWSEntityColoring(AutoML)
+!define AutoML(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AutoML, AutoML)
+!define AutoML(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AutoML, AutoML)
+!define AutoMLParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AutoML, AutoML)
+!define AutoMLParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AutoML, AutoML)
+
+sprite $cloudetpu [64x64/16z] {
+xTO53iCm50HHeVy8z_wdBGKDLTUreE0H55yXYK5PirbwrBux_GjhDC2NljrxDABhGyhN09q3P7f9KFZbiUjfUGruUZnxXrxkMoSXE2VfkEUTVvva-kFq3VZj
+_CU8Ns9FtlMRUqwb8zVpfW_8kUJx_0nidoLrUBP2ej-pbMJvfTfBkS-fxndrzFXWo9DpEUEtd3zqSB7KC_-eA01idrJ5FTEhbU-JceNX_URwtyhdu_ktwMUp
+Am
+}
+
+AWSEntityColoring(cloudetpu)
+!define cloudetpu(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudetpu, cloudetpu)
+!define cloudetpu(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudetpu, cloudetpu)
+!define cloudetpuParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudetpu, cloudetpu)
+!define cloudetpuParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudetpu, cloudetpu)
+
+sprite $cloudjobsapi [64x64/16z] {
+xT853WD134FHuZX2t_-qPOYQKHKlqnULdhl4QRQ5KadmPGa-l1_MG_H7rnamkFS5W7zVurg1pznlVlFA4F-a-bW33tkN6gXflw1vPvC3WOi3DUvFX3na_Uch
+lmiWizvnDq2U54zNvW1-VbqO1YJFJZrdxcrG7mOGVEBnZyzFDdiMzfeDcEa-DBi1jXuWNWZX8gfDQO0Z3x154jVRkW8
+}
+
+AWSEntityColoring(cloudjobsapi)
+!define cloudjobsapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudjobsapi, cloudjobsapi)
+!define cloudjobsapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudjobsapi, cloudjobsapi)
+!define cloudjobsapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudjobsapi, cloudjobsapi)
+!define cloudjobsapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudjobsapi, cloudjobsapi)
+
+sprite $cloudnaturallanguageapi [64x64/16z] xTOr0e1030LH_AVB_K-BLRWxCtKUBkjtHvIrMZctt-DbPlB5rUFj_MkTL__ur_Z1yr_kipDzFD497i_zntF_x_FSVstnQlqFrtgPEl_ZDRu6Dwy_y7T7L
+
+AWSEntityColoring(cloudnaturallanguageapi)
+!define cloudnaturallanguageapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudnaturallanguageapi, cloudnaturallanguageapi)
+!define cloudnaturallanguageapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudnaturallanguageapi, cloudnaturallanguageapi)
+!define cloudnaturallanguageapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudnaturallanguageapi, cloudnaturallanguageapi)
+!define cloudnaturallanguageapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudnaturallanguageapi, cloudnaturallanguageapi)
+
+sprite $cloudtranslationapi [64x64/16z] {
+xT853eDG48JXwhn6z_wdhMoGXKawP8XKtbzbmuS7rUiX-nkFZUtptN_fWzJsSNZh-zxZBE1wEBid0zyZcD-oozODN0eVV1OgB5fpxQ_41sySG3W-tl3zNc-W
+OShng2rvosyeNbluuKVTFTv06vpqXPKD3AxyqRniWBpc6N7ouhwp7_ugNaVZrMla5S_Xoc3ObkH3wJdsp3FYmeVmOWFX-z2SlMxmF93H3RCyhzruf3sF36vx
+CJHzh_S
+}
+
+AWSEntityColoring(cloudtranslationapi)
+!define cloudtranslationapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudtranslationapi, cloudtranslationapi)
+!define cloudtranslationapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudtranslationapi, cloudtranslationapi)
+!define cloudtranslationapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudtranslationapi, cloudtranslationapi)
+!define cloudtranslationapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudtranslationapi, cloudtranslationapi)
+
+sprite $cloudvisionapi [64x64/16z] {
+xP053iGm0CCafGFX_l_QOpwdQdOC5WxigfdUbpz_f1jrwIRzba3HZZBpy2Ctwj9DUXuekY0RGKYWCxE6JmFbKiX6kB3XNQ3Jsq1F0uL_Qnr1r_guWZuIR7CX
+q7t0Nnty-WXokW_8wixtWVw4eUOF_GaJ1thm-RUsWDTjWNrZ-q2Yyuf7U_2w7y5_QYXKteS1hzS3YSutfHTH0GxF0e5-9D0Pr2F0phXHX-5JG0y1EmFq3D3V
+Xpz_bW
+}
+
+AWSEntityColoring(cloudvisionapi)
+!define cloudvisionapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudvisionapi, cloudvisionapi)
+!define cloudvisionapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudvisionapi, cloudvisionapi)
+!define cloudvisionapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudvisionapi, cloudvisionapi)
+!define cloudvisionapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudvisionapi, cloudvisionapi)
+
+sprite $dialogflow [64x64/16z] {
+xT852WGn64FXrJ9exd_QjU3XPmEFGVlGoZTQdTXkVIBQ4Us8TaGxeXtHZcX7j2FQ4UseXyy_HhG36fwVusZFhtUcZoiCUlPvXTIpZoiCUlPvXTIpp_NGXNUv
+sdkNQxrtkT9xv_dIzsqVRRzw_f384sYiqKiY5z2VY7Q0Ew8Tu0ve5pyDUObu2NaXBo4lv2NYbv0NgT6ytHi
+}
+
+AWSEntityColoring(dialogflow)
+!define dialogflow(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, dialogflow, dialogflow)
+!define dialogflow(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, dialogflow, dialogflow)
+!define dialogflowParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, dialogflow, dialogflow)
+!define dialogflowParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, dialogflow, dialogflow)
+
+sprite $speechtotext [64x64/16z] xSkr0S0m3031Ij1b_sd3p4p-RmpIHTT5fccstslU1pnUisoDDytwgSUtvzgxsZiz7kzvhTlKjRozp-FnIvy_zVYo7Qk_zVZbA04
+
+AWSEntityColoring(speechtotext)
+!define speechtotext(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, speechtotext, speechtotext)
+!define speechtotext(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, speechtotext, speechtotext)
+!define speechtotextParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, speechtotext, speechtotext)
+!define speechtotextParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, speechtotext, speechtotext)
+
+sprite $texttospeech [64x64/16z] {
+xTOr5WD130JHP9xKcUv_MZEpkynMvNzng5vLrqaYUXda4kJID_gL_4mVn-qmtskLwRM9UZbUm8yR_VbMFelv-WSV9qle8w4FwYFFUCsxmKT27vVyBHtxzkFc
+xt_QIs_pjUK3-h9yxN33x-vfplypUhzVnNqIpqz-0nvS_SveMDTD0G
+}
+
+AWSEntityColoring(texttospeech)
+!define texttospeech(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, texttospeech, texttospeech)
+!define texttospeech(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, texttospeech, texttospeech)
+!define texttospeechParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, texttospeech, texttospeech)
+!define texttospeechParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, texttospeech, texttospeech)
+
+sprite $videointelligenceapi [64x64/16z] {
+xTOr0WCn34JHeEpkt_-sgUs9GkEmVhNqbeb_hweYDA39f1Vw00mlAn3VFDzxulCL3Fe6tu3plYT-6izyJ_nXdZ2E3rgyR2_nFV72fK4lzZdFlUJwMEI1ktnC
+7G371t1mV93q9Hx0EFu6cDV_Q7ZZ_d_zy_VwzuVt_hlYhVTle5mzwgNhtm__-sTzVrtF5M__V-1xcRIqggfE
+}
+
+AWSEntityColoring(videointelligenceapi)
+!define videointelligenceapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, videointelligenceapi, videointelligenceapi)
+!define videointelligenceapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, videointelligenceapi, videointelligenceapi)
+!define videointelligenceapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, videointelligenceapi, videointelligenceapi)
+!define videointelligenceapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, videointelligenceapi, videointelligenceapi)
+

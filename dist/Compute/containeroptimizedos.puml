@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $containeroptimizedos [64x64/16z] {
+xPU5SiGm34G7F947zVzVMuQD-xAEUWpR7cgV6NHv8ZtLHLMszJzgbPfP5PfLm5aLcbN0pRVLAGk8-DfDjD1uReF7Fzzw2qXYqpfSI7ZZie7X3VgOJy7Ootm7
+dlTUV3jDgNRL4X_hUZfeB21CfpefoCn5-ftNjdYpZo5eci-xOHnUq_rORzduzYmwsfiDqcLCxtFAApLsPiwBipKOp3clhGtXH8vNpneubCz3-Sn3UBz-BiPd
+dUVzwtcgdhyY7inyVga9t26DDMM6yWjP_RMWzJidbnhIVipCpFsbd-eNeANtXEBxrU4SKsKv0M6wdW1nswi9s3IoVmoA2UWfC-0Jv---X9F-Vl6JUI8zzGe
+}
+
+AWSEntityColoring(containeroptimizedos)
+!define containeroptimizedos(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, containeroptimizedos, containeroptimizedos)
+!define containeroptimizedos(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, containeroptimizedos, containeroptimizedos)
+!define containeroptimizedosParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, containeroptimizedos, containeroptimizedos)
+!define containeroptimizedosParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, containeroptimizedos, containeroptimizedos)

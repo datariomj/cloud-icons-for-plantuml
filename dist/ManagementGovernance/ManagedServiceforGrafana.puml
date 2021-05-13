@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ManagedServiceforGrafana [64x64/16z] {
-xTD7WY8m34JHih9q__jE82SrOZnB_hgVxGQg_clVlgMvH_wxPnnQH2pw-La9TbDXMWld5kNO6_nwLlZXh0KVUq8zvNEVa5VUfbvVNHLplrQzyZha0QddSkm5
-yTBBplEhm3Fkq2qloBhF_F0icday_Hta0--mrvxMS7hvslFHvsbPy6vwrNWSsB55i6PwrdWvC5RpoFxdJCZ6LsGpX_xvuKS_czFpz0GVUbgrumEovVKolVIy
-z-dvxFlf1UpU6-Aj3-YMT_2MBuPj-Lo87Ly1oXrV1jdonV0jd-kmm63_Y_Xmf5MLyynNWAffv4iXMxu8lkLp8NTyEUWTrvzyARH_dGi1WFUy-mWob1S0i7hM
-JoLMrbrXnsj9B1hKJBdIbG5WiKPD4-ZnsgSN3oCqBnuM05PpxQWOqEs-VViD
+xTD7aYGn28NX9q060VS_xfZsHigYHjEx-hSPdroGyLzxzCY6JlD_zuAd2h6qTlzQ3jRHgZ0Ll5ROqtv0tzSoVLgBCDEUYyVN59hbXXeBFxA-huuwyvxAyb0z
+oIVQqhUaRykNTjIaBnIhidvkBbeavoiiFZVca-SKzyBhanEblAAlFUUym3U-nDziZjw42tJ97H9hBtXYpn5jnd5WR7pxorZQqEdxSMRunhlvvdVO7zzqCpax
+tw6VP-5EJoLElA7c_UMlvsgVlQdVzaGVld_s0_EcdsX7Nb6FV0Z6aNU2dVYO83_nqL6FV0Zqo7jvUW8J_OlaQSaH4IgMyZ717fioFZhQaG-67dalnKvyAFWM
+RrS-siKJk3O6S7r7nbpHsQK0ADBLuoehnUDJDYe10DTXSJk5V3pnqxOaVNeaQ-XF3zNbUTkcJpIT4thblvGM9qva0ChcnAccMlnuZnxz1W
 }
 
 AWSEntityColoring(ManagedServiceforGrafana)
-!define ManagedServiceforGrafana(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, ManagedServiceforGrafana, ManagedServiceforGrafana)
-!define ManagedServiceforGrafana(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, ManagedServiceforGrafana, ManagedServiceforGrafana)
-!define ManagedServiceforGrafanaParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, ManagedServiceforGrafana, ManagedServiceforGrafana)
-!define ManagedServiceforGrafanaParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, ManagedServiceforGrafana, ManagedServiceforGrafana)
+!define ManagedServiceforGrafana(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ManagedServiceforGrafana, ManagedServiceforGrafana)
+!define ManagedServiceforGrafana(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ManagedServiceforGrafana, ManagedServiceforGrafana)
+!define ManagedServiceforGrafanaParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ManagedServiceforGrafana, ManagedServiceforGrafana)
+!define ManagedServiceforGrafanaParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ManagedServiceforGrafana, ManagedServiceforGrafana)

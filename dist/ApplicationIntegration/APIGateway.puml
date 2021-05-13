@@ -1,13 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $APIGateway [64x64/16z] {
-xTC5biCm30JGiIfRqjp_lcMkqWqjUzuBvvlDjTFJ4uqlQJ5QA-1yYWCQOtNkan9IBTOotqoI4X9DvfvCIaZqi4zAIFImVrT2E-lt_bn2oxnpdAV_V2zIgG_7
-D5-ASlDm_CZ-_tplDji7IIgSCSjRSP95wCLcUCF16ngzm2Rx4-S6mMC1Ktqv3G4s9r2c-We9ii98Xg1EzJmMKCgPSx9dXJagIKFb34-ddjuvPta6PDdwTP_d
--_ut3yRzOTCye9I7OvhNQcptXtxa-_n1ROmtHURP1ESYXlmPGnhJH1MWg0rvqm98ZOG-5Y6PbmHdyIf8_04xnyMpyNMkdPwU7G
+xTC7RWKX40DG3toMDhx_TOF2Jv_jcuubgpywl3eZ8vhu8Katwm0Klai1mgOHQjDYUG52tQ9zJfPFsHiZ69gqFTb7MDGDpdkop8wWpthUzn7iaqnTh_a-Gh9y
+uJRFylEzyv7XTTq-BpBnzgPdr_zFVSs7lR9bGg4UybaAgU9O91_m6LB9ZCWgoBjzvxn1-JZ0NY_z273hGFRw2ATaH2Qf3d6lRzGhdR1nZtZW_2DomSH-XWSy
+AmCgMoeFUIhykVTRoZ4__d-kolgwUPy70dshkzTZdmzJPcgDzwQmviVzISXRV0vYUOqUVOXvtp5yL5gfVOWovql7bVEfqG7YBEyQTWQsXZ2yZUrKwtmhhyx8
+o0C
 }
 
 AWSEntityColoring(APIGateway)
-!define APIGateway(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, APIGateway, APIGateway)
-!define APIGateway(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, APIGateway, APIGateway)
-!define APIGatewayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, APIGateway, APIGateway)
-!define APIGatewayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, APIGateway, APIGateway)
+!define APIGateway(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, APIGateway, APIGateway)
+!define APIGateway(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, APIGateway, APIGateway)
+!define APIGatewayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, APIGateway, APIGateway)
+!define APIGatewayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, APIGateway, APIGateway)

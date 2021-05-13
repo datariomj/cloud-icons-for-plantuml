@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $StorageGateway [64x64/16z] {
-xPC5aiCm34M_MBt_XNViKb1rEjj1_sAKF8jlFz3KL8QxvxUqCRf8lpd20HAF26D0B-CAybSQ3CghEAzIkNY0Dtof05_XGRjYzXhaQFI-ip52090Dy4HxMm0G
-KnheHU382IFQZy0_yOOuCkUYDgKK-VNT9YcVSDJpR8IIJm0SXNEoXXSA1VGKNzv94oO2Y5Wz5tO-ES0NzbG086OHPjhCZi3hoKbfGBnFSoKiIWS-h8s-rrzs
-HN86h6gZmvz_w4wxzlnP7vS4MpowvsDrkdPMXEcLFUGvv3NVhzwzJ2F0F_41M_0CNnzE2zuHf_L_yhJPm2KlE5uz7UEp_-x5q14-wMn7kDUivaC1Fzq_03Kl
-nG8skTMyrmiwalyl-SbFVl8UGJi-8aRvfYsF9XtXqvlYo9YtVzNKr1y
+xPM5SaGn24Kl40Eo__-xxRDvRfNHt7QDx0a--_a7DJLLBKNjft1czABeFy0BWM9HqoH0gc_n12hJUnEmlyN3qcK6lRgWGDOHA_X52fMexcvCtyzU7qQlEvl0
+0W0k3tZYlSq0X1m9yHOtv0EhmBhK0cuZoB2ZelXO6xvFtr-SxXLnLMP5z9l1lUIT0B7JrWTGzfkjZ40wEGo82-TUeZ01n19rQPUJDfQ5tHC1O0aXYFHlSrtu
+qIEUgKvqw02hYwW9VUakskX8SnNZhaWgGBvgeq9776oZrpv_ISE14jByrPqARBgzTdIYeG120ENUD1N8K8vuNV1Au38Mm3E3EcBYzOWtv0Klwn0BSS_FhlOY
+NlAR4ikI3wY7gvUUyOvmE9k2z8Htdjgtlu2BN_FL8g2dFpi4kkO387QrN_cQr-i5VPB_V_ADRtpZLPMtFAdgKxxJbaUdHtmjdMnjzDxedpzLKzCN
 }
 
 AWSEntityColoring(StorageGateway)
-!define StorageGateway(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, StorageGateway, StorageGateway)
-!define StorageGateway(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, StorageGateway, StorageGateway)
-!define StorageGatewayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, StorageGateway, StorageGateway)
-!define StorageGatewayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, StorageGateway, StorageGateway)
+!define StorageGateway(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, StorageGateway, StorageGateway)
+!define StorageGateway(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, StorageGateway, StorageGateway)
+!define StorageGatewayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, StorageGateway, StorageGateway)
+!define StorageGatewayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, StorageGateway, StorageGateway)

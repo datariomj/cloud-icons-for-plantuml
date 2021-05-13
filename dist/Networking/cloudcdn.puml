@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudcdn [64x64/16z] {
+xTUvaiCm30FGGZQy7Vx_Q_S6Hmjfp5awTu8kb1wQN3JFcLSQZl467E8DG9t_U5IvFAfS7bKkZogNHv6JjOBWPD6BasMl5qNFICcpIy7pJ_xjQG5lElwfQvwr
+Eqtvw85kc7FtU4C_JJcT__WOPvp6vMEUS3gN7mlcO-Voyu9nw5n-NZ2EdClFR-CdaplBvjvlpqVYmEP-v9DXS1LWZuzZyIZ0FlS3yIX0mkr8F0gGS3iKZm8a
+t8x5bGt6au9bzHY_yJHQ3lv_NFx_go-upl-t2gwslzJtf_h-LjyVFRs_xFwio5_Z-K45mFMUd_AyyW4
+}
+
+AWSEntityColoring(cloudcdn)
+!define cloudcdn(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudcdn, cloudcdn)
+!define cloudcdn(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudcdn, cloudcdn)
+!define cloudcdnParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudcdn, cloudcdn)
+!define cloudcdnParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudcdn, cloudcdn)

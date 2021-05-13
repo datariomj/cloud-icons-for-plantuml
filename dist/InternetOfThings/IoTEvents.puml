@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $IoTEvents [64x64/16z] {
-xTO5abmv44NHbvnt_mkUiKjcLBa3E-e4V12pU4TUNbusFPf_jf99mNUMQww1LFDPXocvTk8gEDeap-RMgW3CpvVBYgV8W57oU9pdpinofsILKW4h3L2cZooN
-6oN9JGccWPOigpjDAgxiGiX33IbhZd45rqeAA3ambTb0AhWMMaOEOteeYDClt0W7rr9IBTkc01EOSscKj7nvYCTNaLf-gKpUVFM8QRPmk1O5hUPNGXQcugim
-vkkFn_kUno-CWbF6ZrNuOhy-ZfzZjioFmmH7-HVrnlItzT-crJ_MVuVB_YiDShv6sFFWSlnMJYavMi57SkuigSOL2spAzbIgkM8EfY4bSvDy-KZ67LUnfcBI
-pMCuihaIalhiWCjJ5bXNhgcXJ99nhIHvcmhM50kJuGkmdhVxfvgFKihXc93gVly-nYNpY719iK-T7yUMcoJpsgVEhmiNv-SRpkyttH_UlvUNb_y1
+xTPL0Xix38NXOvGrqh__vLweKoQd3FCz9SC60N-Gs-sMi_N55ukY8dNUbCcn9YU75ZnuBngSIWqWrTbMaTfmJeKCeBJzhwbOyenI4rmJu2gQ2UJb7fnPgZOa
+0q9oIAlwNvd1WJtYgf5PTBtuMyPQQrR9E199ThMk1LF5sQwgdfmogOEf9RZDwGb3dMDTmQMM-6Fy1aCBCZZH6rG5fc91hAgUMKjIAuSkJLnj3pg79akBeU23
+hAektZ0Lb98yD4Mgi-GV6N3jHSPhe-9l770P2PUC3t0DoARatKzu9Lwjx_Q1ArsrlQc81skls3FtvqVkF_Z-MBYSxTN2nvM7ypTrfHeyF1QkAm_NBzGnJRQb
+3f1g7CbWQD7K0uYX6W2cnOaiZQpo759jLMgv3rVED1bHP7dDMjguU267SoAx92UggWLFYOIe6bcrm8gaaco7-SkB379d79zzZptQFCsVyZrOQLnitgLvchy7
+szMaqdeVJLAFf-h75jQgfD8jdgfV1mxgvvVMx-_TF_p-RhVRlm
 }
 
 AWSEntityColoring(IoTEvents)
-!define IoTEvents(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTEvents, IoTEvents)
-!define IoTEvents(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTEvents, IoTEvents)
-!define IoTEventsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTEvents, IoTEvents)
-!define IoTEventsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTEvents, IoTEvents)
+!define IoTEvents(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTEvents, IoTEvents)
+!define IoTEvents(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTEvents, IoTEvents)
+!define IoTEventsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTEvents, IoTEvents)
+!define IoTEventsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTEvents, IoTEvents)

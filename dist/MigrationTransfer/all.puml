@@ -2,45 +2,46 @@
 'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 
 sprite $ApplicationDiscoveryService [64x64/16z] {
-xLK7aYmx349PcliV-A-jl-Lwdk3UL76ex0O4wdJx0xpnHePxP7rBMov0WpI-h5O0hERXfWJGrnmS8A_LGm7EwyC5vFTv_AgS8TKhC1Mrw0m4koXlOZ0-eRNE
-Zv19ImR4ioh32FEe276M6sGCHtTe187hmnEeOtfGJNbiw-Dvh2UzmkUWtCzdB4QUnlEanIsnCCPA6yjhlGzM35R90dWMcyvrM7uzI4aZb0rhEzm2S7TueA-H
-Abzki2y7_APOyDRV63tW1GBM6LqMilNTZUYuFaK-oj_dZDVw6BnwgBUX5xpExytBMEZyxNkOdx0keLZGre_HX_xh7gKlPEiBt8HNu9vH3_f7PxDNydw-R91g
-xy-ZlXnUeFc25A5kkVLtQ7Tu3KOEBbVvwkzn2r3z_tOV0mmUrtPZaVqEdY3mQK2npihwUyJ3ze2YIJL0lCbf1CesFHjyVhnI010B4m2hQScbHuFryImN0eWq
-XgIaDtZDG7TITlTh1iKTUQa5ezM4ZHmdEFNlPvY54S06kcXWFCip1WW34X-MrmpMzsF-Vbd4eZeJMjPM1_s6Wy51Vp0uw9theK5Tr1lMgBKwGtn3lmmS_Wrz
-lmNzdkRNzSl08C_t5_z0aPiV2O7gkNx7HdK2wIvVADyGzvJRh-6DD_u3
+xPNRUkCW38G7940W-VrVToFCbY-aDSuUxZ8zK_t3I0du-0_ww2Dj8hNP7x4cZA6Oszjq1a2vI9MS0X3hMtW9Y39pjmpG_Gp62B8i9K3kJYs2hKEI4-VIpWm1
+-TxkyIoiXA6GzBGjTtZkk1B0qjIqvWZaqxZkyGBspGDOlzPg1Dd3Cq2twKEm1m3KPNonBwSTdo5zexQkzrYq2s28lQmUYYdVbjsuWQzvyQhgLSPJ87SEviws
+6RvzapBGxyuAwdLy6jzUUVLKUZt1_k-ASYHCoSaVCJo-WQxuXk8Pso4yrGQVlBSOj-FBq6_oZtN2DLzzdv_uvWE-uhtrNgTrIZi_V6Eudby-GoHCvSwFwE6o
+VyDuZPfCZVaPQ1HSA0ORtvR-Hs-okGEo3x1uaQtzHs-VDmUe8VKph8Sk_GloE5wN8gZNafdC_gKU3S766TW4uDu6FO-WzXj14Mr__VaMwUc9OGMeFHnj-N7t
+582gdIib86et3Ni3xxGvnG0YCGKW5EkMP6bhC2zFBUniJDNc5Nh7e0LaMzVY0FED6MhiaQTwCpw2hS6G1815pTcM8q05OHhe5Liyg1M2Ay35xM7vPL2k3Vez
+DHw_HCIbp-_P8EYUNzKDvczlyux55uCzBzHBH-VsPM3t-74VhmOPzIr-DH38M_ngmD3t-Vd-o-2VvrUVbA2BN-28Q3_pg_JbpHton5UPBAgl9SS_qqSV_G8
 }
 
 AWSEntityColoring(ApplicationDiscoveryService)
-!define ApplicationDiscoveryService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, ApplicationDiscoveryService, ApplicationDiscoveryService)
-!define ApplicationDiscoveryService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, ApplicationDiscoveryService, ApplicationDiscoveryService)
-!define ApplicationDiscoveryServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, ApplicationDiscoveryService, ApplicationDiscoveryService)
-!define ApplicationDiscoveryServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, ApplicationDiscoveryService, ApplicationDiscoveryService)
+!define ApplicationDiscoveryService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ApplicationDiscoveryService, ApplicationDiscoveryService)
+!define ApplicationDiscoveryService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ApplicationDiscoveryService, ApplicationDiscoveryService)
+!define ApplicationDiscoveryServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ApplicationDiscoveryService, ApplicationDiscoveryService)
+!define ApplicationDiscoveryServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ApplicationDiscoveryService, ApplicationDiscoveryService)
 
 sprite $CloudEndureMigration [64x64/16z] {
-xTK5SgP050JWVYxtl-yQ2JQG2LkUeaj-_LxZqpyjRzwy2HDciVWlN0O0H038d_CaiEM_TqRWVCW3s9KQ4C_QGNdyZ7p0Yv33mFg-L_YuG_ftS7sh7jn316dq
-lNDXY1wI04YL85FFw8i8RDatdVdhYehFwJNP_QyR0Zux-VPWyqOk4yzWkzs54e1pKa20tt26ZBFBrYoZWw2NNYu75zR4npVNVuoRiRc4Ljz5gAlwsY7_bzZl
-6sAhiicfCVoBRCCjDj_40w_3p8m8sxn0U-y5yoid0SZ63rxdFWb9YrT8zwb_TkKN8PfavKVFr4E8ptpn1gwJByZe5RbnXl-jaMx_u1sqUeEFFg4dthtnVGBy
-zVKhi9NJm1seAry4pONhsdJcvGpAs_kNkbi7phG6W5NV9MCzNVkLI6MDngglupkExCSf_IoWftpScH-TDs_U_0O
+xPL7aeGm34M_v82Lxd_SILIR3CqiktXR_1HigOXFu-7XGMfEALVzb-oL030JmEs-hWGUB7wmWS1sjtHWIke3IEzb1zcgcZi1dB0gs8ZyVR-YRHiglu7zhVH8
+iI53Am4qN8SO8B71070fX7mP857ia55_QokeLpvox60IVoJOkUxd6GJ3kM_d1npvLDTyqI63Zn_1Cv3iF44XK3lG6NbhU-sC7uKFQioxlHiwqili1pTJkiN-
+K09aAjJsqdjqjFqXlOk415azuydaLFoH9xtAv0UbdJxhOk14XidFg37tCyKQNTUaH2-_eCJ2B_2hoJE2qkWNv5Zw6R76KLQwnEXNv5ZvJB61U3bB4gC_87dt
+JzQWmEPw-qrJ9Zs4kbyXMrzHkfxwPJImRq_o_loshjSJlO7iO7-AlbvxH3P_7sy9h8Vxo-DhTttCnDG1K3sEK1cVQ_KdAhbJnEEKXkHz03Lku-MLWB7IRs8Q
+7yt3myCt
 }
 
 AWSEntityColoring(CloudEndureMigration)
-!define CloudEndureMigration(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, CloudEndureMigration, CloudEndureMigration)
-!define CloudEndureMigration(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, CloudEndureMigration, CloudEndureMigration)
-!define CloudEndureMigrationParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, CloudEndureMigration, CloudEndureMigration)
-!define CloudEndureMigrationParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, CloudEndureMigration, CloudEndureMigration)
+!define CloudEndureMigration(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CloudEndureMigration, CloudEndureMigration)
+!define CloudEndureMigration(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CloudEndureMigration, CloudEndureMigration)
+!define CloudEndureMigrationParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CloudEndureMigration, CloudEndureMigration)
+!define CloudEndureMigrationParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CloudEndureMigration, CloudEndureMigration)
 
 sprite $DataSync [64x64/16z] {
-xTLLegKm40JGIj9Q-r_mp7KBq3pxuk0ID_wym-4GPkRvrS035oEuNmwWYxlh04PofsYGV4JLOcTmmFdWG727xF2t-5goJg5yPHWiItI-4vYsObiOR18dq6G0
-paq3EIkJL2kYDKu4JnpABHXSrZgtGBXCuCaLgMqrlAsFY6ZecbpXEW3bN3OODqLVokA0SwBwNsBKk-Y4mLaZoEhRhATaa-phj4OTLiufz7lXEqRMyY-uwHIC
-wpC5BIfZb3Pkb7O-phSqm6VjDvUQaswjVDBXNE8DDgk5byL1kKG1Q3p9Su1-kiI92o0hKtTtl69SXxJXOZWNEA2aFUjmm6xhwVgAAcW-QTFgycL0p6ekMIIJ
--JqqMUODafJnd_DqnBZnwhhV32V6qn6uCTRO_D-ww31-YoN_nk5m-0S
+xTDLmgKm30NWKoLfSlQ_tPdh5Yvbv7_YmwbB-EyT3eSX8iFvPqR3HHtSpokGkwek5QZEdIoXsUsz8Tdkuie7tLc1PoYV3IJdl8w5hmI5f7EA8mTLofA0Qjmc
+aA1E8BSA36wgy6XCdQIbvDoICZ_vu8cYSmigr-NC3Ox6TGtV8y9x-bfUlaU4PUJ5kSvF4O7Ec2S8Drb1OwX2ES5NyXagftZA30YKSnei31mFsfflIMfGPvXp
+G3YdXQkbEyeNL9_hVyDDOKEzVhCZsqoCKkfDfzJbyhsGWhVc78Mhl1lVZ8I5JmgKQqQqXpioxxoWSqq7qEs9arvHJWyxqGRqBw5H52yIBQCvIS556LoX2PsK
+PmLw6v39YJfNU4CQmPgcmIa2MBH_Z96uVUMRqPtJDA4vU_rDURgitYXdU4KMd0XFry2DS8x4UUTPXl1lk3X_nk5m-0K
 }
 
 AWSEntityColoring(DataSync)
-!define DataSync(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, DataSync, DataSync)
-!define DataSync(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, DataSync, DataSync)
-!define DataSyncParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, DataSync, DataSync)
-!define DataSyncParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, DataSync, DataSync)
+!define DataSync(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DataSync, DataSync)
+!define DataSync(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DataSync, DataSync)
+!define DataSyncParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DataSync, DataSync)
+!define DataSyncParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DataSync, DataSync)
 
 sprite $DatasyncAgent [64x64/16z] {
 xTO5WYCn30NHBuDirVtlE-nWSo_ll31KGEs0_XGfxv0UOlDWbt3JLUQ0V9lJQzwXzfi7CA1efmAOFlY1N2hW-X1q7T09lKjGTK25z3Mzh0D6zulwxpwTwvsm
@@ -50,74 +51,71 @@ RqnAZpJPg_2k7V_zIN6kb_LplUIHVj7lxtV_tP___wmWjDyrSwY7djxrmGBgWJpivWSzlEJDYWUGDAHW
 }
 
 AWSEntityColoring(DatasyncAgent)
-!define DatasyncAgent(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, DatasyncAgent, DatasyncAgent)
-!define DatasyncAgent(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, DatasyncAgent, DatasyncAgent)
-!define DatasyncAgentParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, DatasyncAgent, DatasyncAgent)
-!define DatasyncAgentParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, DatasyncAgent, DatasyncAgent)
+!define DatasyncAgent(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DatasyncAgent, DatasyncAgent)
+!define DatasyncAgent(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DatasyncAgent, DatasyncAgent)
+!define DatasyncAgentParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DatasyncAgent, DatasyncAgent)
+!define DatasyncAgentParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DatasyncAgent, DatasyncAgent)
 
 sprite $MigrationEvaluator [64x64/16z] {
-xPK55kCm34I_JB9q__ikD4ykLuNbpIytfXb1_CzbPsTs_uZAy0ym4F-0HaK_sRuOrT-cCxmn_HNKV27YFcaUs4Z5JAWnIEc749WVc0sAPm18Fqmfs5h5ke3G
-SylHBb37Ehc8QJqiMZ5Fs6Pf1OJDkG6RAADwJc6pgiHeWqrFHprdC4B82gD6E7BYb4Qv-6VIFIS2rXaUDEPwpr6w3K7EasB6WN8aKc0nAmZ3Cs9iMKCjFjks
-PeQMamIs2XAcMHTe3rUm8T2MImQr5ThvujSctZjYHUFzIjmru-fA94AxsiNy6hqqA2PIh-orJ7taQzHlC9O3kVlUgUOgM1g1EmOr0FIr3B3E6gUjTlErhlfJ
-877EKrs5xa7Q0BISkIuqY_9FgLYydxMKpdoXVoZDWu95PypfwCcaM2h-oGcPZR44pIKZ8T9jDa1Mzw7DrH9pzsmKA2E4D7hPKgBb3XfIWJPZk-rZDe7QSmS7
-h0fepELdt9FI-ISfFgdXvweVynUes8Nfvg-Wj2Je2GLDBClTDFy0eVedTAP_XFdFOsVdAm
+xPK7bkKm20GBMLbm_-Dky3CpJ9Gtn_evWDGjNjj-N_xpdrNLleLC_wRb8TatKCaC-sgKGpdigsbqAopx4cOmNCHiKSpHFhRbaEVrVj3CxE3gE0jxCIg0r6KF
+bODgPjeI2Crs54OLE8REQ-T9TEIpQKPjnwbtPf1qETS1yZ1Jikr9egTLYUoIQEUwZM5x-lMlYljO6LVdcqCJNiBRIRKxv5DtfGTFfzdjIPfKROaKFINF-vCi
+8aZJs3A3q6s7_pTrh_RNLJbxxXX76E2LGPftQWBbNGkqfVYN9UIQAC-Rly6gpsHdvlayeZWu-Xjpux8TyhafgZbkXBwcFAuU2tsEmmxqLVNzKkz8yXHue0S7
+td9_s4KZgmqHZITGbxt7BC660Y1NlrNkJO26IHcrD7sKFUmEAYb1qRYh0mwQtQBJRHpas96wBZjtU6ncLkZOGg3i0z3J8aIQ_x2dCaEHj_ADRN6PMcWXaDoO
+3JvkimWa5mHbXaZSfP-s1Abxx1RQ0QdfdGHKKhukO368LnN8ZRe_VCX3FNR3LMDaGBRrgJtc3_cSnXXFQf6z5zViEBVB_U1z3BwE98DgNqz7MFRrg93jMsXC
+-oQM_JZ-yv-F
 }
 
 AWSEntityColoring(MigrationEvaluator)
-!define MigrationEvaluator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, MigrationEvaluator, MigrationEvaluator)
-!define MigrationEvaluator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, MigrationEvaluator, MigrationEvaluator)
-!define MigrationEvaluatorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, MigrationEvaluator, MigrationEvaluator)
-!define MigrationEvaluatorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, MigrationEvaluator, MigrationEvaluator)
+!define MigrationEvaluator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, MigrationEvaluator, MigrationEvaluator)
+!define MigrationEvaluator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, MigrationEvaluator, MigrationEvaluator)
+!define MigrationEvaluatorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, MigrationEvaluator, MigrationEvaluator)
+!define MigrationEvaluatorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, MigrationEvaluator, MigrationEvaluator)
 
 sprite $MigrationHub [64x64/16z] {
-xPM7Ykmm40HhHd7w___t1OjbC7l2w8WNYh2XNMsIrFgM_F9BBwLBKZGlGySKW2A5OT1qoA1AbQ56LpYXCoeX1LLkLrlN6OqfJPeA8NM6JeWArhinDV3HWNRq
-Shm1zFK3wuPrFHAjzkY63Idw24clBnryNBcsJ2wiVzpDIlS5nb2_Fp2L15TUj25eaWfA2atPjNBR-rMIezI1zfxlS4OqQkhKSDfRlcCQuA7KfIp8V4jKsasF
-aGMPx-dCc-wKBCZyoKyz2yxykVIkUXLu7FgAfMiLX4xzfSyQLu6E_DGDpu9dlni-RdhDWintDAmOO_cNFjIlWdBBDmGkXRakbgvLy9OdR-UBcvu5cM-8TT_R
-JS-2p7TKIdFMwgIU1PdlhzrNN8QItjxo3I7DwYadpRrT-GCJZFUt5CmeUgOm5SPk3n-XhFdQxE4ZvklnpHu-qYYZGfaVx-4p1V0ABQJHP-uX32LxPf_ITAmx
-K5vxE4ReX0wqKNCFJvcilGaTipblXvXD3Oe-om23gKypgzVGT-MNN_u2
+xPK5ZYmn34JB8SU9w_x7_P0iMQkefqUuy0G3rQ_IR7vBVlb5Ir6Iz9QByJO58YYa9mZGU1D39IkC3PsUCNcF1YSTZLbMMx_j3t90MU1aX_4Ete1abZ1foDO5
+elwuhOAi0D19DW2Y2T8VCQjw5oGZlTjUSgulNP27Q-tE8qC0uB2IDopIkI29UOyRp8_ViVB20nEDP4QuY_HJBXU-VDG5-h3F17D5_Q1Npz13VZX_oJ_ev2w8
+-H6lqA2xxOAOd-aOGKyego3a5txGSoXut9-oT6LT1Sbl-fnRvovmtlMtFfkl0jxsjov8eU32Lq6oeDTGiFCZ3Qa8RFjBD-egA24_uCXEbxH_R9sx8EO79fHa
+0HTRVoq8-G57uUeF-Yu8-OcAqX9wq5yBGdx0Am3beXhVKGtv6P_ahBaCVa9pLlV9AoQGy7adCqIGUKt6e2TXnD381kCbA2GLyp0FBqc9P8KVvk4b3SKQK6QS
+7P3U1PE1uqNC5MXEjpvUvw40Odo4-LyQ6T8JWF8w3ysST-W2wAXX7jvYefBCSDuZpgiYV1QHoO72Pp5089DFCsfkpk_ABx_y1G
 }
 
 AWSEntityColoring(MigrationHub)
-!define MigrationHub(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, MigrationHub, MigrationHub)
-!define MigrationHub(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, MigrationHub, MigrationHub)
-!define MigrationHubParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, MigrationHub, MigrationHub)
-!define MigrationHubParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, MigrationHub, MigrationHub)
+!define MigrationHub(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, MigrationHub, MigrationHub)
+!define MigrationHub(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, MigrationHub, MigrationHub)
+!define MigrationHubParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, MigrationHub, MigrationHub)
+!define MigrationHubParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, MigrationHub, MigrationHub)
 
-sprite $MigrationTransfer [64x64/16z] {
-xPP5aWH154Bt1U_-nnrhxwQ4dCr8iYa5laRa4Z4X6snhZCmDlOJ1qYqCb_H7IxaJUFKpDEvA4HN17nFD4Da9Dz7dcYfyEkeZWFrEYZKFMpAWBlooaz2rfoyp
-V8ylL7I_-KKs1JytM0VuKbxvoCq-7bymXJaIB1K47bdFJ15UMWY6x1F9hDiS6GGOMPS3_Cs5XxtuXGN3V84sUeDtwWyA9GZyx66yfIuKKadz0VK3A0YtIJxt
-6PI_vfg1K_9P8BqnA7pE9L28o80_SKekLiCd05u_z9piOhdW1Eit7Y7GCJg5RhB19-X2z0aS4k26vpVjEV1sqsFo9zyd3F9TZssFYNS
-}
+sprite $MigrationTransfer [64x64/16z] xS61400000CXWldhpkElMXu0001m
 
 AWSEntityColoring(MigrationTransfer)
-!define MigrationTransfer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, MigrationTransfer, MigrationTransfer)
-!define MigrationTransfer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, MigrationTransfer, MigrationTransfer)
-!define MigrationTransferParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, MigrationTransfer, MigrationTransfer)
-!define MigrationTransferParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, MigrationTransfer, MigrationTransfer)
+!define MigrationTransfer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, MigrationTransfer, MigrationTransfer)
+!define MigrationTransfer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, MigrationTransfer, MigrationTransfer)
+!define MigrationTransferParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, MigrationTransfer, MigrationTransfer)
+!define MigrationTransferParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, MigrationTransfer, MigrationTransfer)
 
 sprite $ServerMigrationService [64x64/16z] {
-xTN5OSHG34NH9_YY_liD3eD9uSpT68yPwaDwz2ZjebZd5HVHMkzdyMfVPydlyyw7z2DyHhQENm6IsEvZA0EIdVDF1Rnr_Ho8rlqBK7Py6NGGaSRM-yy0CGEs
-qJkzoY14w_bDSCkN8fkUHpPy285yczzb1E_uIa9qV0MavKkGBM_mbdVOj_g1wFWagevNMCSFI6ttmP2yu-qiEdgtNKg0Blt_yur5Kzz0l-XucE7lHTRNvLPL
-QR4RNTdk-WV6xjPyiNzubOCVN5lQ-KvfKP_MeqVF
+xTN5OSL034NHfq5X_-M6FwEjS7Btnp0Oxz9__naVfSjynr5bgPU32YtrSL3zULxgjl4UtirItzy1whhUsnmLQ9RvV-iWJOsV4ZGrVmhoZ0z67uLAjxNpNm6g
+1U2LNikpj09DhLz3JVdey9GVgDCJNXk1P9NVn0J9-322PNmeMif7WwSyGr9UmL_g9pJZdKfa_01d_42BzLuhgb_mV53PUUMtUW76XXyrBj__7PjeM5p8LGxp
+s6JocdfyNi8HuMml_xyKRyRVC3TJyxd-tu-szRF6cZO-aRF5X_NVVuy
 }
 
 AWSEntityColoring(ServerMigrationService)
-!define ServerMigrationService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, ServerMigrationService, ServerMigrationService)
-!define ServerMigrationService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, ServerMigrationService, ServerMigrationService)
-!define ServerMigrationServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, ServerMigrationService, ServerMigrationService)
-!define ServerMigrationServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, ServerMigrationService, ServerMigrationService)
+!define ServerMigrationService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ServerMigrationService, ServerMigrationService)
+!define ServerMigrationService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ServerMigrationService, ServerMigrationService)
+!define ServerMigrationServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ServerMigrationService, ServerMigrationService)
+!define ServerMigrationServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ServerMigrationService, ServerMigrationService)
 
 sprite $TransferFamily [64x64/16z] {
-xTG5Se1038NX5rb9xd_WOaFgp8Pwznz1FvprosQpcJ7R7I-0tEAga3JVh42Jl43sYoWfNi6sFqFK16yWs-UCq98yVm2iaIyHrlpjh4Rny4I4DWLQPikx3oeI
-zqXthvSFkhOZWMPyF-SPQptjJMMfM-q97tNKB_M69_NJLsp9XUzWaIXyapNmfQzlNlyIVwKtB1r-YOOzWqHjlGeLWenwDq8__sAsOUyTP34pvEEqSI5ZFePE
-OpJFULTe3Bm9ls26UjuR8L32knNB-UYV-EbRk-CDIyJlX7UzD-6BYl-TPhC7
+xTG5SiGm38NX5rbcwVxNhMQgPOost7pBy8TjVMYpsKXAyb8ElB80HYbWZSh8_XHImMeOLICQalX1Q86yWyIF8g7hMWFBL3SN35r75XXIGp2Bw4tI3bHTOMQ2
+6f2zBNSFr47M8_czpmyFTEsEKIBzEBvWpOZsAeNDb3PZlHjeNzhF1SV6llTpmm_wWSH7vhxlp6QXXtsxkVs6lhAVCDuRMjiBWJYBgexC2tXjVpnSEvAixNti
+-nlHrRtFFRuXaLuhsEUjMAyPnIVUMAy92LdZlH2IXdetYuHxzq_whU_zbNx2KBe3fFSCJWzK_JiscpS
 }
 
 AWSEntityColoring(TransferFamily)
-!define TransferFamily(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, TransferFamily, TransferFamily)
-!define TransferFamily(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, TransferFamily, TransferFamily)
-!define TransferFamilyParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, TransferFamily, TransferFamily)
-!define TransferFamilyParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, TransferFamily, TransferFamily)
+!define TransferFamily(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, TransferFamily, TransferFamily)
+!define TransferFamily(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, TransferFamily, TransferFamily)
+!define TransferFamilyParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, TransferFamily, TransferFamily)
+!define TransferFamilyParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, TransferFamily, TransferFamily)
 
 sprite $TransferFamilyAWSFTP [64x64/16z] {
 rTO5aiD034HHmM3V_xw1iQEoGZKAvoyQNYy3_LdobEQE-Xm7wbFS3SHv7SyUv_RYKUu7uZm-u8qTFCpzOPpx4t4U7-W0-g4LI3iU03R0UfxZYbFB-MB7RFjd
@@ -128,10 +126,10 @@ zPgxoUxyXVO
 }
 
 AWSEntityColoring(TransferFamilyAWSFTP)
-!define TransferFamilyAWSFTP(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, TransferFamilyAWSFTP, TransferFamilyAWSFTP)
-!define TransferFamilyAWSFTP(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, TransferFamilyAWSFTP, TransferFamilyAWSFTP)
-!define TransferFamilyAWSFTPParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, TransferFamilyAWSFTP, TransferFamilyAWSFTP)
-!define TransferFamilyAWSFTPParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, TransferFamilyAWSFTP, TransferFamilyAWSFTP)
+!define TransferFamilyAWSFTP(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, TransferFamilyAWSFTP, TransferFamilyAWSFTP)
+!define TransferFamilyAWSFTP(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, TransferFamilyAWSFTP, TransferFamilyAWSFTP)
+!define TransferFamilyAWSFTPParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, TransferFamilyAWSFTP, TransferFamilyAWSFTP)
+!define TransferFamilyAWSFTPParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, TransferFamilyAWSFTP, TransferFamilyAWSFTP)
 
 sprite $TransferFamilyAWSFTPS [64x64/16z] {
 rT47UkGm28PXG9OG__qFl5w47u_i50tU-gLPvIN93FrViJpYOcZFED0UyHYGvSs_vNdyoFDuoFDupFDOv7aiypms4ZmrW0s0xIbvfTiUpW6yrRao-Gr7Orzn
@@ -142,10 +140,10 @@ q6hb1KzKgxvwDXoLhtpNrlnl1V3gYNN9-wtEmnjDyMWydfiqRN0fSbocVwCV
 }
 
 AWSEntityColoring(TransferFamilyAWSFTPS)
-!define TransferFamilyAWSFTPS(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, TransferFamilyAWSFTPS, TransferFamilyAWSFTPS)
-!define TransferFamilyAWSFTPS(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, TransferFamilyAWSFTPS, TransferFamilyAWSFTPS)
-!define TransferFamilyAWSFTPSParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, TransferFamilyAWSFTPS, TransferFamilyAWSFTPS)
-!define TransferFamilyAWSFTPSParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, TransferFamilyAWSFTPS, TransferFamilyAWSFTPS)
+!define TransferFamilyAWSFTPS(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, TransferFamilyAWSFTPS, TransferFamilyAWSFTPS)
+!define TransferFamilyAWSFTPS(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, TransferFamilyAWSFTPS, TransferFamilyAWSFTPS)
+!define TransferFamilyAWSFTPSParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, TransferFamilyAWSFTPS, TransferFamilyAWSFTPS)
+!define TransferFamilyAWSFTPSParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, TransferFamilyAWSFTPS, TransferFamilyAWSFTPS)
 
 sprite $TransferFamilyAWSSFTP [64x64/16z] {
 rTC7TkCm34LH53Ry_IzuP6ZCGxWnICzBLRcmAlsnv4EQ3VrZ7EWVuc50ddV_zNu-_xoNXm5vdXuGULp8yxYOv_ShyZm_m03OqNyWmuwM1udrji0LrueljxdC
@@ -156,8 +154,8 @@ y1renO2goaHyFWFwtBDgYvysKwBgJudHSry0h9x45k-Fx-13MQMpPZx9RFLCIondV2xHotZk-VFz0m
 }
 
 AWSEntityColoring(TransferFamilyAWSSFTP)
-!define TransferFamilyAWSSFTP(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, TransferFamilyAWSSFTP, TransferFamilyAWSSFTP)
-!define TransferFamilyAWSSFTP(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, TransferFamilyAWSSFTP, TransferFamilyAWSSFTP)
-!define TransferFamilyAWSSFTPParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, TransferFamilyAWSSFTP, TransferFamilyAWSSFTP)
-!define TransferFamilyAWSSFTPParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, TransferFamilyAWSSFTP, TransferFamilyAWSSFTP)
+!define TransferFamilyAWSSFTP(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, TransferFamilyAWSSFTP, TransferFamilyAWSSFTP)
+!define TransferFamilyAWSSFTP(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, TransferFamilyAWSSFTP, TransferFamilyAWSSFTP)
+!define TransferFamilyAWSSFTPParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, TransferFamilyAWSSFTP, TransferFamilyAWSSFTP)
+!define TransferFamilyAWSSFTPParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, TransferFamilyAWSSFTP, TransferFamilyAWSSFTP)
 

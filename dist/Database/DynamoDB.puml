@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $DynamoDB [64x64/16z] {
-xTP5aYmv48HX3uxm-nzuka3MnQcXjwflhTyI1VplVNrDL_we7lvjwOeRuZdSLWf0FRBFCbm16FUC0bvyq1xSqa3mNn0CdqpSA7umBw-kkCKF6iOdXPYbuPzx
--8lBaqkWF_S2oQVBauieF_UP0cZqwyiNygWdomG0HCtpuV8A7lS_fi9KHUm-6VXXFx1wz_G1zH_1TmO-3c1Utx7ZOlYE8ido5vTVHb1yQm1h_XBaoMpc32WW
-qMiqBeoBVim9vOG04FCOSlf78cwVxuE-Z9nq5Q1lVjgjd0tXCv7Dd0r8lPtKXk1HRu3cy5QWDtCsaY60M5RFa4DIPIjVFTcXM7Bzz0RdLbyycSgC7yr4atGu
-j_f-NByLrtnoU0JACe0FSzPXfE6u3-YGjzTF50F6sNe10y2RDmpdl04C3od205ZM6WmxvQGbTEFoJauOJaIaMD3L1Pe7UZrZLxYh5WrGhhwE-ySnltbXftzO
-VshbuzZgm--sZt6k7zfofy-RzISo8zmKWFYmzleVasw2Ap7F8RdRM_5gVd3PwWVH09ol97hh_98AlZ0Y_-Ryb43_Y_CR8FrlpezQ__pygfxp9y_F-xw-_W8
+xTP7bkmu34JH044348ZzRxTLXgVIY_tTAEyaxPENIFvvRsyntGu-W_zNMYkuK9e5jxb-9jtya_LM05JkYG9fdhoItZgtJ60aVrsHu9te5uml13hl5LoGrvjV
+USVHOt6qrprQtgy-kNJCrxr0HjwkdajAuUlUJ00TdboA91U3dVMaLy6XgDPnlNegyhHFak6zQX7HwzK76i_wW7e-tdjsQ3tqv1E15Wt0uxrdmvVWCmfZMkDY
+6FStYFEf07JoHy6mGt39bpax2b3wEWA1BtgH6vzBbCnU08ZM7kJqmq3VopdHUGXhAi2ylMXJCVYwb-IIwssHpPmJ47zmKs_cdAY2CeAN1kPttddQMtO1IXqs
+8yX8hislwDpeINfNB6DTz1MDMxqb3-4s-c5om4asDExqOmBNps-LxpmiU2AXwGfSz8b6DbIo8dYcGuFf_65mTbJcrW4807NoWYAFF2U0u2d5g83KuR4slmve
+Ckj0sLXz8sCeS10Hfq6XUVRiNkRtFkQqNgkgisBbxF3p7iPB2PJltB7LNny-NtbKRFMZ0QNFv9TeIURi2jInqnkZ2u2YhVTXlRTQ04WFsbP_yVpv8jf6aDpj
+w_fNnY6vxFI1FWNIaWyCp9tvImwLHts8xCwV7kGv0F-D-PkWpD-PFwhbFvg_xi-VVz_Rsty
 }
 
 AWSEntityColoring(DynamoDB)
-!define DynamoDB(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, DynamoDB, DynamoDB)
-!define DynamoDB(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, DynamoDB, DynamoDB)
-!define DynamoDBParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, DynamoDB, DynamoDB)
-!define DynamoDBParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, DynamoDB, DynamoDB)
+!define DynamoDB(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DynamoDB, DynamoDB)
+!define DynamoDB(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DynamoDB, DynamoDB)
+!define DynamoDBParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DynamoDB, DynamoDB)
+!define DynamoDBParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DynamoDB, DynamoDB)

@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ManagedWorkflowsforApacheAirflow [64x64/16z] {
-xPQ5RWGn34GdPFh_3-vnRbMhKxaWsdSCRyaJ9_4Rd9oulE7fZnlxx0lUa3WoSKGoN_I19BuUyCotU6297uJ_yLtcbBelkDAqwA-BwYQ0bNn7y_lFlUGlwFEJ
-LVo1Hzcra9_h4_4tkI_9yPFnaru_HGz6veS0otJczGkdVcZ3XPxgWcx4lw1BB584mB2V-3A0wVNZjx2z1Nhzylnf1vP7qFhb_lqOcwI-V3F_qj0yjB_HU7wv
-FwY_Zv-Ft_hrC_H2_KZ_8laX_PFcb_Vl-lYfZzzw_yYnsVkGtEVzomVGskLXmVEVq34ymfFwylvzOM4zfu-M-kDhVv-LLEOltP9ZLFA_OzawoN_1P_atp7ty
-a-G_eyFZpe0bFaFH_L784GK_19Ygqk_R8Ul73EsuS8yHMx_cc8X60ba_5pav-G
+xPQ5akCm44HRFFZ_dtiGJfrIKvxRtIA_C3nZgot_2avEZ5umVqVf7VL_8Bn0_ix0ExJp5zzO6v_Vq9qlVaCslWVyZ6zhJBAql_2N8ab_eRBf0YJbAwhvzJNb
+Bx1Vc92CFs1-WQFyvFmdmVOFQ3H-ThwXN3n6yuYTxuIoX2UA-WODVUS204tt-MaI-MwyI3xb7-ZwFpvrO6X--yMb0zCon--UFsaeozoZy_SvlrnHoEFyVCu_
+5LHpQI-K8ByPFx_z4v8uVa5_1ESlwAyWFq5_nlcD-pi_VlBZDzyVUsIqrY_xb-alwq2fb-ERoBzRkvmzemBnu_tj4zClQ2bstBTdAYbp_UAdPEYv_D-fDPD_
+zZkb7S-_OZxVZkFvzmfz_5isVeIWwktmTa_uJi1afefc7iuVTqW5i6kWUFxwd2VBkntFd_ESdFm6
 }
 
 AWSEntityColoring(ManagedWorkflowsforApacheAirflow)
-!define ManagedWorkflowsforApacheAirflow(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, ManagedWorkflowsforApacheAirflow, ManagedWorkflowsforApacheAirflow)
-!define ManagedWorkflowsforApacheAirflow(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, ManagedWorkflowsforApacheAirflow, ManagedWorkflowsforApacheAirflow)
-!define ManagedWorkflowsforApacheAirflowParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, ManagedWorkflowsforApacheAirflow, ManagedWorkflowsforApacheAirflow)
-!define ManagedWorkflowsforApacheAirflowParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, ManagedWorkflowsforApacheAirflow, ManagedWorkflowsforApacheAirflow)
+!define ManagedWorkflowsforApacheAirflow(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ManagedWorkflowsforApacheAirflow, ManagedWorkflowsforApacheAirflow)
+!define ManagedWorkflowsforApacheAirflow(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ManagedWorkflowsforApacheAirflow, ManagedWorkflowsforApacheAirflow)
+!define ManagedWorkflowsforApacheAirflowParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ManagedWorkflowsforApacheAirflow, ManagedWorkflowsforApacheAirflow)
+!define ManagedWorkflowsforApacheAirflowParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ManagedWorkflowsforApacheAirflow, ManagedWorkflowsforApacheAirflow)

@@ -9,7 +9,7 @@ uv15vfSv3bbadiqTB1BFvWuMYNVCaKNYoPnhSUVPd6znuokRyotMnH_C7Im--5gkKdV-TS3BUru28YyJ
 }
 
 AWSEntityColoring(SimpleEmailServiceEmail)
-!define SimpleEmailServiceEmail(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, SimpleEmailServiceEmail, SimpleEmailServiceEmail)
-!define SimpleEmailServiceEmail(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, SimpleEmailServiceEmail, SimpleEmailServiceEmail)
-!define SimpleEmailServiceEmailParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, SimpleEmailServiceEmail, SimpleEmailServiceEmail)
-!define SimpleEmailServiceEmailParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, SimpleEmailServiceEmail, SimpleEmailServiceEmail)
+!define SimpleEmailServiceEmail(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, SimpleEmailServiceEmail, SimpleEmailServiceEmail)
+!define SimpleEmailServiceEmail(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, SimpleEmailServiceEmail, SimpleEmailServiceEmail)
+!define SimpleEmailServiceEmailParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, SimpleEmailServiceEmail, SimpleEmailServiceEmail)
+!define SimpleEmailServiceEmailParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, SimpleEmailServiceEmail, SimpleEmailServiceEmail)

@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ElastiCache [64x64/16z] {
-xPDLWiCm34H7jZo2-nzuuzfBWJRB-7wam6ijIFu6_ladoWk8hK-Sry4zt_Ca_Z6-zg2ZlXbhPYqTpPXnGVTy5yWI89VwHXIupoI94JC5uhc3eIs-ZlD1HqtZ
-hDfzlyHiiDn7wXc_oe4Uq3E-8dPj1NpbMuaejl8TqFtzyNpqbSyUwgEVVcr_nhbZdcaX9p7hMF1RVeTLC93QBezUuZS0HLj7gm325_aLnVAHe41Vu3iqLoZy
-l4_OTZbvpg_Uy_KFD7GdwcqVyEv3b1wH4Mwj0D8TugRlv2LdmIEYVd62VirVvMwjGu-LS-Y7ByJ8LtHdFZ_q0nqU-qGdZdo7ahps_oGLVknpvjiN-FZio2UX
-z_MZHJx1A-xhLv3x_c3KAK1HchiRMnMWWi_UsM8SZFfT1GzKngn_O1jvVvVSIFUTcP_p9r_XRohao_pLsz7mCb-0sinZmQa5A2_ptUhg-trv_yB8rcZ-u-Pd
-iBrRfmc8RIQIBy05ekQHeuqLA94leXKyeLg-76DJxGEC_9xyyyyT
+xPA53kim34Llm8af__-xhrasPT2exMCw0hjm95Fx6_ZFVpHTG3zzHZnhH_2UhwTB_J4--HPez7UFoNr4QdgFhJdj-HeGlJM4qTyMUw9w6ql0c4_0faU4tL8P
+PVDfr0SQFOrQ2Js_nLR0RP-GplWfB7G3dV49jcSx1UYRByaioPkl2EIxzoDj-fbVFkRfDrdVp_2TxTxHXhU1iT_zfWT-npb7348gsWPdVIy0OYuTIW48VCbF
+IEBpczM8VC4Nb8_jGC_x3FxypEVyNZYFVYTUq1rBnpwso002LJ5pCvMIWDWTng4lpDxpcZ09f3V7M8xycRjowR3OgxFsJJPiv9FfZEzBtz3XjS_esCfNP6Qs
+jM_CdA5hdnzvRM_K-Mtbrmfwz8-oXObcFFedrBhl0xF_24Igqk6I0v36-y6UxpouzwyKWGUfsgF_WRSbynPSXPb5VR7p0t_o2tnUl3hhexwCo0gk-G78LTGs
+f584uiN-EMCIIRzYVYPSIs5M__Fs9z-qFqUGrnSLmTjvD20GgtNLf6OWQhk2rmXCihJBkDH2-RR0zdlod_zy0G
 }
 
 AWSEntityColoring(ElastiCache)
-!define ElastiCache(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, ElastiCache, ElastiCache)
-!define ElastiCache(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, ElastiCache, ElastiCache)
-!define ElastiCacheParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, ElastiCache, ElastiCache)
-!define ElastiCacheParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, ElastiCache, ElastiCache)
+!define ElastiCache(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElastiCache, ElastiCache)
+!define ElastiCache(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElastiCache, ElastiCache)
+!define ElastiCacheParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElastiCache, ElastiCache)
+!define ElastiCacheParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElastiCache, ElastiCache)

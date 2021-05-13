@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $SageMakerGroundTruth [64x64/16z] {
-xPQ73gCm38P_ZoIst_-1Jp4L8KSfeHetFotMvr4Pq_WT-Sz_JErqk8uBWE9vMFhXCxq0qXXK8og16uDjtMvTYKtTWaHPBy44WEMXTytpq1PBS0MqT3zXZcIv
-1EffwibVBW4ISVP72RU-NlXLMuIk-utjw2k0-iIlc7om4u0rlyd99oeWeHK_-Tbl0Dbz_ORHyEI7c-V5k-41MJyIa7SVBGvKGFtIBe1O0SfuhlPByt1l4tt6
-Nc-DCG1gntdsCZP0uwpmZABkOoO-ZMrdE1Nwtj-DFT8ksD6vz5t9t_WEKfHxNm6suGygm7xlWzj5WvxT5rR_vBUnEjbUeazlB-IJFqQaO7kcuJ0_Z13S-xpD
-dsP68fJnW03SRlo12zYT8JxE5H1VyusWlNy5sHGK5_uywNNRDz3jQ51F_eWy8cJM1X6qhEJu0ebVVpdAs5SzLQqzjpCE7pQBIupuE6DE0Fdnjs5A-nAU_F1I
-F2QVOzKtsR5lVCMEVkV7Yszzhua_ySc7RqXi-4utVgxNFNzBCl--eECpbJ92-kr5-cddVvc52FNy-zTXtqVeljSTx_wAVRKZ5V4Gp3psYqoK-0tvptz-
+xTC5qkCm30NWPvO5zp_kWlwCqx3RWSKtq0O-HIRx7VC__yDLR8bKVbTh0L3L_zRnTret8FU4G6OKa7f2v7dU8oARq_XLnDfy2v80iF_LEfZCjU2ajCMRnMYU
+wHOYaXWT_7GBo6P7lxRmwCk5fzhDohplILvz1K3lU0A_-f0a09ZpFSlUnz0GSvpndhtlGE3d_Xb9pLEttfJLh80VJusliMH4zRQxlOI0ehUdHdoRKK3H1MIn
+DPA1Tbw1m_BfX830BoqLQPN7Qz4V7bD0OwspxiuJi1f2EVTcvexHpBC2HhMHIwyrw8bNn8Bsx2kGvEZzt2HzzaZzOe0gNYOLlVDzBD4uwAesKX6Gx_pIAufK
+mD_fuMN_f609ZvwM_LUzLWYewml96xltQpGZYIHaNQyha6NESq1H4Iq8lDt0LpxBzgYG5Q1y_Lj3HpyghnKAeXWZPtIJwEBurh72c2tVC0GYa9acZ3LqVHK9
+yNMFQG22livD369tYHjlKglOnaURzLpoaiAV-8AHyfct9Pzw9O--vNNr30-lNfzyHcWwljyzu_lQ0hBTXw9NSD-Nk7STwHQF2dISVnfwei9FBpGYFxthwQ3S
+dEs9O9ktVSkRDFiDyp__ynq
 }
 
 AWSEntityColoring(SageMakerGroundTruth)
-!define SageMakerGroundTruth(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, SageMakerGroundTruth, SageMakerGroundTruth)
-!define SageMakerGroundTruth(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, SageMakerGroundTruth, SageMakerGroundTruth)
-!define SageMakerGroundTruthParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, SageMakerGroundTruth, SageMakerGroundTruth)
-!define SageMakerGroundTruthParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, SageMakerGroundTruth, SageMakerGroundTruth)
+!define SageMakerGroundTruth(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, SageMakerGroundTruth, SageMakerGroundTruth)
+!define SageMakerGroundTruth(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, SageMakerGroundTruth, SageMakerGroundTruth)
+!define SageMakerGroundTruthParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, SageMakerGroundTruth, SageMakerGroundTruth)
+!define SageMakerGroundTruthParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, SageMakerGroundTruth, SageMakerGroundTruth)

@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $CloudShell [64x64/16z] {
-xPHdUiGm24G7J9FlVz_qi7qbe_Ju_N-KGP_M7yNEZWk1M5lDRWom205QyWcoFXECfQ0pV7r32XFuiSC85ObjxO-Zm0ksmOUiHopmvppRi1vdpPxDs123mg_C
-H3vcDyArMGMW6D9lHMKOoK0GjtFXld_llMb_W7Rlq04VkTrjRA2_hbCGpVcM0mZtkBeDGoBYvSLrz1jHBG3usPTYrCtCYtxoTtoIENy1jwdv5HHJ-pjWK_ar
-WfJz3A7ePmX5FpSe-fbWpSyBrlmCh-RdwcM_vUfD3kXuVutiTu3x_lx_B74Nw_azEdvO1ry_X9sTHm
+xPE7TWGX24MV1Gim__-vwGcRRHfCtxcdJBqAZ-FsgzZPwHGGOXMVBGb8EKUWU7ID87syuOJiy1FQwqhagA3374tWcea_uiUW1r7WYJQlAsWx8ADl4Y7JFh_V
+J1zDHfts2_fs0k9a1n9nhbO28i_e0LNFfb817ljq-IT6ciW-Nmk6HxvSoxdRO5o_Q9Fn_cLR8iGrlxuLG6d4kJGrWNf__89mtOxdez8C83xwD3ucPv7Mkiyt
+Ve-lQxv6qYK_8ybI_nM1b_Bh0MqfVuaWzViMWd_-1S7dMmS-tn9q-JP1bs_XkNmRdjkNjzOb6sL-_y9l-nbnzVpVWf_wLUh87p7mkOtGxJFOsRa7
 }
 
 AWSEntityColoring(CloudShell)
-!define CloudShell(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CloudShell, CloudShell)
-!define CloudShell(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CloudShell, CloudShell)
-!define CloudShellParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CloudShell, CloudShell)
-!define CloudShellParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CloudShell, CloudShell)
+!define CloudShell(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CloudShell, CloudShell)
+!define CloudShell(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CloudShell, CloudShell)
+!define CloudShellParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CloudShell, CloudShell)
+!define CloudShellParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CloudShell, CloudShell)

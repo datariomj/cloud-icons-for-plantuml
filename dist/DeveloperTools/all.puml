@@ -2,17 +2,17 @@
 'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 
 sprite $Cloud9 [64x64/16z] {
-xPK5iiCm34JNOltx7_XFsQaSd0xx5OAxNYdWlrypcKmcOUPvLMo4EqskM7W3s29S2T3JSaNpTnK4ohDoNfI2TYuygEuuGIl3sRq7UJIzbts4503anuOl101I
-0MnNdiFhHV378lRqjeplgZT9njESzilFBdS3q5zDmOQqd960fbDdO3iT20RwB79R0DavGd8ZFAJh42Dk2-a6JIF0LxFpn_lJReCiChQL8WByxQUtXVVxDouZ
-eHX28uo-zGaUtZbIRuORN4vd39yxhvvk_dnywarMTiPQMxqKPiVrYP8sYkFGDEFsHx1ZGu6BOoC2P51HZkeihiQjyI0gQ5neAxQ5ptrT2S3trKcrei-jJUgn
-WHjlpYZQi0V7Phnmsy2B-2gJoMJo3m
+xPK5hdGX38KF5AdkVxc_2taDboSJvuitzmZGpCIBkLmk5nTciS-APyKlIl-CXHIWJH4U5HZ-KVb0uVY34gfzL4vhv4JvK0C1-NPmnakAcnWHOUypcU0q8rW7
+G19dIiap1K2Z0_CeDup8LFoCzWezwHbhVUSnVYfD_vZJ-V5iwLq0hBVVuLjb_iA0QLBHbdRpqK0R5lr0__MWiCKHtHxAe-lwRFAxqlnVQHB0s-va4KdFwEjK
+o-OP1UsjtyZp_JCIFAtDK9trhQ-XHSRHyox_XDBd3Pxr0aupOnRdj98CoNhUBMU7xAFEUaVnz-Wr3NzjlH5clAU_Wr9CgHNecoK_djEPQcsoJSg_N1Oxybvc
+14NEQYFq_Vz67VB896343Xy59vh64ygFgCThk5mkb-y
 }
 
 AWSEntityColoring(Cloud9)
-!define Cloud9(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, Cloud9, Cloud9)
-!define Cloud9(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, Cloud9, Cloud9)
-!define Cloud9Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, Cloud9, Cloud9)
-!define Cloud9Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, Cloud9, Cloud9)
+!define Cloud9(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Cloud9, Cloud9)
+!define Cloud9(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Cloud9, Cloud9)
+!define Cloud9Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Cloud9, Cloud9)
+!define Cloud9Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Cloud9, Cloud9)
 
 sprite $Cloud9Cloud9 [64x64/16z] {
 xPRNaeOm28K5Kk6y_-jkoSmVLmopyTxlnaee1wB7bPUNbrJL06s5Z-Tmmuccf-OLlrXlhUEN_YW6KW0zqp6G4KfwO6w0ojyR7K3PjbUWkLiPGDuqRyFS8G1a
@@ -23,180 +23,213 @@ ErgQQYkKm_ZuKgY8wXhJ2Io-F1v5Z-PznxzVtpS8EVaSfD0Zs5Lf3ig2LeLex5WIf6LJ9rxgCvZHX_hB
 }
 
 AWSEntityColoring(Cloud9Cloud9)
-!define Cloud9Cloud9(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, Cloud9Cloud9, Cloud9Cloud9)
-!define Cloud9Cloud9(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, Cloud9Cloud9, Cloud9Cloud9)
-!define Cloud9Cloud9Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, Cloud9Cloud9, Cloud9Cloud9)
-!define Cloud9Cloud9Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, Cloud9Cloud9, Cloud9Cloud9)
+!define Cloud9Cloud9(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Cloud9Cloud9, Cloud9Cloud9)
+!define Cloud9Cloud9(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Cloud9Cloud9, Cloud9Cloud9)
+!define Cloud9Cloud9Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Cloud9Cloud9, Cloud9Cloud9)
+!define Cloud9Cloud9Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Cloud9Cloud9, Cloud9Cloud9)
 
 sprite $CloudDevelopmentKit [64x64/16z] {
-xPQ7jkCW34IlX2ZQ___VRUCJBtvEiBStdUPs0Gqp9Ez-m_fV_skq6hNdry4PR5N6L-0Dl7sSEdj0kOq7liyQMDx5uylRVdE0VbpnmE_mPc_bg7Uqws-UELbD
-Ut5xUdK0NWkq9PwdQ_NFP3fZkVpJJr8FSss6IhxSsZM_47U1sylv1_WB3RjXxV1aVj33y7o6OtsUpZ73np5SunJFWz6pGFsa22Nd9ko9k6DMaX0N71CLP_oy
-kOuzXakRftGxrNPIolPbPm6M9klqYVTG0naGXSEdI-TQaO2IBpWiTJr_qGPg-s8zVn8plyVvo5V6ClaRxtx2kvs7erxZ-vFphB3Bqh2-yzse2__9Cv6F84av
-zqr5jcnabR5EAw0gDcqpi7lgOT-219ul0XvDiNduZeSFvOIwE46c2GR07WE72mSmcmfgN38yVfHppOSQa7tDj6mjFwxmLG8g_-wVvwsIhrxYjO5QjxlwqC5u
-aVzKJFvJVh-UZp-1Lq7R-O3O-MOiSHbTV8CYCmIAHL_pmf8o3EiR5YWM5oi0r8YM3MhaQWsVlfU7RzN8mn-G7r3_wtzz
+xPK7rYCX38Dbqx6v_t6tZFcBNzZ0R6zwdV1HX9GPlv_-wx-qbPnorQ-Z9M4gjA_02n2Aw92MWAXtyGZkOqeJIExX2UdzblNc0XNH3pImdkDAf0zsvCy_d7fN
+7yO291CG-W7Fz3ZM0OGSWRh51Ncrw4KAe-_TQwjLZHF47PyXJvzMjxpUEfsNPdgwVmV24myRWOlVaCZDRud0yYKSrFns0KHWDwW5w4jSu8Ck4SYg6OXkl1Ff
+sjpkh02Ip0hwHhLbHXJ1HuPiEGiEkJpJqbjd7G519Xu0-8xqxTjIi6FRyIEyqMt5TyT7Cz3iytnV5QcXUlxpH8Ozty7-WkHviv7jBt5__y6aXppJkXnvp_k9
+NW7rNKgflV6DaFNDFT8bhso9io8HGZU-1n1Z5acp1MibZK2s-NK6c5aIFczUwVggw5kiLkgfM6rcWIvPVMQHykQ3w3ReXFSr283k_u1dxsPyC3-65cJ8dazs
+0Oily-o_5Y2c4pwRWTP_vd4PQFRbCtwCQf-h-Vuzm9xlc1-AuFEduvXVv3TX_26ycbF6sr-lyUQgZfqQWvlnXH0YKFJY6ridDxAa2CLh8SDgWjX29xAamkRF
+CC0kSgeUti-VrRkbvkPB7pz0__LV7m4
 }
 
 AWSEntityColoring(CloudDevelopmentKit)
-!define CloudDevelopmentKit(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CloudDevelopmentKit, CloudDevelopmentKit)
-!define CloudDevelopmentKit(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CloudDevelopmentKit, CloudDevelopmentKit)
-!define CloudDevelopmentKitParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CloudDevelopmentKit, CloudDevelopmentKit)
-!define CloudDevelopmentKitParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CloudDevelopmentKit, CloudDevelopmentKit)
+!define CloudDevelopmentKit(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CloudDevelopmentKit, CloudDevelopmentKit)
+!define CloudDevelopmentKit(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CloudDevelopmentKit, CloudDevelopmentKit)
+!define CloudDevelopmentKitParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CloudDevelopmentKit, CloudDevelopmentKit)
+!define CloudDevelopmentKitParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CloudDevelopmentKit, CloudDevelopmentKit)
 
 sprite $CloudShell [64x64/16z] {
-xPHdUiGm24G7J9FlVz_qi7qbe_Ju_N-KGP_M7yNEZWk1M5lDRWom205QyWcoFXECfQ0pV7r32XFuiSC85ObjxO-Zm0ksmOUiHopmvppRi1vdpPxDs123mg_C
-H3vcDyArMGMW6D9lHMKOoK0GjtFXld_llMb_W7Rlq04VkTrjRA2_hbCGpVcM0mZtkBeDGoBYvSLrz1jHBG3usPTYrCtCYtxoTtoIENy1jwdv5HHJ-pjWK_ar
-WfJz3A7ePmX5FpSe-fbWpSyBrlmCh-RdwcM_vUfD3kXuVutiTu3x_lx_B74Nw_azEdvO1ry_X9sTHm
+xPE7TWGX24MV1Gim__-vwGcRRHfCtxcdJBqAZ-FsgzZPwHGGOXMVBGb8EKUWU7ID87syuOJiy1FQwqhagA3374tWcea_uiUW1r7WYJQlAsWx8ADl4Y7JFh_V
+J1zDHfts2_fs0k9a1n9nhbO28i_e0LNFfb817ljq-IT6ciW-Nmk6HxvSoxdRO5o_Q9Fn_cLR8iGrlxuLG6d4kJGrWNf__89mtOxdez8C83xwD3ucPv7Mkiyt
+Ve-lQxv6qYK_8ybI_nM1b_Bh0MqfVuaWzViMWd_-1S7dMmS-tn9q-JP1bs_XkNmRdjkNjzOb6sL-_y9l-nbnzVpVWf_wLUh87p7mkOtGxJFOsRa7
 }
 
 AWSEntityColoring(CloudShell)
-!define CloudShell(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CloudShell, CloudShell)
-!define CloudShell(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CloudShell, CloudShell)
-!define CloudShellParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CloudShell, CloudShell)
-!define CloudShellParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CloudShell, CloudShell)
+!define CloudShell(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CloudShell, CloudShell)
+!define CloudShell(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CloudShell, CloudShell)
+!define CloudShellParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CloudShell, CloudShell)
+!define CloudShellParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CloudShell, CloudShell)
 
 sprite $CodeArtifact [64x64/16z] {
-xPO5TiGm34J79Bh_VOjvdUMrd78x2tdq7R4S7wD__SjtqLhA3jehYgxZ7HZhj1IqTUVjIqt7iUdUDMcwHL03GBL9sXiWnoM0QWFeKxW2tK-C4Hux4JWxSfnn
-j89Y4_onuyrFmZh5q_5aMidxvZZ5SCpmzSgRj42ti_mcNw-L1uJFQNxuBbuXQxot_XgDy6fvNijB60qz3B0iFxQIQ_3O3aZnxJM9ZlOQX9ArlqBUca81ISUl
-GYD0Nx9yD0zvgJXjg_alPLVzAMGN7nehV5df7-xRXcfN-vVyTGsW-vNvGJunoJbEoIUM8CSf-SmcEnsd0abiKff2qtnw7KgZump4hBI0gM0W4X8xNQYxxbJo
-7IucUIat-8fOpcigFRwZ_lMlHm
+xPO7SaOX28GNx8htFsuAQSOPC-9BJ_RlvNDWHNZzG_IlVqcxX6TYEQUR0-Npq0CGvKBeSEV9LmQLhmez4VmOUWl55ZgF_vS8mDLDkdaWoMiVkKGWRELJ02zZ
+C5e2kYobZHK2wiB7CgMruWSwOVHHrDPzlX2uMhTL-NNjgnrRl4EKHLa_B22blSKphyf3UNqryB6Tyg9U8ftnpGLr0zAuslb2YFhVs2kXMldqs0GysXr0L8sy
+HzGau7Nhm4PU64c_h8eZsNXT87U1kzz1KBNxBxxrX79lfPUp-X7YI_MNaIxnaiNCsy_FF6yzk2xExvgVkdPeo_wXlB6JwpTHXZnCaqJYq4wLDqsoFBNJX6oO
+f9L1UJAYhR7PifV4LSqqdpDfulDSsPSaJNmnLsogNt5DDITkrpp1xH87IlrSma7w5HbeY_xrhri
 }
 
 AWSEntityColoring(CodeArtifact)
-!define CodeArtifact(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CodeArtifact, CodeArtifact)
-!define CodeArtifact(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CodeArtifact, CodeArtifact)
-!define CodeArtifactParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CodeArtifact, CodeArtifact)
-!define CodeArtifactParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CodeArtifact, CodeArtifact)
+!define CodeArtifact(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CodeArtifact, CodeArtifact)
+!define CodeArtifact(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CodeArtifact, CodeArtifact)
+!define CodeArtifactParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CodeArtifact, CodeArtifact)
+!define CodeArtifactParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CodeArtifact, CodeArtifact)
 
 sprite $CodeBuild [64x64/16z] {
-xTG7ajim38NX1v14UVS_S4R2o5rbcMId-NULn0_kvh_espStivpd2G1ZtWU6G_IibhlUM5w0sw3QUjg80z_NE-Y0i_9bIx8sKZ00F_G62OPWS6crZZ8115FW
-1xv3asGg6icwPgxZ78ZQi3tV59rLX_Z2gePcjvUX63iUKDjI0Css1C3ODe2-uo-NxruK04OiAUAb3dlOAlvKKrKCGQmRmfSCoRC2dZLWshC6pFiQCEzhmBol
-0VBcE_ogPmBFtXiWa97N_7ZoqR7IQ83w1J-WklaO0lHWPRLnx3iQM_a5ezb37O3OaM_eP7d7Jh7lwyUvUOiFZNq_1CO77_oGxtl0kUEjvRal_kh7SgN2EHy2
-NrzRgfzwsAkt6jgGAOWJRmfxzlMtoKIlNzQnTohioKTzsdsz7cXdlWRS_FRoeUiGpJDV0nuyKvHMtyn6ddigngDd9aMMpS5BdWfiVXF6wfAdlFW1_iHtl7Zc
-Jtn7Q-Knx4Fzm1UV__qNPtd6vvBxlg5pzHC5hFYqb-BJllYyrwXqqj-QydJR2lv2txxz0G
+xTK7bjim303HOGT9uFxNpOfqjrLMoSjh7bUL3ylT_aNVlbKHqVEy0-Jplf4hBkpMLxtez1uU1Zd0NnSykBRXavbLHu9gCu5uCzsH7NNJbsNlvYulHS9t4v2n
+osAxGzQznWMOQI3gvTeku-eyZkufQpvwaev5JVWwcCrneU3wNF3a5Gz1hWKWtfOya6LM8Atum_LtxmD0halUrPSIyh3qnat7sviTuxqApbugTDkh8NqCEE-j
+E-hV-3dWl9y3plivmBrwJSXHFmOyuHh1uN8_vWkFlYO6RH62wBxFX73rBJj8pKPQ_5ZOz1g9ElpSdr3aNW9ysV0QI6RJ2okrLV_3izrzgH_Ar3LVFCNk_lC3
+oRe7iHKliH_mrTwzPZKpx_I0btVV_BAsahkl9uvVvhg8TaVTySKZpxxC7-HE6f_hjkr5FUN9DuP9upeJTxpD0NS__pMKSFatsVEcWVBehJjlPI6HgBRdnu3y
+wArtSykoPBDzFmPmywDAiT4XR-fUV4P_unCltWO_wXCnN7oM3wKjFxXDNt___P_yugtLZtLRzv5amv_enmz-thl1p_l9p_jGP_waltNAczngzX_wzkqF
 }
 
 AWSEntityColoring(CodeBuild)
-!define CodeBuild(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CodeBuild, CodeBuild)
-!define CodeBuild(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CodeBuild, CodeBuild)
-!define CodeBuildParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CodeBuild, CodeBuild)
-!define CodeBuildParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CodeBuild, CodeBuild)
+!define CodeBuild(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CodeBuild, CodeBuild)
+!define CodeBuild(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CodeBuild, CodeBuild)
+!define CodeBuildParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CodeBuild, CodeBuild)
+!define CodeBuildParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CodeBuild, CodeBuild)
 
 sprite $CodeCommit [64x64/16z] {
-xPO53kGm34M_O_Rz3xngbL47IkjbU0F55uxb-axyvp_fdjL70K3wEjYTsmKaU3amikSxV3a4xDVu_VPF5CETmPMqajtvSu3668rs46MjFg9MJFUnVNzGhRu-
-2Y0S4AU-ntmZzz4hlmAeO-pKJysgyAQ_4SAQVL-mO5tVm5Kva4sVrlE4DFqfqcZwKmGtVO7F_xk-lSO_0ii0rrrVCUmb_Wb0MXkkfpx6Z1-VrJmsqvc_nQyF
-d-7h2rhMy8CWw-0Y1NBep_WdY5VVC0jUN8QSZ1z72BXU_Nbd3Wn33_mP__XZcXYoDS-0Gx_oBUWAgXu5o2oBulR-jqTZMERipf6yuwSIjjQKmfT_htk-yzlQ
-8_gQ-4S0--lYiBj-Ca1MRsJTz0EGs7_jsYTAGbJrVCM2LjEV-G_t_2r_Y9w_xTzVuc_xFnl-VlveiDX547VoLyCXMNkyvyzk1tXz3_xpdoy
+xPQ7ZYiX34MlmGOCzl__xXCQKfNX4MRLStRJEPHB4Vv7_FXXgks2dG10RDTFYAeCsTGROdzXj3rVeVsbebprB_Q_xkTNbC7U0dM-pY6F-LE0OepVvsY1kgG0
+wgWoVIRxHs8uaaot2W9Eg5DVwoZHFfF-vtibs2IfgTzISw_gU_w3AfpQlYy00MNNBs3p5b0t_H2iPm7Pyss85FVy8HfutRT0zXHV6S-hVgRdyyy2eWJmSluP
+iPJu44m8bFr1IJRnxUdyUoysDXFDV4KPB---CVJObfPd_ZZ_tdsb8vG84yYfty17xFNLpw1HiRX5o6b-2QnLm6yn7z-CO2mYdVcU083jpJU6FBgN0PkjdvVz
+AZ2_LI2ZBghB-xyW7jMok26u6utkBVWj4swziMwKxfN5_QCCK7v4OKJVd7y4iBukZhpgDmP2Dd-bsg9V0QxpOjFve_7JXf_HIRxfZ_iFR_cF_R_P_yV-pHVz
+Sh7_xLf-yboiw4S4TUN-cd5AMxa_Mpb3_I_uyUCV
 }
 
 AWSEntityColoring(CodeCommit)
-!define CodeCommit(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CodeCommit, CodeCommit)
-!define CodeCommit(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CodeCommit, CodeCommit)
-!define CodeCommitParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CodeCommit, CodeCommit)
-!define CodeCommitParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CodeCommit, CodeCommit)
+!define CodeCommit(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CodeCommit, CodeCommit)
+!define CodeCommit(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CodeCommit, CodeCommit)
+!define CodeCommitParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CodeCommit, CodeCommit)
+!define CodeCommitParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CodeCommit, CodeCommit)
 
 sprite $CodeDeploy [64x64/16z] {
-xLM7RYmX31nNCF__mK-yHPmtOciKrHkraFDunWMs_HM--A8MTo_r5TULW07Iyb1OEai0Ame80T3xDa80zjOONTQWBPm1YNjq6w45sZe4TLYoEtG6RrO9mmva
-Auh0rzu9EdemvGJ3kOBYakw9jQ7CJ7wLW30dDStcFmleZ2vJFTdllZzh0JccEpHDeQR_bvJB3ulFvWJv1yqbng7xciBoh90E1NeaBvcIevYop841pV8rbvaR
-cCUv1pW7fPRbPdPGSfCPtdLhJOpenvcj7oDbsqCHXT71fST4CqA7rF_LXAA3BA_6pXK3wkvAuAOe0FUZ05RX1eYv6mDrkKF0J6iW1cYu38Q0vlKlXDKILwIE
-Ev1lYWAGVCUmQbysfTZrdv5d7a2iTp-7xCt9mQ9cLn8vPB-QbWwoVeTitu4iaK_by1si18wak7IZSou75fRtJpuIqavG6ODNiaeTXyXZMSEidS2ZtO3m4jxk
-eGAq0FWsVwd4x_XgR_arqgludE_eJ4CjyeOlspA2cu6VymawFpq6Vind-EUjDSX3_aXGODlMs_F-CSfsyHmeR-QduyD972_tHz6PyNh_8B_RNwll-EeBq5r-
-O0rfDn5rYPzXNtpn3m
+xPM7ZZCn28G_6nUmsVT_tB_4oXudEUsAQYODmeuPS3j-2M-yuSDKrOP_XQibSKMg-jeOem1Pe5c5ae0wdcRF0g9-2FRFwzHZQeOodwCtrgDAlVZ2M99epnGk
+v2KruqiEvV9h6V67sZDrMNQcAopbNidp0JsXWRLWz6D1IVEk-8HTJVB7lwTff7ib27h4fAUKazIHs_HE3RCmJbknqwxqcyMJFKZn4AYnn5ijA8GrbkJOEqQz
+bRw4JXAVaXIT6m9gJ3_eCOH70Mr7Tw9YnOBN6S7BQKDV4-R3XdymvdAleqspkM9R-LC5WAp7qPZUCW1b78OUioI0r7ni2yX9IAMhreHunHAvTkq5sg0taAxQ
+CicGNVdGV9cDB91iHQOW96Gkrn9fqu016hf7t2aLA76FuPlsHL4LDBX2P4msAq2fmPkVKnXbkr0Z8oCpFl8fI0kEa7tJm0RznehfOJLPelcnmmWIOiPu07Wz
+v-M-X2IxfJqI9IJVIbYMdVg3CyEqt9BGxuNxCtU85zcYFtlxaNOWFylV5vc_ng_jg_mnrwduHNv7rZrWnL_dUo7FjNGQug_oFLFz8aAFDS2B-JFwSTOsoilw
+C_rwYuv4Uxb_dj5r2tQmB_JVgq_gvVgVNrm_bSiIyA_CVzptN-Kt-ng_w0RfMVva3pcUnBGj_FYCDzxu2m
 }
 
 AWSEntityColoring(CodeDeploy)
-!define CodeDeploy(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CodeDeploy, CodeDeploy)
-!define CodeDeploy(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CodeDeploy, CodeDeploy)
-!define CodeDeployParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CodeDeploy, CodeDeploy)
-!define CodeDeployParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CodeDeploy, CodeDeploy)
+!define CodeDeploy(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CodeDeploy, CodeDeploy)
+!define CodeDeploy(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CodeDeploy, CodeDeploy)
+!define CodeDeployParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CodeDeploy, CodeDeploy)
+!define CodeDeployParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CodeDeploy, CodeDeploy)
 
 sprite $CodePipeline [64x64/16z] {
-xPJ5WSH030HxGDJvvtjyYmPv6LmVOmq9-2Yih5XF8CPXeY17vI05oWGXQ1p0eCpH4Jn6m2GE6nmrx-iB-gjV_n6oVa5A7UHy_zpyFRT-pgxVy_l7SFz2wHCK
-RFhN2EZJE-U69_73p_C5VfPV2a_nlUWcAnswr3VyBRk1Z0fPvYjAy9luVMveItpvrpUdrr7plcupV7CdQ6dV0J-ewIZGj4ylVrx5VpHWJFkR4u_3QEJZto2R
-HcCeiJZ_9BQdr-Ea_5NOMVLN2y_okmpxBzs_ca_GvlrfPdtNIPmNP6Nb4m
+xPG5WWCX40GRXs7w_y-zkA_0nQKYguNJV15-_D0S_3onS1YnQCCf1r2Bh9n78pm7oCXi8w3oaWXb6mLvi5Gs8X_f_tot8v6h0vdS4FPw_zhrU-t-kNh_NfyV
+m_a5woUmsEVN20ZJFUUUD_6rNET7oBzyvGPZIUttnIIkA4WKv5w_08Kh79JL8lRv6KQuegwlrS5hXnzXw-de1JXjzjD-XQkn-sbmpRu0vMnFLulKx5CCydxq
+kB_HxEz6NFQpOQHl_jGXRe9cezVkzHSh5OuhD5Is-nE9sEbRezVu6jBRvq-_xye4RjwVWJD8daHuGtxyM
 }
 
 AWSEntityColoring(CodePipeline)
-!define CodePipeline(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CodePipeline, CodePipeline)
-!define CodePipeline(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CodePipeline, CodePipeline)
-!define CodePipelineParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CodePipeline, CodePipeline)
-!define CodePipelineParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CodePipeline, CodePipeline)
+!define CodePipeline(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CodePipeline, CodePipeline)
+!define CodePipeline(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CodePipeline, CodePipeline)
+!define CodePipelineParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CodePipeline, CodePipeline)
+!define CodePipelineParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CodePipeline, CodePipeline)
 
 sprite $CodeStar [64x64/16z] {
-xLO7SiCm30F5hVy_kETQFgP3Bhjk1XbU0ac1WfBvdtZYYJ3_3Pi0G7zC1pHy_3Z0GDQX3v5pV49M6JPdzla2wEAjE3eLimy3uar-Ca6BE8Wa7HHlvt-WfHVn
-041P-hiHR7edlq9Fqjl-msOFDDRiVLO4Zzb4GkluAPnfwDpYApu3Wq3RWeYM3BwHHuuQGFksSnxVupQy8MuM7W6Kk-dLSOEGmVRsJcpaROBniNxl45qk2sR9
-i_HhG43d8QjUEVkN6qeEgrFmF70SQlzn1lH6VBd60VQm5BX8Ybrs1zEupa7vA1cZ8djiAeW7hUCCuB0rcojoWa0t_lKt0GQMYIib87iw0F8hWCnuvTaRnsZk
-wSF326jm7jFELz6pv_vHXzg-coXR2QvqWcYpgxE6h1Ny1fdt-NrbtJmd0FBb_0DZKnwfCUYk038J86-Ysrq5JW16tAepRiqRaVjjfDJf8TtdGl6umOyyFOC7
-i_jvck3ErZCi2E8s8FNJ8PbEY0wV0FX9YsLWvUMk3lzS1MK11do6QeEzjBeA1r-jjTb6BjwZ1RN9BU_LuGT8GDqPF7-6rN_vtJ_ddF-99vvu0G
+xPQ5hZGn28KFfKQ1zt_SNqWwSurDhqNtYvoLuepuR_BaoPfYtx0c01XVDWU6p8BkNwD0tTquv9nUDLJHGWN3JVsO1dIBz4TyDtJlC3zc0F8gVXdjnDv68Mew
+GIk-C_wh5H1mO6yCgWoWwDN_BhDWc9p4x-Wny_leAW0ekd2GFd78n7ovVyly3CNmq7HV9XVkgJj3VsnVGLn0AysVmdU795EjvYwWVEoiRWCbSLz21kJ1uX6X
+Q5hUrepLk0vxzSkwsvlRvp3iNVxJ3v2sBq5xqx-IJ_3-r133Q52bVhU72QJP_l2yFfQ8vGPsuwjWgOHiVwm1RPy3XkzLk1t43rdqYKfysLCSCoeXzOLdaP7C
+pYlyfOFhIb86snuYWIo_ViKk1ykzn56X5nCdjDmS08a72yrNs8tuRTFLKtEMDMXljxhNQ9QmdLtzSKw9xr-gdpEnGjireORbvmpehS5i_WfJUsWleTcDTX90
+BVTWA1PzvwIxr0V7cOG16hC1wq5tnzw4B4FmIi9hQ25_m99iEohsJFmKlTzSxgxMqCT44ie0xce5_NYb6ifOX2QJqJom2dJLILWdzWH08bt4UItelA-k0_kz
+1ViDeWBJL-_J_CpUTkAeUxJ3Jp5rVn4_i6x-6IfaovTGGfV9gFv5j010i--yEK_rt-J9axy
 }
 
 AWSEntityColoring(CodeStar)
-!define CodeStar(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CodeStar, CodeStar)
-!define CodeStar(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CodeStar, CodeStar)
-!define CodeStarParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CodeStar, CodeStar)
-!define CodeStarParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CodeStar, CodeStar)
+!define CodeStar(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CodeStar, CodeStar)
+!define CodeStar(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CodeStar, CodeStar)
+!define CodeStarParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CodeStar, CodeStar)
+!define CodeStarParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CodeStar, CodeStar)
 
 sprite $CommandLineInterface [64x64/16z] {
-xTP50W9130NHZ7H8Sly3iyAbMd1I-_UHqVY4iipMXkpIgpIarxn5PNRBkqQeXrgdLp4J3LaxlLk4UPXtURNALFGP_t_HoiheyNkcJ-zZtcKPyh7207WO00y3
-u660F0oWXm7qC82U1-gzJxBfyC318sVFdFsUb_auyXUymyEN1y-SVIp0y_wTlkdzPOvzy-Nx2x-_bjXNzk-l7r2MRG4
+xTO53iCm38NX58E-_t7734-6yVnB5JLV6KAVaEVbKL2-zYa8IhTy8MRbdg-fjLGf5QLVBUjrOTBkFxUMA-MgyZ4pYo4zu_hFYTbilN_FzEwhpTTkjEr_2gF1
+umrWZpV0ztW3sECDO8ytmFTu0zZZ3V1zxK8sUC2XnnnxpFd-oEDm6i_lkDBZWySUSRvlO_Rljzoxlrj_7DKVvo_y-Ujy73KVvw_lp_EM
 }
 
 AWSEntityColoring(CommandLineInterface)
-!define CommandLineInterface(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CommandLineInterface, CommandLineInterface)
-!define CommandLineInterface(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CommandLineInterface, CommandLineInterface)
-!define CommandLineInterfaceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CommandLineInterface, CommandLineInterface)
-!define CommandLineInterfaceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CommandLineInterface, CommandLineInterface)
+!define CommandLineInterface(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CommandLineInterface, CommandLineInterface)
+!define CommandLineInterface(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CommandLineInterface, CommandLineInterface)
+!define CommandLineInterfaceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CommandLineInterface, CommandLineInterface)
+!define CommandLineInterfaceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CommandLineInterface, CommandLineInterface)
 
 sprite $Corretto [64x64/16z] {
-xTG7ck8m44JXKcVL_UyxmNoZIRG1itdvoU4vI_mP7XuoNXKFcZWvtbjLwHszaxG_e9-sgLlx8I83f6EZl8tAAttR1oWFETYdRURHNh29m_rOvy2nETglytUi
-lvsB-7klyfLotu3uEdxV-u5YQsO4vDFv-ohxVYfU2JlxVG6MLUDWFp6spJtQ6uhtz52klgmbJP_8zpxHQ_f0yPxjpolxQFg2hqj_ZsFoh36uKSX9iUIptIav
-uAVN_RxVF86l7Ud1s150pGo3lKIobO9DiINW9HF2Ji9vaIFO6E0Lf1zZmKjIrb3-Ac1CdToZGB60uZSE8GDmBlr50Fy-k-df5SPE8BYP0idFAr-POh9Xu9i0
-XYLVpL10ghc6sbCN0W03hpIvA8gT0UUxcMQgvldjE7IcO0HxSns7JWn0lCZlqcKTXnrb0y1GywYJ33VTllJ9QymmmMT3FITlCYjZazMNnpqyF0C
+xTI56Y8n34NXsoQLDBdl_xhBu7nGPkcw_BWSP2hy4Vxxp_h6kCXn4ijzCJF5Ujz8rj-Wzw87PNpQ9n5925OSAJyIAXkz_0SebopsfflYgxtWg2tt-MuCDklz
+PVpM-izLaNhhvLdmhOIjn-PLds6SSkizoVtuFUdptWKRuSHERq3fPccnzvIS1wkzOf3hVK1vxOTEoQGtz5jlc9lq7OFBl__--Pnt-i5N1XgF9F6T2kTBAVD8
+8IU39eygoOBWImtjV9kd_TkV9wX1Sg1oBb0u4OAa1yWBX_-eIyB6E9KHt178d35KxgfeV2ro2kwAZC6N58rxUWv7yjT3h3Hr7iq7OT2sgoSLETY0-lQdro1f
+UFgbeP0WwOB2cNR9F2Ft-xhYcYcS4ugu12qX5GkIuLs1FEwtYebwzrAqZ8EKSA3zSQURY8GMlF9ULBHKYuVZe9noGMh1AQz02RxH4o1r19-4rGo8SOTf0f2r
+j6vcOvXPhqMEJrRdr_1sVF-z9BK7Fn5kreziEB-___xx0W
 }
 
 AWSEntityColoring(Corretto)
-!define Corretto(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, Corretto, Corretto)
-!define Corretto(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, Corretto, Corretto)
-!define CorrettoParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, Corretto, Corretto)
-!define CorrettoParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, Corretto, Corretto)
+!define Corretto(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Corretto, Corretto)
+!define Corretto(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Corretto, Corretto)
+!define CorrettoParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Corretto, Corretto)
+!define CorrettoParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Corretto, Corretto)
 
-sprite $DeveloperTools [64x64/16z] {
-xPT7TWDH20JtxkR-ntMQLYZq7yPxiPa0LV0L9dpyn3iaMtzNsLMsz9gegfeCAKgePQfykQ5cEAtbpilbR3b4xn7FQtlVJH0G5t1C9ivo27VS3mQ8gexj3HoC
-oknqRayyUq1WGrI97uB34E42uEI7O85n2GS37vmzcym37vnLMHWFcCxMld1E6MV250JFNgMorU373m7caIIkcFz0YmBYHsTNKD0hvr-v3C7G7JXI59Yu9Dd0
-Pu7KahXGBGGzPODU2xZilM32zu8PdmKkQyPdGJvm0ry9iiq4_w4LGJGGh9fVWk0GxF1h4no2BNuVde8zpaiS1JEEYpu4InpzzmA95-ADW9Ulu6i1QPlflK2d
-PnSj1ECrsWl1V97T2L02V2NGlT8My9qW-Nn_m5S2bouyln_W2q6LSB_9YjQ2gk3WTu8mmJi_2nwxU2pCPXAmXUe9lwzY590ddjmiu07m-2P17mPuSfD0gJtY
-1VmaEEDboQu13qcSbw_ggVsRbcHR0ns1VH_m7Ly
-}
+sprite $DeveloperTools [64x64/16z] xS61400000CXWldhpkElMXu0001m
 
 AWSEntityColoring(DeveloperTools)
-!define DeveloperTools(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, DeveloperTools, DeveloperTools)
-!define DeveloperTools(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, DeveloperTools, DeveloperTools)
-!define DeveloperToolsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, DeveloperTools, DeveloperTools)
-!define DeveloperToolsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, DeveloperTools, DeveloperTools)
+!define DeveloperTools(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DeveloperTools, DeveloperTools)
+!define DeveloperTools(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DeveloperTools, DeveloperTools)
+!define DeveloperToolsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DeveloperTools, DeveloperTools)
+!define DeveloperToolsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DeveloperTools, DeveloperTools)
 
 sprite $ToolsandSDKs [64x64/16z] {
-xPRNiiCW34HN527y_nzym-m3CHu7H2PFrvjEE2xgnm_rw57vYiw0x1z11I4BGjsYBK2Krv3yT8r0xb_LIQVJIOj0p6UsMC-cuCgosQvdIq2UixpMSc_FYOnc
-kprqiAdP78OPSVuxS-lj5hj4QmRok02xvwCWrlVD8V2GtJFf4wzlRb8wWfxldj7FV7EJSRFesVECuWdVFbxqoTULlyZD-HSEoCNpzLZc5KCGCWKTl349EXsS
-VAyRZOxLl3n1jKZ_UNak24Xly9H8e_Vv48v_oQUHJmwU2VFEgol-UwaaRomY7fxXMnjVcVzUdXrGX2LtaSzZnm36afzXw_LRHNIzVe-tUXMDqZLjSgLC6kka
-oOLmEdJnTN_oupmo5zie-RxYd7wKl6Vw6CS8ylpgbWB1Gh00wFRqsPItu5xwZozaTlnEZnxz0G
+xPR7TiKW34H51vN__zs4QA5ZlGRsUQjuDgwNDlOW-PvktUBEL-WA4CPfl0U8DK2YK_I84BgEeV0sJGcWAaOPGjkZkMYdDfGuzfOjq-5E2tfdTTdmsOWgho_R
+ep2v1ozUWlQgc-47vaMwRCiBu_77fypkbGn0htW42DttrzZT07pDP_rQpRIapfipgRpZEnVjKL-EGnaISwQ_vKKm0avwldnmdaDeB9_usOzsPHCdTHxdZGN-
+5mU8x9qdaLM-Gu3GdMrzXyUvR6Wqf4tUScFIcN2NLx3X7osopwlZIf_WLJ5C-W8VvL_oXOyybnrUVnZZzITUvYt3bKUBv2NUedBob2tvrtbHBaQBt0M-7QyZ
+0FZ8Ru3h-Tr3wElvxQRgyz_l7okRt1XYqanPs7qDYj5jh9_5RGxIyHecl5bzA6ztbaL9yrzvRjj5c9OyoklfjcQd62FEePokFgSgoqcHXlS58ShtTElM3m
 }
 
 AWSEntityColoring(ToolsandSDKs)
-!define ToolsandSDKs(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, ToolsandSDKs, ToolsandSDKs)
-!define ToolsandSDKs(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, ToolsandSDKs, ToolsandSDKs)
-!define ToolsandSDKsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, ToolsandSDKs, ToolsandSDKs)
-!define ToolsandSDKsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, ToolsandSDKs, ToolsandSDKs)
+!define ToolsandSDKs(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ToolsandSDKs, ToolsandSDKs)
+!define ToolsandSDKs(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ToolsandSDKs, ToolsandSDKs)
+!define ToolsandSDKsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ToolsandSDKs, ToolsandSDKs)
+!define ToolsandSDKsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ToolsandSDKs, ToolsandSDKs)
 
 sprite $XRay [64x64/16z] {
-xPP5ekGm34HBilZ-znriYZg9dPdLXxSBF8DKWVg4VFEDos0Ublyafm0W8W0ZhkiE3A_VX01oLJVGSz8Su8kpDq4nBlcWsgBG2xeWgZ6GgIAsvE-iDa7uWyzr
-sxjfWAFA2J7r1tRpS5i7JtscqzhapAUpAGAJ6iPvMXBWin5qbdSN0iLnxKOkD0X-T4MgaU4U_HmTL96e5KC8Vs3T286nKDmO09k7cn2WquoKRfPbhqumA2SP
-BS5cCCvMjMWhFVCDVOi1oaE_hofQYjevtrr_FkTavBQBVxVaRQKDWT_7rtPXsz-ZZ1Dyqv_c6-9sEVRz94YqLr0-_OJyxQMUl3rWc_8QuhbVuhAMfKv8FClR
-_K4bf5aJRljCYUOBJhtMte3r-UV-JTptcMi9oBwFiUOpxVeEMx5lIKs7PYeySo3xzkUVKCOhKXMGLT-WPVgALn6oLc5uDGQyrg5UgvRw6ScRRu5Jq-V8uoSg
-ZK5ULya1W9W0aFx7JwHerEVacsz-0W
+xTO5SlDG30JW5JoKzlx7_Q4kv3dWk8E5RxZMDY2OyFlvzIjxCJDlmS-80a1K0TZaQHtmdYGv2r2IvpJ8v9jmMFAC0Lq23SOJKYIvgAXyNi7WZY6YUMd9OmdZ
+Na3nOl1GlrNaqCaSWiaZZkILs7eOC1unvNqLmGDg3rlR-T1qAEzBm1vreG8s-C0e0hbRuV3WaIxtFaH3uKwCFcPo4OAuFRYQLs_sXTRbmOJpXe6sL1bWhO_H
+Ym0rrnavR6w_p4o3ni6Cibp-rxe4o0wPonWypdTuSZ55ud6-ORmNGvCx0_Ru_GVyOk7NBcuVgQ_lTC_V2WRgxfDj_PNx9s8hG5_wi-RPCBV76Bmf13x95EER
+Z7pF1yhMoyexqe76YNRHYFcUfngR0ettpJANzYnv4rQjmJkM31a-Tda7dp4mjY7e-xpmq1QydLVbCnBbPZxXV8h9FlzWxEzjGWpKY8eHuOXSnkf0YfAAIuMS
+A7nIGsMhbmPJaNoMeNELov-EfABjuvKdXC9ZEVgLfsG1V2H9HbF8u5dX04G5WBJyv8z8D_Cw-Jtz-lKN
 }
 
 AWSEntityColoring(XRay)
-!define XRay(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, XRay, XRay)
-!define XRay(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, XRay, XRay)
-!define XRayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, XRay, XRay)
-!define XRayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, XRay, XRay)
+!define XRay(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, XRay, XRay)
+!define XRay(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, XRay, XRay)
+!define XRayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, XRay, XRay)
+!define XRayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, XRay, XRay)
+
+sprite $cloudbuild [64x64/16z] {
+xTO7RiDG30HHsQgeU__R9XIG0GYB0V-cbqcroUVUzA7zDxzDHs_JaPocUIRxpCdMv6gQN4ws9bVJucgoETcQ-bvzhsAlgQDYhtCFS6P9xri-bgqBpumzRP6Y
+h0lF67t6mXH_xtFb8z563tkrPx8aVXnibPxkvvdJ_imZTYfFsSlrcVj-Tprdx_iLxddP7lvr7kxxtVQSlUyJtmTyz73j-vvXrlUvvwFaTnQQdeLqqNkUxehG
+VKzfDkA9YUddQd0NqO3NTKslidl3ZtviR79wrQjJwTNisckW2w-nG9QEy8wENhpiflFdu_hl2G
+}
+
+AWSEntityColoring(cloudbuild)
+!define cloudbuild(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudbuild, cloudbuild)
+!define cloudbuild(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudbuild, cloudbuild)
+!define cloudbuildParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudbuild, cloudbuild)
+!define cloudbuildParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudbuild, cloudbuild)
+
+sprite $clouddeploymentmanager [64x64/16z] {
+xT8t0iCm34FHWIRa3VS_RNf16k5OIuh-hATEZaPOaU6-Mpyy5_Tr7jdb4P7ULpmYL_iu13XVymQyuJFl-DnaXFKPaSgZ7JoC5nwHmibsyB1UBqmuUVImNYzC
+E8bZpkk5JS9bWjB7iNOuy2HS9YZytOLDGSbuvMHYLvAQySh9F76jzChr4seBFCkifobhJrlfsUVPvSa_zMiQlcy2ccQ9ff_om-DfN-ENDze2
+}
+
+AWSEntityColoring(clouddeploymentmanager)
+!define clouddeploymentmanager(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, clouddeploymentmanager, clouddeploymentmanager)
+!define clouddeploymentmanager(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, clouddeploymentmanager, clouddeploymentmanager)
+!define clouddeploymentmanagerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, clouddeploymentmanager, clouddeploymentmanager)
+!define clouddeploymentmanagerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, clouddeploymentmanager, clouddeploymentmanager)
+
+sprite $toolsforpowershell [64x64/16z] {
+xP7BZiCm30E3YcJsbl__suLZxSEj3AQFe-SQZ4PoZi-oM2mMSGVmda_6Mtc9LaAdp4jg7zIP-3rLvoKQ7vbgUf4_5r3oGbxYxNS0Z5xapGKCanyluALyZfRi
+0iXKeQSoBW3w_F7Bum81cnzUHmbFVqS4gxpnyuAT4O7DFzxaWZqQlFzvkkGFkKHeyxxQ0EUZwTaV5zWrzpdB9nj2qdm0ftf2wEI_lvLvHENdWSKJkkqJLGCG
+JQ36V3wUNm0IIQdE-mMKbF_EBv3bEky7OAxVZ7zCyvt3CSbV9q9l-IR_Fel5Ol4D
+}
+
+AWSEntityColoring(toolsforpowershell)
+!define toolsforpowershell(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, toolsforpowershell, toolsforpowershell)
+!define toolsforpowershell(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, toolsforpowershell, toolsforpowershell)
+!define toolsforpowershellParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, toolsforpowershell, toolsforpowershell)
+!define toolsforpowershellParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, toolsforpowershell, toolsforpowershell)
 

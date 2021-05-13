@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $NetworkFirewall [64x64/16z] {
-xPK7iYCX30LRGWYa-z_tvqaroTYx5TtEXgTSaF-3Ds_YYtoMRW8WrfzIAuZLQWewRg71v3SCV5WkVHDB7GiUYLmHIii1b9uRGeYHwEi-efBDjFXZxlVE30K1
-kOyZiAEIO95P7p3WX-so-hTOyuPAptD4ymOZBbVl9pSkerE_M8y2vVkBbzeFpHSkvhaB5dz-G8xtkL1El0jjrN51MXvHi9FaV6LBqmMxcF3hvbHwXg5n5EXX
-1fsw--NeSG2vfqtPgtvBiTymxD4XyIah0Udv5sEXFpYaFlatAjAnyrmhSP5_epM4kiJgjjrVo0FGnP13dwnvAkeBBO-hQhJb22YIVs31bd8yme74x-TtwB6C
-XNqhseI1vY7jrq3VcbSmNnNSpqyX1tClRDQhrDpg--N5nRvZj_g5w8KseD-Zigx82Usn0zmfCxhwZb_ewstS_KBVNzGdzffUvJMzuoFrsoFqWVxjwKZF78vx
-eR7Q5pgipoxJFTSDnlKP1Y02Q1dGBqGpLIsrfozdX-CvZBFmZ3vyHUI_vCsRJm
+xPHP4kGW34C5nc30klznPyrQ8PsYU-QltqzM6GbJvl_WonVltVakJIC016ryWov0r9op0D8vImLqKVKCsBGyj8ENY39d7k5asGML4mWQJtZ4n1uOygKPIAmg
+oSXd95oxhX0W0F7PHuUENaATNX3zsRxnIYxBny87CXhl2P4FA7p-wqwBy9VknFprkKyaMIItuGy927Oh3-kvBm3YS2MtWCGX7b4F7Gy8bGCyGM_2xSuyH5g0
+-lC97pSdez5rV63wC453FZqLaWNYGmEyKjVq8iNfVqCMw32fyuAjgI8GEnUFQPIre8tqTQsU4HhqFcj17-KlQn2h2EkJejFKUIID_3lYNiY0jbMZG6odUX0E
+q4NIaSaKjhBgE9DWDuFJ_oeoIUT254L2gIiA28VKlmEgdSj7G0sDAtO_nWpGOkcykpaMdlMDTpG1SEtOK3_6MqATq5-9yRWZDrJUuT3Zkcb33lSmtj5H7dst
+b_hyaTwX7-aPWt-aDvHFzeyUqIRwTwKXT7BQzqx5uJ-NQJrRG2p-vou7pElf6G12013JX7x7JKKabKRRPqU1SHh3pZjwjmFEVycNBpy1
 }
 
 AWSEntityColoring(NetworkFirewall)
-!define NetworkFirewall(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, NetworkFirewall, NetworkFirewall)
-!define NetworkFirewall(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, NetworkFirewall, NetworkFirewall)
-!define NetworkFirewallParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, NetworkFirewall, NetworkFirewall)
-!define NetworkFirewallParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, NetworkFirewall, NetworkFirewall)
+!define NetworkFirewall(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, NetworkFirewall, NetworkFirewall)
+!define NetworkFirewall(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, NetworkFirewall, NetworkFirewall)
+!define NetworkFirewallParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, NetworkFirewall, NetworkFirewall)
+!define NetworkFirewallParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, NetworkFirewall, NetworkFirewall)

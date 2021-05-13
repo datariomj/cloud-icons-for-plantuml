@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $debugger [64x64/16z] {
+xSuvSWKn28JXeDKm6VS_hNUR6g4Q8_3kzsTQlWBxz6u1t-hHy_WY3tZpzVG-yXuBJwOz5fxIyfIyH_IKl4Vqb6iVRgPR-JgFdiVtUgmzdx9tG_1RuNizUXuz
+Z-_raLFUgl2-xt6mmDj-y3NdE-dncZhVzywrw7txajSQDsrmzoeDlyKv7fjyuCTJAp_msDchyufNQNdd9U-yvb-vRdZwH7dj9Ayz9NhBUqhqblUKbgSilAKz
+PU4jwsFEOr_ahUUjvzK-lLlt
+}
+
+AWSEntityColoring(debugger)
+!define debugger(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, debugger, debugger)
+!define debugger(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, debugger, debugger)
+!define debuggerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, debugger, debugger)
+!define debuggerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, debugger, debugger)

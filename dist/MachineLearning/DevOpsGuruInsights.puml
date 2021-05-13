@@ -10,7 +10,7 @@ n6vOgtpUNr8uU_ovF_NqRe0jKekN5skOAzF9pkypkfxoSMljdB_de_8vxvF6oYaVHN-TyZ5a-ZaVUNNE
 }
 
 AWSEntityColoring(DevOpsGuruInsights)
-!define DevOpsGuruInsights(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, DevOpsGuruInsights, DevOpsGuruInsights)
-!define DevOpsGuruInsights(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, DevOpsGuruInsights, DevOpsGuruInsights)
-!define DevOpsGuruInsightsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, DevOpsGuruInsights, DevOpsGuruInsights)
-!define DevOpsGuruInsightsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, DevOpsGuruInsights, DevOpsGuruInsights)
+!define DevOpsGuruInsights(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DevOpsGuruInsights, DevOpsGuruInsights)
+!define DevOpsGuruInsights(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DevOpsGuruInsights, DevOpsGuruInsights)
+!define DevOpsGuruInsightsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DevOpsGuruInsights, DevOpsGuruInsights)
+!define DevOpsGuruInsightsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DevOpsGuruInsights, DevOpsGuruInsights)

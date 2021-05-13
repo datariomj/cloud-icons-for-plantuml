@@ -1,0 +1,15 @@
+'Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+
+sprite $iotcore [64x64/16z] {
+xT853WCn34JHeXsXxt_Quf8pSk9H6NunijwoFQn_PKXlq4Ctw26IOoJ7I8wH74l9XX_c4KvdXcbXmfsJ9VSUJz9tBEDBK6kOzONp7lYPrZFqkBN63A--zho1
+zw3dvKPVmAF8hVH6RtVqndjpwOtUM6zrGdapBEyjIekSce6wrNLcpUHKOlMM_kzb20JC8ZxaFCnkyxic7twSXrdilS9_h_JQzUVsSgw-OtkPort_U1McCgHE
+-ANs7q2uOswMARxY7-CLxXWPS3RWR2Jd-tS4
+}
+
+AWSEntityColoring(iotcore)
+!define iotcore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, iotcore, iotcore)
+!define iotcore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, iotcore, iotcore)
+!define iotcoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, iotcore, iotcore)
+!define iotcoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, iotcore, iotcore)
+

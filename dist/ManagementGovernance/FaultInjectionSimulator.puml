@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $FaultInjectionSimulator [64x64/16z] {
-xPE9qgGW38GxQI37-x_lNigiJ8cMklV-tzmZN-o297yA7tpW7lVTgW00MjuW20XhhGh8zGekeA-LAb2kwe1jiYXuBRp0Sqj1pGiKj1mXx4fwvae_lu2c5x96
-dbDw-WgWnFfL0G74ynHeVgD1Ar7M0A1dDk2qWFVD4ibC8fPYInq_FqlhUmL-2-wvXSWJMZSKaQd8WLvlYXFMWu22-fvEZmuX2g3HrogavKXGW3hL5VGymHGw
-YQ1ecUTKw6JhosmUBPCywF2-upCVHZ0xiHiWjYiemjWM08SUZsddzNubDei8sD0ajkUtOM0D_FwRibKCxV3-mc-Ml9OpNIJ69dydviDXcUb-riOgw-hsmcQD
-iZywRTtT5-LIeyWIomsqBn3ckOD38YSN5c6fNv0xHCLqY0rW6trh8mJKZyPVHb_nXhOy8cBqtGOyyep1lqFtzPblUEI7FF8DaFk-263blW-Ko0S-dvxVx_Hx
-VjxsHVhxFIfeHjIy2m60UHzlpVEdyy47dm4
+xLM5jcGn20kKAlJ_FtVjQcVRkRQ-Bq_64WXsfluCVE03fcgtnHeO04ZohTG2a8GO7C3N8nI2b3bI98JhybrESv1hvWcbUUslEV18jON3XHxePbTjSSIr12VH
+JgNNwKa4u6r-wW02g1phoKsF2IuA_6G04Aqr4UbXyn6d9ynMgs0suESF_P4-Bxs2VDMXJUXmr8A4CbF9gZNy9ju0Aei-WuGGNztnko6O1zWMhWEdxmW411l9
+6L8E6yHmWm0EQH1u-ZSZm0rQ7qO7bMlrOeCDFnoE4hA7x2wCUoPt31KYqNq0I6V76oZ2ZYy2saW2v6P9SczpqqOlNr_BbazeByb8lVonlI6XbIvLYQnTybVO
+-3Y-ihNirxYt9ZpdAsd5O9kOUfEAI7Er2mQESlzzuycMPhZy1OAitNL2axxvO38ynVVePeb06VM98AdLvzGWUWBhk_FdLizuWKi7txgjlkG6nUeH6lqjp7ht
+J5_mIA_qI9y9V5_F3CeF-WVozgJ_ydX-p_M_qJ_p_Fyc8YHdGRohDm40iNeRcfBMduuFVE0p
 }
 
 AWSEntityColoring(FaultInjectionSimulator)
-!define FaultInjectionSimulator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, FaultInjectionSimulator, FaultInjectionSimulator)
-!define FaultInjectionSimulator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, FaultInjectionSimulator, FaultInjectionSimulator)
-!define FaultInjectionSimulatorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, FaultInjectionSimulator, FaultInjectionSimulator)
-!define FaultInjectionSimulatorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, FaultInjectionSimulator, FaultInjectionSimulator)
+!define FaultInjectionSimulator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, FaultInjectionSimulator, FaultInjectionSimulator)
+!define FaultInjectionSimulator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, FaultInjectionSimulator, FaultInjectionSimulator)
+!define FaultInjectionSimulatorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, FaultInjectionSimulator, FaultInjectionSimulator)
+!define FaultInjectionSimulatorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, FaultInjectionSimulator, FaultInjectionSimulator)

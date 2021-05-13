@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $VMwareCloudonAWS [64x64/16z] {
-xTM5hY9144RXK_w__mklTPgrwJ1BP8qlSWKELM5C_xAtjxT9z_pb1C2YfG70TTy4u15XOAqgAIZTrU0zZqzAIHhyVlxjhF5LEgDR1bhV2a9ItksTbf8j9AUa
-f7L74MlcWac3pPT-ResVBxqMCqc5PJ9ZhMU6q4_zG0JJCC_NBwq-WLYzAkKcDQ4dajRgEo9APbhmMmSnc9_tbzIadX-4IHvzkNkk_b4sUEcem5AxDxFO_Twy
-7AoFkPMad_TF6_oR5LjN6XjTzmIbxNGOdTPrFq1wQ3aSni5rwEN0Zaw7iQbZtrYEfCxHwJ0MVUmraYODSf-az_lD06olUd__hJin-ZJ__FrjWmqXAPYdnoyN
-lkc3LhOqc2uCDjAIRAwjrk_dUtb1ZKx6rjRjXAwrOP5rOKsToZ28qS6aSSMb9DJxaQQpwIigR3JTerUi_1Nb8qrWhm-kD7pqeWIizBhfqH_fxUtj8m
+xTH7OkCm34RX7-m5x_x7dMA5qnGcYZVJzEqV0IIs-PVTRZSlCLO-PDPeaa8Uu2Op9QxpB5dCEGKf3dg7hCPLmvGw3xD81S0jSb6NTLXcF5PFSYwPiicFiWfG
+hlPH0vgM34aTgkR5xSjZPZfO0BVWL0tyqdX_z1n209f2BPhJneNhCwVUJINBXzda7KtjfM-Iyj7JAz5WAFEEel7IzvHIU_GFbYxz4ulyl3ymLO2cmLkyckQQ
+7sEihBwf0qEAdQrkiigwtypAwjVcBKbXjqEJTU2yVuckoC6BDaTC1UVrNaMDPVTlJ9gytaz9BIPUT6NEN8bDJvBqGnJbd7IrRTyLgWEZFCAgmKbJt_OuC4kG
+oXfrqZHs_I7A90COQX_OV-cZA6giLQ___PQfC9M1hCbPqlYXBmVxeSyQr05kuRqVlgebiNIbDQZjVdWRMsxc03Cfxt_uBTTsre-ftcgEKc77Qz1h8bGbXYJB
+axVux6U3fk1u7yupZlmPBJfuLfZF3ewjc9Bpf28fD9xdO_97kjrkdm4
 }
 
 AWSEntityColoring(VMwareCloudonAWS)
-!define VMwareCloudonAWS(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, VMwareCloudonAWS, VMwareCloudonAWS)
-!define VMwareCloudonAWS(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, VMwareCloudonAWS, VMwareCloudonAWS)
-!define VMwareCloudonAWSParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, VMwareCloudonAWS, VMwareCloudonAWS)
-!define VMwareCloudonAWSParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, VMwareCloudonAWS, VMwareCloudonAWS)
+!define VMwareCloudonAWS(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, VMwareCloudonAWS, VMwareCloudonAWS)
+!define VMwareCloudonAWS(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, VMwareCloudonAWS, VMwareCloudonAWS)
+!define VMwareCloudonAWSParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, VMwareCloudonAWS, VMwareCloudonAWS)
+!define VMwareCloudonAWSParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, VMwareCloudonAWS, VMwareCloudonAWS)

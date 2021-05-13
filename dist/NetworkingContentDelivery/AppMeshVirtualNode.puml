@@ -10,7 +10,7 @@ V_RFt_tF3uxaF_Ryv8pvX3lfTvzV_tz-
 }
 
 AWSEntityColoring(AppMeshVirtualNode)
-!define AppMeshVirtualNode(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, AppMeshVirtualNode, AppMeshVirtualNode)
-!define AppMeshVirtualNode(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, AppMeshVirtualNode, AppMeshVirtualNode)
-!define AppMeshVirtualNodeParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, AppMeshVirtualNode, AppMeshVirtualNode)
-!define AppMeshVirtualNodeParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, AppMeshVirtualNode, AppMeshVirtualNode)
+!define AppMeshVirtualNode(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AppMeshVirtualNode, AppMeshVirtualNode)
+!define AppMeshVirtualNode(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AppMeshVirtualNode, AppMeshVirtualNode)
+!define AppMeshVirtualNodeParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AppMeshVirtualNode, AppMeshVirtualNode)
+!define AppMeshVirtualNodeParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AppMeshVirtualNode, AppMeshVirtualNode)

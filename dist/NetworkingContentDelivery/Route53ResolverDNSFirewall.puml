@@ -11,7 +11,7 @@ AueXrOvi0K1lvGLtxm14VNWW3WFUidhpVheFjYAT_nDxkZk2WxmliJLFPy3oQJ86kd8V8xTZQzCcxVri
 }
 
 AWSEntityColoring(Route53ResolverDNSFirewall)
-!define Route53ResolverDNSFirewall(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, Route53ResolverDNSFirewall, Route53ResolverDNSFirewall)
-!define Route53ResolverDNSFirewall(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, Route53ResolverDNSFirewall, Route53ResolverDNSFirewall)
-!define Route53ResolverDNSFirewallParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, Route53ResolverDNSFirewall, Route53ResolverDNSFirewall)
-!define Route53ResolverDNSFirewallParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, Route53ResolverDNSFirewall, Route53ResolverDNSFirewall)
+!define Route53ResolverDNSFirewall(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Route53ResolverDNSFirewall, Route53ResolverDNSFirewall)
+!define Route53ResolverDNSFirewall(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Route53ResolverDNSFirewall, Route53ResolverDNSFirewall)
+!define Route53ResolverDNSFirewallParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Route53ResolverDNSFirewall, Route53ResolverDNSFirewall)
+!define Route53ResolverDNSFirewallParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Route53ResolverDNSFirewall, Route53ResolverDNSFirewall)

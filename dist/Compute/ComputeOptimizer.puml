@@ -1,16 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ComputeOptimizer [64x64/16z] {
-xTQ7oYCn30JWKHsz_mjV4IkyPzZu_aRDqD8-sn8MsVg1lFDEv5Sq5T2utfWPFyOTC0F4sm68Z-WKI5RH0VGA-G5_iNx946XLnUM3_xTvjE-8j8TbLvK7JGEy
-SlDq0SGWnmKCojhzB2mC80--QlEhB-nAykD-fHSuUYOhDSPl2yZHtywmUmhyAruGzL6VTm--u5pB-_A0SPLlBo_FDJGXG8vt1U9qWDQQVTLCUd1M_NaxrrC3
-0fBz8dHq-oaigqFCU6rnvBoS6fUlX4wBLM4FdiRb-vt8i5lTJpu0ltsVGChuG9oyN6tcV9y0nkVPmzXyrkcN7zW_PbDR2toe_cj0enBO-izr4FDNFeMzs-OL
-So80ZtuoVivFnP20C_dAvvgMxFwbtNPKR7ZpTFIBwoLw_YIgzdku9m1rfa0uPuVs-UDMc2Bh8M6upqRqIv6QzBBfzHo6O3PNIDRoTEao3Z5Cus3yTtx5ferd
-xtC1nnky3mNtuDcdikwUq3a683pvoVWrV27fY8_w56HD23YV_Rfx74_0RYBakOshSG4RVpln-H81obu8ELxteXBn-Wc41c6DDt3V95u_0G7Q91NQ8xl_o_7q
--ATitOsZGdH503y_Vi9RNpNfFPPrJ4hhpuV1-kcyyyvl
+xTO7agmm30JGbeop-lxN_Qu5QoX-WJTMdDuuuJbhW7-GTzwfxIUw1o1KxebRx5_Z6OWHq68S4Q1ygNE5DjAIG9AHR5_nbW3a_T-Y22JhuMjVypP86Vw8weUN
+MCaCMJLW4SEsYxSS04tGPGC9M-V5-wpKwgg12FBgZrWUr1lualTu0y_UQcSFTVfB0xhqFeR_VLVadtX1uLTzvoiAU-0MKBq4t0kYDr6Hdayk91jP5DAcp-5K
+G47iNeTgMO6eUoi-_wRUGFOHNb9cmTSmjNkQeXqR02-lgsyyWaYwdspZdXGsn1jloKxUOdVF2EFCdQ-2SdgzGfhxWhho2gaSiVbw5M3wXhBoY3O_E-iyhUxh
+il-ZWoP8CjziCdr2N_cs_v7ABkBhVssefFJaM-XU1oU_-OWmaXxttxrtQwyjByYzsvDlaJDDC7nBufmR75zzdMNGVCqWmmDQoTSvlFC8sPeYTBy6Xgx3bqRF
+XiwRr2ZdsYWV_mu_OnnfcVUnghDvsw2DBsz902rS9C8NBjgvVWCqHK7ydCz79RXFIFkWSYwsy7w8NjuGZkC08DZ2UznxyHLj2UMhlYigPpeaFNZpzzdq9aX6
+Jz7xPSoGCkizJf-yz_KXAeBGzuRQz1kk9mtbyGuaMOHsJZydvIaeptT0m6R7fI2G1Ubw3JO-9Uz-w7tX0ZIyeklRGTk0D3LfAPmJ6vUfwlfxiMBywxpppZy
 }
 
 AWSEntityColoring(ComputeOptimizer)
-!define ComputeOptimizer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ComputeOptimizer, ComputeOptimizer)
-!define ComputeOptimizer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ComputeOptimizer, ComputeOptimizer)
-!define ComputeOptimizerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ComputeOptimizer, ComputeOptimizer)
-!define ComputeOptimizerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ComputeOptimizer, ComputeOptimizer)
+!define ComputeOptimizer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ComputeOptimizer, ComputeOptimizer)
+!define ComputeOptimizer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ComputeOptimizer, ComputeOptimizer)
+!define ComputeOptimizerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ComputeOptimizer, ComputeOptimizer)
+!define ComputeOptimizerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ComputeOptimizer, ComputeOptimizer)

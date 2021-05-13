@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ProfessionalServices [64x64/16z] {
-xPM7qXiX38HN1RNtVzyKqcxCQGnEJ_xFdK5YRwtPgv_16s-4cqUzI2fX8Y-r600F3pS19EiKlXohe3Wk7rSVW3C52gih0Jho7VAmOXW7zRBAPHpKGvSbWzSk
-3czwxZ7kt2O-SBzMcBwpdhzJlnpy_RQivSa0W6yqnS7uhfkF1ZYNtGgl0mpoe5vEquFpUZg_43yZQs84gME20TQX393L2wG04uxBuhQ3381OU7wE9XWwZ43w
-vTWm1cQ717H7EOFyqGoAAW5l271Wh8iqAY41tIYFFXQV2WXGioCXLO7nPFIR0z8_cS_mg1wv4Myg100ozG6OatNRnUwi0uXrU7mHCllTppHHhUYwr-zTCbWr
-3TRoWv1Mo4xvCXtt0M9DULaVakERiTcLbw1MrlnkLHBlt5FxMmdqsJrflWazqTXTcX4agnHTVOFEIpC22Q3PsPpQO5LWcZaQ0WYi3Wa0zYsOjGv9kbZZRFMd
-yCORxm4
+xTK5bkGu40JGI11dtF-ukpDkBidFyZ3zXi8G0x-7V_xfhROU_38Z2GxUU5zam4fhhJZWutRSO9rF8a7wpRYYy4qJ6RmZ7V4t7HhSr-7ygA9mds5ghafmLo3n
+KKNZhegsB7DNnk14ZBiIWXFJhylhVhvyPVlROh87CdS5R36cdTlID84Xodq36dE9DrHua6yAdBTas7XhV885xyb07a_fAl3WNLq1zUm6IEKN68udsjzwChWd
+YW8GSpiUS_3W67jfWQJ69xqeS9GmWCHhmnwxt0tII8TkDA09IinlPWvulsv0Mv_syTHxGroTlJguDE1aGxvO-hACnsXFfxAXzk0fGvjd8va0W3zr3u2evyw5
+kcXU0yHIQPs7Q2Mv0iPPY0GdQLx_RTtDYafk553NSQfmwM43rvCvwaZdvq5SnbdGUI8ZJwVRn8Ld1ihrLIYsSwUUVmr-SQS-dHycN0fadd4y7Gi-dkx7bOuJ
+YLHb5QW3QJprPJRyH6L05LB9xe2ZyAOEI8cdfmOatZGql_MvMU6lufz__WS
 }
 
 AWSEntityColoring(ProfessionalServices)
-!define ProfessionalServices(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, ProfessionalServices, ProfessionalServices)
-!define ProfessionalServices(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, ProfessionalServices, ProfessionalServices)
-!define ProfessionalServicesParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, ProfessionalServices, ProfessionalServices)
-!define ProfessionalServicesParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, ProfessionalServices, ProfessionalServices)
+!define ProfessionalServices(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ProfessionalServices, ProfessionalServices)
+!define ProfessionalServices(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ProfessionalServices, ProfessionalServices)
+!define ProfessionalServicesParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ProfessionalServices, ProfessionalServices)
+!define ProfessionalServicesParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ProfessionalServices, ProfessionalServices)

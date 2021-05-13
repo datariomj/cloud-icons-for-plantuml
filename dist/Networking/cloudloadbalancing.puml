@@ -1,0 +1,9 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudloadbalancing [64x64/16z] xSi72eHG40JHNPqP9FxxdzQi3It17FkH2ohjIdBYPEaVv3E_VlrcvYGjKRGe7l7hrnyB7FNhNvok__Nd3ND0ef8xq5_pw3XIz52iB_VwzUlNFq2Q5aFQJ2e
+
+AWSEntityColoring(cloudloadbalancing)
+!define cloudloadbalancing(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudloadbalancing, cloudloadbalancing)
+!define cloudloadbalancing(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudloadbalancing, cloudloadbalancing)
+!define cloudloadbalancingParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudloadbalancing, cloudloadbalancing)
+!define cloudloadbalancingParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudloadbalancing, cloudloadbalancing)

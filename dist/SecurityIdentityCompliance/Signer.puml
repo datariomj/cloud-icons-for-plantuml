@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Signer [64x64/16z] {
-xPK54YCx30NRABZ_VV_VdUnO4rI52jC5mQwdoBBY7-R73nCnlurwZW38dOzcdauHAToi8Dw-pMYzRza2lRTn5J_y4HMWRYNEq_EduWV3JLUhR7lZm4pY6tu1
-xIo-c3-YNvPdT0-KuOclHzbTptotxE2g1nDrhuGpcsLZCuzwCVS94hy-7HjVoAQxno1DPXA_wQgXnziHd_a5TLUAnjiHdzU_gGfBBzWnFk-VK9OU_HiHdvsV
-X1xd5_7v_EZIbUvvV3w_biHdzwTTJBuzTN-r0ltWZA9Fx0-1QUqmdK9zOdzrjhIvIb0UhG7Hi_rfbNPwjfTW1VNxq8_xMyhUkLL2O_fZF_u_nhg-guHEzyHV
-DAhv6LAYTxbFJKOiywzBBTKzzySu-hEMRh62Sx_125yebRPFgEP-erN6yXlcFRP8wZUQUsNSy8sU-fnghUW_Vr8QrKzF9VURRyYUFu1cwu8dbClpqvW2etdE
-XL-ZvS9ysXznuhDWJ_fHlNLW-9F-Nhsqqrvwrj-gjr6WgpyDbUhQe0pp5m1wXIRkEIPN0Aohbp6vugcUwRn6_Qly-F4_
+xPL76kim28G75Ki8kFznNp4fV6dOh-mocxZz6eaM-yVwwYjbLdkjPRaO0FZDgvdY0c8cYBrG8Vs4wcYzxzuCzDx6mzSJuoDU0A3C_LE_rZFs0yD4RkUG_S5n
+Uskm1w6TiBSEUGnbZxcBzZclZxof9eahyR2qp4fOSJRDocO6V8_zl1UIKf9x4CV5F7LCq6F1PtUIvJSayN5kRzC_BB_1vNYi-95LleAMEHhmHT1edyUFGGHl
+qn2_SQZnggzpmwr2pErB0eVwMIlMNsAVrMzkd_UFDcmMfQVwLmg07fX1ycv-451zVbI0zY9aO4W5hNkYgdwSNyjitURNvkIawnQ4IEojMEByDAbNCsaWzaqk
+Uo_qEB-PGkHy2mtJFlEcSxhd23tfUQ2ERWaVybaVJZe9LG_pg9gKMC9tUnHLEy1l8_ApKDSmWbE-0TkTPr15irqR9ESRMiLsunlqTkn2bl8DtRHY2_pLLz1J
+7litMh6SjudIu64Ru9nt2-Mh_m2XUVmgDEFBG_xYlvAYsHcXXn7ei_mqFsuDfBD0p_A2ueni11fsbg_Ux5o1CjNEyllkTH3GbvqMAegk1fHnoZhMKW4Qsm49
+Fma0Q1Cxf8aNgiTZ9lDPo_whllhg9m
 }
 
 AWSEntityColoring(Signer)
-!define Signer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, Signer, Signer)
-!define Signer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, Signer, Signer)
-!define SignerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, Signer, Signer)
-!define SignerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, Signer, Signer)
+!define Signer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Signer, Signer)
+!define Signer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Signer, Signer)
+!define SignerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Signer, Signer)
+!define SignerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Signer, Signer)

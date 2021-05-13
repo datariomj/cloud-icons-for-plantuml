@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $errorreporting [64x64/16z] {
+xTS53iD044DHeJl2tl-qfJ2upkf74ML40Rymp3vFhhkqgEMoPgxLCiWbo2N89SWboALZ_66z8e_hstb8HEupcVjKvZON5bTN_Sp_3NXUmuo9TXNvOWFEUxxO
+WFEUcmqOxtXLz9vtbVoIRtsr-AA-ImFVnO7lyi1t0FXEK7_fyHj-sVtpd3-_-FtXxo__Vl3l5_z-ykyt_t_G_nVyVyB_D-mVOFy2-oVOl-7-4Mq0zyze0tZy
+W3P0nqydrrrl
+}
+
+AWSEntityColoring(errorreporting)
+!define errorreporting(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, errorreporting, errorreporting)
+!define errorreporting(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, errorreporting, errorreporting)
+!define errorreportingParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, errorreporting, errorreporting)
+!define errorreportingParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, errorreporting, errorreporting)

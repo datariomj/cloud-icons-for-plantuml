@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $CostExplorer [64x64/16z] {
-xTO5ikmu40NHBAdexd_34tRhCTaAc4_P3CTC-bNwrxzgjbOzIrhDrEltNnSyeoAa5LDltk_x6k3xlc0EnhOtMWfYq_TZsXcRthTy6en-l6vCVsBXM0uiTvOV
-9Ya1trf__NWrwxtjf_75zhm6AKrorpSOI-tumh3K5Jy1V--DlhZ_3MOC_AsVfAxvFEcaN_l0TT4xVRfyvOkXYtujl7pZZPOqyuflHgiCgsS_MVAALu11W2yV
-J9sbZp6zVl2gmMprO7GQvfYEmi0C6ANl2-hn0ZOD-h46BOxNTiXBNeMTiCxdAPLxjDh8Ipv9hLqlc2hZQAgDlkdDL12bcWmLViNty_GdALlVEgx15Q_0fZ4F
-qqdeaQ6WhdZbm0usJ4w_RE75dVFdygz-BkAMdwmlDyQ_IB-SljRCtF25Q-8d7wJCTCjhq1gOXqCe63TzOIq7i5HYMD_oXocfgwN0-dZSyaeOKLrk73QXRdcr
-SsPnseAwx5ULaIqzR1jzqpzNHYh9hxoDbM7ZJMjmRVZuQWPoVDtowdK9iL_h5-bV__eF
+xTK5cjmm38RXJp9RqlslsoUPzJ8aARVp3mJVW37-bDnppyYsLYsFMCazdgz_dCvSgvCUAvHuiNxTpuHKl-mdP4NzgbUnY4Qxw8swBIHTyrul-IwGxBQyyFmT
+RGKP2UbNoa-sqmTG_KhzhJ8JkzP-R0TEljh-4YCyqwzw4uHD7V3j7JzHjCS1xncehxoBsC7-byWjKLxwp8XZVb3ty-svRvGuw2k-NwK_ynFrOtuLNcSyUPVz
+QN8_uWsrc8BCHvzPye2F1W9Lg7xpVNNSKLBATNxXOoQoXINKXY8LzTM1HGNI_DW-RtyDaAnWjrOXtIF2AlH3FWRg6zosCiLZrD8iJ1c7V6UihjifCPKjsLtm
+O_TVtaLyGfi-C-gJSiJxu_CFUkZ3tagDX1_mqVRoAn457xIuHIKQyuYFeSZ6aaJ57bkuJSxDdqcZu4yjVD9E-VpyaGis6ATynOoyHZBTja_vIOrCtNbYk6YS
+yf4mLxIs8jHeg9_p4tMl0kY8WQ1soaT7PeGD2s-8TSHE-HYG-h1HXSqEP9xouOKzslfcfp0E-XMVlNMxFSi84-oSVyeKUWpwHrxJGtIjhhJOOqf97tMYaJxC
+yk49QdnFpEFFo3ttV0C
 }
 
 AWSEntityColoring(CostExplorer)
-!define CostExplorer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, CostExplorer, CostExplorer)
-!define CostExplorer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, CostExplorer, CostExplorer)
-!define CostExplorerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, CostExplorer, CostExplorer)
-!define CostExplorerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, CostExplorer, CostExplorer)
+!define CostExplorer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CostExplorer, CostExplorer)
+!define CostExplorer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CostExplorer, CostExplorer)
+!define CostExplorerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CostExplorer, CostExplorer)
+!define CostExplorerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CostExplorer, CostExplorer)

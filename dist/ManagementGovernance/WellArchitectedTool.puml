@@ -1,16 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $WellArchitectedTool [64x64/16z] {
-xPM7qXmX38DTTZ7m_W-SiPQSo1LcIPjsN_9tYZ2IwHDVlhGWhM_JP4BxDYvd-SaXPzyan3insJi1Pt2rBKegRkMYvMdgNl4K6YuyVs5zWqEYzrFEIFpweVJR
-LF7yP4ECQiEdZU9LV9gh5tBSlpjrj-dENTnTRfVmbCIcSgeayR-IKv9PRGmVtECGmE4XeFJJILbSdqOKEQRZHuGerY5jKS0oM_QGSbbACOSU-G3CGl_4S1D2
-GLQHWFX3761NapfRS2q0mt7hOBWFfofsKN6YTGAW5qBpv4qKmRJa-jxM2KGJmLgvDNxZs1FPN6SIkuqZkeYXW5CVKa4cLnqePUOdqxI-ft9UOE37LLDm8odM
-4exdp_-6PwyNJsYPvv-V2PcftILvEAWAEFiddhq-777GlHYpYD2J6tngYl0Z_FK1UAiwE1hSC9goUh9koSDdz3-s6e_2HLdQByJvTyn30Ep9eSlNiubn80Cu
-rsJnUlBlR4UptzbULjdXNOu6P0zKwkUxYr_RKmmzJvcu9t_kfxTW-TXETzvFZ7sk7zRSUS0fO7jx51y2k3sYSX-70FL4b56vBy3ezS0HTg1uLd0BLezHsUCK
-Vs0GiqTJ8TxNVFdo0m
+xPO7akmW34IR30RT_xg_r5wly4mjPNwgD6-ZiuHVmyZ4Xm-z6KEswPZm-pU8AFKYeSWc1v8O7btsyEXlTzkWQCMzdWpjvf0DXlD3XiT9rD7qia524yd8JOdd
+HjqPlC1VLp5kdB-U4j1bs0WsHFsLvI4DBiQ0ChaGOmJwuy5NmZoSK9hy7tfL3Z7QvS4ZCfHfl0-GAYKQTH4zrrf1ilPTQmrkDCpqHG5rLZQXdafvZ4UHe2mT
+uJep2hVg7EDb92goLX69SvrAtHNa7TS6EijFGvAYRTHmSfmTlMCrimeMoaSFU0vjKFH_xbWcy8n0HzH7PpHhkg0iCyaPW5Mm07YsonqsFoqpMU130BHO3noI
+TDjfGUJWvcfUZS7Gjn4KAzYs_mslhbVzcqoP-_Oxhwx7UwWwI5ugFDj0tsa42JZ4yl0EPPjjuAkdbuhwQ7buX_FzaQAIEctu4i17PJqbqxF9V_fsBGedbIKk
+zUTnKva1C9RwqqxuRvNPyDrtvk47E309XoscxCWQNiUVvrbKPFYlwQZ2Xmltu_Hp9RLFBcNkVSt4UlPgDnbumsVGgu5W_VYzZo2qYmNOusdUrWAEO8z_kdoR
+Fop07g-lO0FwUxdkJoDsw0ZcUbj4PJL_tzEyWQN3Hd2NZFXDO35x30yZofeF7tu1
 }
 
 AWSEntityColoring(WellArchitectedTool)
-!define WellArchitectedTool(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, WellArchitectedTool, WellArchitectedTool)
-!define WellArchitectedTool(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, WellArchitectedTool, WellArchitectedTool)
-!define WellArchitectedToolParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, WellArchitectedTool, WellArchitectedTool)
-!define WellArchitectedToolParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, WellArchitectedTool, WellArchitectedTool)
+!define WellArchitectedTool(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, WellArchitectedTool, WellArchitectedTool)
+!define WellArchitectedTool(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, WellArchitectedTool, WellArchitectedTool)
+!define WellArchitectedToolParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, WellArchitectedTool, WellArchitectedTool)
+!define WellArchitectedToolParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, WellArchitectedTool, WellArchitectedTool)

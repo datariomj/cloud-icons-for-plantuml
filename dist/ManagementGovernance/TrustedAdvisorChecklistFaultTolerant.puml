@@ -9,7 +9,7 @@ End7EMOaDSU-7-4yJJwFouN5Juquc1Z0wW9_suWmYCcnhm_wgTIGd3xFRm
 }
 
 AWSEntityColoring(TrustedAdvisorChecklistFaultTolerant)
-!define TrustedAdvisorChecklistFaultTolerant(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, TrustedAdvisorChecklistFaultTolerant, TrustedAdvisorChecklistFaultTolerant)
-!define TrustedAdvisorChecklistFaultTolerant(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, TrustedAdvisorChecklistFaultTolerant, TrustedAdvisorChecklistFaultTolerant)
-!define TrustedAdvisorChecklistFaultTolerantParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, TrustedAdvisorChecklistFaultTolerant, TrustedAdvisorChecklistFaultTolerant)
-!define TrustedAdvisorChecklistFaultTolerantParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, TrustedAdvisorChecklistFaultTolerant, TrustedAdvisorChecklistFaultTolerant)
+!define TrustedAdvisorChecklistFaultTolerant(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, TrustedAdvisorChecklistFaultTolerant, TrustedAdvisorChecklistFaultTolerant)
+!define TrustedAdvisorChecklistFaultTolerant(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, TrustedAdvisorChecklistFaultTolerant, TrustedAdvisorChecklistFaultTolerant)
+!define TrustedAdvisorChecklistFaultTolerantParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, TrustedAdvisorChecklistFaultTolerant, TrustedAdvisorChecklistFaultTolerant)
+!define TrustedAdvisorChecklistFaultTolerantParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, TrustedAdvisorChecklistFaultTolerant, TrustedAdvisorChecklistFaultTolerant)

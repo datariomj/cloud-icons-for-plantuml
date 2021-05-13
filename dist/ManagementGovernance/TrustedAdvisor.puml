@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $TrustedAdvisor [64x64/16z] {
-xPM7ejem34Ml9CiQ___1hM9uVXJ8wcvpW4oTYvMPVomN5w4Qv-NE0C3zL8G9W6RM08WTbASra_RRIlTHkwhVEo7TwuDqoAF_4Q64tNwhUWQe4JK2kFBQ8Rza
-psJEz8eux4ijbL_8SRzzzjj-__8lNrxvijidVdNz2csAvhCQCVs0BAb5Vwy7Hed2iqEdh-WPewFQ_fO6gvbNASFklbMkBkj15E_ikPSHwGIDyaD1daaq_g7d
-2ZOwyEhN6RXzVRHG-oLNQMXZfbKj193OHx238jSHjDiiSj8NqGcUMmWaCaD06lCzHBxebjl8Kfnz6VjN2415TUpIKwj-l8IuCbZw611aq_L81Hk1ofc40aqg
-8FozRGGGECOOciLDjWQGLMSYO-ab3j86nE9K-s0MOPwlKW6QlZq9WhXVfYD2Hl_jenU3Zflf9KnBIN_Onlc9leGJlxlsV4pU-eus9Yy9G1Zo813vOuiiGEHh
-N43wxQM0noq4yTo9WICObYTHH7MblyltCNu_Py_ZTnvJjVnZkRZu0W
+xT85aXj140NHh6QeV__hsWFXzaQis6mzCMGDjVvORs-prgbdUOi0iVapSKzWUOniaFg38rQr9kbkrOwzFe__F1AhkXDMvXQN013E3yRTVJvZAsR5pX7veNwB
+XnI2D8h1mtsIjFURz7YVl-_p_VsxV_VfjTwYP1_NhqdHTCkOsaIaYA_UYVlKJNDTCZd-KXXgbDKNcYPbpwcwADEFELaAT9rz9qXr_-nchWlMhv6fQHJVUY_O
+b5iujj1qHJ-EO6mlCq8m2n3dSGXI9-cgGZusKoJrP62fVniyCTTrYNo-k9QwXzCOki4JoVSNg-S4Ru4mfM5qtUHf_xEQGKXV1Q2ur63e3lNylteE1XPoSyap
+9Dqofmgn1snh5g-G4rdogOkwGI2wl1gMkvznpn26b4W9h5_81rOp-B7108IOKWn0F9e4kLwy29af5ReEi-LeO74x_iEWdAlxC_5OwqrQGf2MjWyFyTBsn_bq
+gH_ay-ap4r8WVGZCFenBX0HJdvi9Awwb01GjNemqTQT1d3CozAJ2b2RbT_Ilx_ywVyyRfGpziTxUlW
 }
 
 AWSEntityColoring(TrustedAdvisor)
-!define TrustedAdvisor(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, TrustedAdvisor, TrustedAdvisor)
-!define TrustedAdvisor(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, TrustedAdvisor, TrustedAdvisor)
-!define TrustedAdvisorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, TrustedAdvisor, TrustedAdvisor)
-!define TrustedAdvisorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, TrustedAdvisor, TrustedAdvisor)
+!define TrustedAdvisor(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, TrustedAdvisor, TrustedAdvisor)
+!define TrustedAdvisor(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, TrustedAdvisor, TrustedAdvisor)
+!define TrustedAdvisorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, TrustedAdvisor, TrustedAdvisor)
+!define TrustedAdvisorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, TrustedAdvisor, TrustedAdvisor)

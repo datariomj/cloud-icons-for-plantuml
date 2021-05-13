@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $toolsforpowershell [64x64/16z] {
+xP7BZiCm30E3YcJsbl__suLZxSEj3AQFe-SQZ4PoZi-oM2mMSGVmda_6Mtc9LaAdp4jg7zIP-3rLvoKQ7vbgUf4_5r3oGbxYxNS0Z5xapGKCanyluALyZfRi
+0iXKeQSoBW3w_F7Bum81cnzUHmbFVqS4gxpnyuAT4O7DFzxaWZqQlFzvkkGFkKHeyxxQ0EUZwTaV5zWrzpdB9nj2qdm0ftf2wEI_lvLvHENdWSKJkkqJLGCG
+JQ36V3wUNm0IIQdE-mMKbF_EBv3bEky7OAxVZ7zCyvt3CSbV9q9l-IR_Fel5Ol4D
+}
+
+AWSEntityColoring(toolsforpowershell)
+!define toolsforpowershell(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, toolsforpowershell, toolsforpowershell)
+!define toolsforpowershell(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, toolsforpowershell, toolsforpowershell)
+!define toolsforpowershellParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, toolsforpowershell, toolsforpowershell)
+!define toolsforpowershellParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, toolsforpowershell, toolsforpowershell)

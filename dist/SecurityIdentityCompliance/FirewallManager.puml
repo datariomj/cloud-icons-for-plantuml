@@ -1,16 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $FirewallManager [64x64/16z] {
-xPJNjkCm24Kt88JW_pzubfFHZUqRfRrCtG-frACZrr_7V_xZPbuVaue8clKXZLxLQKC0KUjlLXBTNbLIpKm5q5vLqNpKAs3Rgp7NYGQI2k3r0afM9LetUZSy
-XnBrZ8o1k0k7OHExlBQdwKA6W1mx3NnAyonzIyoi4soPusd_vOQEHHV6iwFtzLzpgJK3goNP8xC_FxahQJxk3J5gJSTteu2ETmPqm79N36XPHum-Llge6xeF
-3P1Zz91ZaxF1dBwtZ0DnT8T7m-xk7cU3YgOWn25e9MBGRpQDrgytiED2xdRC6NecaL6frz8EChRyHFUIEp5Vln4Wyu8F58PncNKtRYAHWTGz0ccpC3OGaSj2
-YUsRxCxaIE8rKQdWeYMjZ1evW_p-yPsqDwbgn3M_4xUBD-Yr03laL_zPTE0WEJU8Mg3o_MEdLoBO7CuPwnkU1pDk65a9vAoer8gW7yvvFh0IxAilLalGsLxs
-3uG1EOltjNpJs3Dejg-K-7AsIgsPQnjdHMP-RAzh6d5e8deK9qMorip_LMyz9vsuBROaqDtyGPmEjzSJ79iUENf5f5wYuJMmitn1gzVm_DBHoTePuNLIw8Vv
-3Qzt64BBY-ORgLYzHnhIh-UN3bvl4u9WmnKqwXES2nRrARtvgD-M__pd1m
+xPQ7gaGf341FDFRa_tztaK6UxXkPGjbwWAdfZUl_DlxdVwoe5ljUFI12-Df0ehWNqX012Lg7VuJ4-Hh5egh608HgxYsN_fw-pbULbKxBCvi8KFmD8iDz4BUA
+rAeK6v7chx3MaPo58rX3vol9Np02rWA4qzDuX1xYA-_2L1p3JuofELxvjt3BCAEj2YzQcQyLjWJ8Y_9rrA-CsipgoyujwLJ6iz7iVgUIjr0W_X8Uzm0j0sgR
+CI2PdoYrtxOc5jstJcaWftGFGDoDdf4LwfP1pa0xfwEqJ7oQ-nGqyhw79iXku64-FojYe_wCQKlLvWPxeOYCBKTRed_6ffp5X-dCJ5nnax3FHA7FrwSpsa3M
+WdSYT6LQwblF1w5R9VWp6fAMORIBI9YMoa1t9x0bj3EsseKmHTEqb5onCPPGGSsViXy7bLci-j2lT96LGwVSxzwXR_NHqAa2OYk3vXUY-2Ak4bNgh1gwaYkC
+-zqVnxMRHCmDi2XsEhcDaEyTxgHf3VL2NvPlcCJr8Um7eSFmJbtvN4dqbVJctaTeFmTOpA-iIL5idSDn7l2sodWBe1tLbxXjSvs9YVcTzNy8loUoqhRpSACn
+FQhiixAlRlKNP7I-z7DMjfXUaSY-wfYnxPZvUsHRgxFfMs3u-vXGZ_YLufym0ibyrdmo8kgVOOhKnwwF3Da_fWc2zX8XzE-U8eM9DlyIgwbq_zloF__p1m
 }
 
 AWSEntityColoring(FirewallManager)
-!define FirewallManager(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, FirewallManager, FirewallManager)
-!define FirewallManager(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, FirewallManager, FirewallManager)
-!define FirewallManagerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, FirewallManager, FirewallManager)
-!define FirewallManagerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, FirewallManager, FirewallManager)
+!define FirewallManager(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, FirewallManager, FirewallManager)
+!define FirewallManager(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, FirewallManager, FirewallManager)
+!define FirewallManagerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, FirewallManager, FirewallManager)
+!define FirewallManagerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, FirewallManager, FirewallManager)

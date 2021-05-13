@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $PrivateLink [64x64/16z] {
-xTI5hlCm30NWOuxz_k_xGq6vkwsIaJYVS61OTjBwicLPbWptQFKcPsn8iruN18X5k35WzIe3UHqQW_FLSix7RYyr2F3WZJcwZBFj3FBPxVto7gCf08wdnjT5
-0y0gWDTCWzKLRvN9Q3NXYBhAlIxd9sd34OgiYz4tqbKswhbjvpNI17ZC3ZhR3z9oi3majZO4mCj0aUTrfAs1CH2Ju1h08X8D_2i5n-NoON3zpB_-BmZkVwtk
-gz3z6JFoCS2ChPlM0NmsahhAuui1EnlIsML7N3j1tgtlFK4z2pqH2Hs5p16zpoObVoP2qFgek_epf79tePf0Qb3VtnHuTGeh8WAWmqlIvoP1F7R6a2fc5csJ
-Qz1_NmewcpmZkkmFoWpVnVqTyxhZe5PJgP2wvm1R3Ba2CkeznL4ZpOSYwpkMPLd-0W
+xTE5pkqm30DWfqqvVl_7lR15qtW_7F4-uG4xpO0VzdgzNjPgRUEduH8naVIJYYQ0bjPg3a0sVbE6LBeU4SPtut4zia2Ctz0ylgYhBvwP7COL59BsjPA2ohs8
+aGI8ZS-2yA03Y4c1mYS3-QnqEjG8w7nGKSzQkvV7vvitU2t17lF6bL6oJd8PVhexNR795wmKSW2IxMOuj4qr0g0o8rHVPzI0J8uS8Eqo7eVN15Lj0y6ui83X
+BrVbcUxFQVKQ9dIoBHqToOlERsF4s3x0KKWMP3g9lWkKH-Rr3OMhF2DibwV2UD1yhOh6MPxEMJ1yh0_mlwpvbqkF1tIGJF2yegz6dUJxsNOcCdyTeRpBT_YN
+YhAA9nIA281al3k_GPSR7KkRbG0bup-fq_bA1yj-fi3Yv74r2JonUjoirLap7YLKdgcGpaUMe3nNuPjVgqcWnWiZuL5il66ztch6ptYzNg-_
 }
 
 AWSEntityColoring(PrivateLink)
-!define PrivateLink(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, PrivateLink, PrivateLink)
-!define PrivateLink(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, PrivateLink, PrivateLink)
-!define PrivateLinkParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, PrivateLink, PrivateLink)
-!define PrivateLinkParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, PrivateLink, PrivateLink)
+!define PrivateLink(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, PrivateLink, PrivateLink)
+!define PrivateLink(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, PrivateLink, PrivateLink)
+!define PrivateLinkParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, PrivateLink, PrivateLink)
+!define PrivateLinkParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, PrivateLink, PrivateLink)

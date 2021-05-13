@@ -9,7 +9,7 @@ ZuukNh-EBdrx6lqyV7HqIGFmsQk8hgZy9NsqieakgCFYSdSQRHDTKDgytDvysYQwelRfd8ZeUfHXWOv-
 }
 
 AWSEntityColoring(LocationServiceGeofence)
-!define LocationServiceGeofence(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, LocationServiceGeofence, LocationServiceGeofence)
-!define LocationServiceGeofence(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, LocationServiceGeofence, LocationServiceGeofence)
-!define LocationServiceGeofenceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, LocationServiceGeofence, LocationServiceGeofence)
-!define LocationServiceGeofenceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, LocationServiceGeofence, LocationServiceGeofence)
+!define LocationServiceGeofence(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, LocationServiceGeofence, LocationServiceGeofence)
+!define LocationServiceGeofence(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, LocationServiceGeofence, LocationServiceGeofence)
+!define LocationServiceGeofenceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, LocationServiceGeofence, LocationServiceGeofence)
+!define LocationServiceGeofenceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, LocationServiceGeofence, LocationServiceGeofence)

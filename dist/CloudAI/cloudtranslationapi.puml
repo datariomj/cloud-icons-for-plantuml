@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudtranslationapi [64x64/16z] {
+xT853eDG48JXwhn6z_wdhMoGXKawP8XKtbzbmuS7rUiX-nkFZUtptN_fWzJsSNZh-zxZBE1wEBid0zyZcD-oozODN0eVV1OgB5fpxQ_41sySG3W-tl3zNc-W
+OShng2rvosyeNbluuKVTFTv06vpqXPKD3AxyqRniWBpc6N7ouhwp7_ugNaVZrMla5S_Xoc3ObkH3wJdsp3FYmeVmOWFX-z2SlMxmF93H3RCyhzruf3sF36vx
+CJHzh_S
+}
+
+AWSEntityColoring(cloudtranslationapi)
+!define cloudtranslationapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudtranslationapi, cloudtranslationapi)
+!define cloudtranslationapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudtranslationapi, cloudtranslationapi)
+!define cloudtranslationapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudtranslationapi, cloudtranslationapi)
+!define cloudtranslationapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudtranslationapi, cloudtranslationapi)

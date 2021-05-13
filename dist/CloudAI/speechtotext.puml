@@ -1,0 +1,9 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $speechtotext [64x64/16z] xSkr0S0m3031Ij1b_sd3p4p-RmpIHTT5fccstslU1pnUisoDDytwgSUtvzgxsZiz7kzvhTlKjRozp-FnIvy_zVYo7Qk_zVZbA04
+
+AWSEntityColoring(speechtotext)
+!define speechtotext(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, speechtotext, speechtotext)
+!define speechtotext(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, speechtotext, speechtotext)
+!define speechtotextParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, speechtotext, speechtotext)
+!define speechtotextParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, speechtotext, speechtotext)

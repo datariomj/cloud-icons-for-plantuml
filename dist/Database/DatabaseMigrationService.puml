@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $DatabaseMigrationService [64x64/16z] {
-xP45Si0m3C1YXly_U1vlkPB749L1AIZ_98k52HCY4hDOj6KQ1TnnjoUj8SeczSUZCAv1jADBJZXU7o06Rvn5kEhxjZ-k-vllt_1Xu_z1mzUv7qfmnw-rAHCM
-n6fPzFo9V-RJnjbElu4-dLCO3H-hFQj75k4cMCVOy3LAUG6mzV-VgmYpY7hyd_wh_-gVs_tXii-3DlfRNaRkahtkxzaW1ER-RUonlqL-AO5RRolOxJ_uReFu
-sF-V-CM6tqViVYFvCraiRW
+xP85eWOX20R18FN-n_sxQ-LrEDinraV_YqmcJRdcBQMoUjJM31iGKqA43OaYJRIDNSIEZour0V2udu7QpIjBumqur0TZIZZgssCVnls7um_u-63zCE3BW_ng
+nD_NJpdMptOsCV-6N-RpE_toe7uY-K6s6viH0du2I5NCjxcv2MK0J05Vd19SW5N3wz-CYMeb4lN_a__CV-RV7kUV-YZrOVxQXw7x_9Fs0BVv5-rHcWfHASVy
+ln3FZqRBELe_KFkMb8xv_ml_oAqVXtH_eVupcKpM
 }
 
 AWSEntityColoring(DatabaseMigrationService)
-!define DatabaseMigrationService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, DatabaseMigrationService, DatabaseMigrationService)
-!define DatabaseMigrationService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, DatabaseMigrationService, DatabaseMigrationService)
-!define DatabaseMigrationServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, DatabaseMigrationService, DatabaseMigrationService)
-!define DatabaseMigrationServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, DatabaseMigrationService, DatabaseMigrationService)
+!define DatabaseMigrationService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DatabaseMigrationService, DatabaseMigrationService)
+!define DatabaseMigrationService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DatabaseMigrationService, DatabaseMigrationService)
+!define DatabaseMigrationServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DatabaseMigrationService, DatabaseMigrationService)
+!define DatabaseMigrationServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DatabaseMigrationService, DatabaseMigrationService)

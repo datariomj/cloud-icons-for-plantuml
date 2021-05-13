@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $AppConfig [64x64/16z] {
-xTG7hYCv30JG8Yd6-zztTqOG22UrzIUdSX9eF6LqVQ_yox-4hUINUSQAVg4d_npxiFUOFuBv4z2k7aL1MMK2B8_XLGxuAGSf0UAhm00R2F0Zpca0tUvw3W0H
-W1_nAhE7SchCbVW9t-IW0s--xI2hldo00QxB1C6lkEJR3R3gfAdQZH14lGbHDvqn8uq2yeORh6S238zm0Reco6iloEQSJtlYqBqDPka9-irE9tMl8E7T7khj
-5MTaTHoZJm10x7nqEwVeC5L7Jxp1Dt-T-MvtTp_GD-WCv8dtYDu_UNahCsBh3S1uUTKDscLWvrDLRwuwvNCxmQfQ9t6GzxoYY_QEMRS0LhD1eCNxLkvZc5FD
-CRy804Xlx_4PvtLyuPvr_lnGyEAswpw-cFVyTXblUVc55qZTSlywhh1RANRD1qRpNinAEWFmArwf3xoVSYa0HX2QRzDS85qCi6LLdFEKkHYLvNN-vZ7doOjX
-dwFBrp5VGB2YNyGhO-L3d3QtxuHF_mMysU-KV_cN_m4
+xTG7SiGm20NGZpe2tV-uQPOPEnELJPksFytjOQ8Hs_ugppmZfKU_vprwqZSzyNlAmvxbuq-WZpyL-VWhcpo3f6a9GFSKQsiCr4tku381WVi53_WC8jGzhWMW
+wwfB0aZgJe4C_mPBrnPDRzGABFWewm8CfssI2apl2u7R9CdgVwj0XDVb0fJh1AHSBY8irq-9xFdQ1o28rKDO-09xVG8YYt00x5g0h6PEZVj-M9sj2IEFRVK-
+M8FribHALfKe-A33kG7uqeY54Qqh8iZ8LpkMBdeyNHxRyGLytpUovGSFMRdl-_eV_RESj_I-qvmxhrT9Om-aBxTwGRRBmCXBIjcGu388TgnmAUMs4mRn-NQ8
+NImhbkq8yAcKvE3aEXxJbADLJH-_201SDiE82twyIy-94sQvJMTTVlOVF8_BZvFWZK_-lL7YaZUU-81mu_mbbu7MWDYkFDswgA5CUOkV-VNpYpq0dl4c-SOZ
+Wbfd068b61_5k0OOR_NOGKARtDOYXQEptfBgBlV7MdYKzsGRwbtUWKTFVeZRzb7fUOIB6upuclU3x_0cBf-Llg6D_MUUUUOL
 }
 
 AWSEntityColoring(AppConfig)
-!define AppConfig(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, AppConfig, AppConfig)
-!define AppConfig(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, AppConfig, AppConfig)
-!define AppConfigParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, AppConfig, AppConfig)
-!define AppConfigParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, AppConfig, AppConfig)
+!define AppConfig(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AppConfig, AppConfig)
+!define AppConfig(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AppConfig, AppConfig)
+!define AppConfigParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AppConfig, AppConfig)
+!define AppConfigParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AppConfig, AppConfig)

@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $memorystore [64x64/16z] {
+xTGt4iCm44DH1wwmtTx_jCwH0cSCGuq3-gVuXxNW_jlErwARwgTkN-YdwwWVxKqFqoTCdp1zGl11VCBqYLTzpJpEeo4mR_LNdj-OleWN-g-hfnEztdzHdp2y
+qdyHB_HVOvzGlTv_NVrjMl_LBRJ-ol2SMxuf_RElIFeNV9Fx7qUGa7sG_WNVIF-A3zA_u1lhN_1XdFyzry__xUJvy7phjDW_2L_gdt0elhDg_y5ymlG9qoTC
+dr2ztZ_tX7sp9wi5zzyU
+}
+
+AWSEntityColoring(memorystore)
+!define memorystore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, memorystore, memorystore)
+!define memorystore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, memorystore, memorystore)
+!define memorystoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, memorystore, memorystore)
+!define memorystoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, memorystore, memorystore)

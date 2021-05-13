@@ -10,7 +10,7 @@ x_33IGj8TpvoM73Oc0nNcJpShU8Z7cg6r37L22gr5XmPwqbfopO7z6quAgu1S8yIRoLx2KUOmcWy5A8F
 }
 
 AWSEntityColoring(ElasticBeanstalkDeployment)
-!define ElasticBeanstalkDeployment(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElasticBeanstalkDeployment, ElasticBeanstalkDeployment)
-!define ElasticBeanstalkDeployment(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElasticBeanstalkDeployment, ElasticBeanstalkDeployment)
-!define ElasticBeanstalkDeploymentParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElasticBeanstalkDeployment, ElasticBeanstalkDeployment)
-!define ElasticBeanstalkDeploymentParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElasticBeanstalkDeployment, ElasticBeanstalkDeployment)
+!define ElasticBeanstalkDeployment(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElasticBeanstalkDeployment, ElasticBeanstalkDeployment)
+!define ElasticBeanstalkDeployment(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElasticBeanstalkDeployment, ElasticBeanstalkDeployment)
+!define ElasticBeanstalkDeploymentParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElasticBeanstalkDeployment, ElasticBeanstalkDeployment)
+!define ElasticBeanstalkDeploymentParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElasticBeanstalkDeployment, ElasticBeanstalkDeployment)

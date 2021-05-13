@@ -9,7 +9,7 @@ eAi1QUiNzylh0UqFtGJacQ97FturrZmLghyC-Tp76MB3-yXVy8k-Q7BXBrpaN_ZY-dNzZnxzY_qBV7f-
 }
 
 AWSEntityColoring(ElasticFileSystemOneZoneInfrequentAccess)
-!define ElasticFileSystemOneZoneInfrequentAccess(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, ElasticFileSystemOneZoneInfrequentAccess, ElasticFileSystemOneZoneInfrequentAccess)
-!define ElasticFileSystemOneZoneInfrequentAccess(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, ElasticFileSystemOneZoneInfrequentAccess, ElasticFileSystemOneZoneInfrequentAccess)
-!define ElasticFileSystemOneZoneInfrequentAccessParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, ElasticFileSystemOneZoneInfrequentAccess, ElasticFileSystemOneZoneInfrequentAccess)
-!define ElasticFileSystemOneZoneInfrequentAccessParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, ElasticFileSystemOneZoneInfrequentAccess, ElasticFileSystemOneZoneInfrequentAccess)
+!define ElasticFileSystemOneZoneInfrequentAccess(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElasticFileSystemOneZoneInfrequentAccess, ElasticFileSystemOneZoneInfrequentAccess)
+!define ElasticFileSystemOneZoneInfrequentAccess(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElasticFileSystemOneZoneInfrequentAccess, ElasticFileSystemOneZoneInfrequentAccess)
+!define ElasticFileSystemOneZoneInfrequentAccessParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElasticFileSystemOneZoneInfrequentAccess, ElasticFileSystemOneZoneInfrequentAccess)
+!define ElasticFileSystemOneZoneInfrequentAccessParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElasticFileSystemOneZoneInfrequentAccess, ElasticFileSystemOneZoneInfrequentAccess)

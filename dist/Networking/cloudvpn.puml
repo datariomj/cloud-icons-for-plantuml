@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudvpn [64x64/16z] {
+xPP54e0m00FnzCR_NulMhdNBuc4MhPsv8C9cH9y-VG3Iz-9uaViL-VI5JJnV1fw-IVrycCZBb_jujmu-3edIJERgoxFU_kRl-p-_i4EvWU_tb-GkFvBDf_nk
+R7_eE_IV77_Gf-y3kG4
+}
+
+AWSEntityColoring(cloudvpn)
+!define cloudvpn(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudvpn, cloudvpn)
+!define cloudvpn(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudvpn, cloudvpn)
+!define cloudvpnParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudvpn, cloudvpn)
+!define cloudvpnParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudvpn, cloudvpn)

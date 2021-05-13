@@ -1,0 +1,14 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudsql [64x64/16z] {
+xTK5ZWCn44JHWDssqFS_RJYzy3MbhWNXb6WXxuS6rZzktuWvVy4ZOY9Ww8T7eQpJp-dhzA-vEdtErUbpdgQVew3XwuK6ljRylhR9E_HZvPVGMeT6OSIsFvzR
+wlRbFwb7I9y5d4blhVsZq6-QUsdfS-ARBNWMUXWUXH5XU0HU3XuxVrzg71VLWj2bz-3mvni-VVFG8LuytWHr2Cy2jFGiG4lF0dJ5dm_vUpw-HTtdiNVtE0Q5
+H-4qe0iUnt_HOzJqkY1qgU1f5g2bP85QVNuiK2lF0hJqB40N_AkGVgGsZ_-7xyxnZrCG9r_1u_xnq-CVMljrO86w_UFzWmLFim1j5g3D0hHPW3OBq6O1sWp4
+MF-uVLS
+}
+
+AWSEntityColoring(cloudsql)
+!define cloudsql(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudsql, cloudsql)
+!define cloudsql(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudsql, cloudsql)
+!define cloudsqlParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudsql, cloudsql)
+!define cloudsqlParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudsql, cloudsql)

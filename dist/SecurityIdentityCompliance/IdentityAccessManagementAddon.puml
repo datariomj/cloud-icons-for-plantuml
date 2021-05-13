@@ -8,7 +8,7 @@ yNL7lBCeRmSOYWxOkOto8ey_9rplncGdn0TVppIbERcDFmKcvbZirCyWzKp6tpHY-rQYgMT1OYPm62uM
 }
 
 AWSEntityColoring(IdentityAccessManagementAddon)
-!define IdentityAccessManagementAddon(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, IdentityAccessManagementAddon, IdentityAccessManagementAddon)
-!define IdentityAccessManagementAddon(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, IdentityAccessManagementAddon, IdentityAccessManagementAddon)
-!define IdentityAccessManagementAddonParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, IdentityAccessManagementAddon, IdentityAccessManagementAddon)
-!define IdentityAccessManagementAddonParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, IdentityAccessManagementAddon, IdentityAccessManagementAddon)
+!define IdentityAccessManagementAddon(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IdentityAccessManagementAddon, IdentityAccessManagementAddon)
+!define IdentityAccessManagementAddon(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IdentityAccessManagementAddon, IdentityAccessManagementAddon)
+!define IdentityAccessManagementAddonParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IdentityAccessManagementAddon, IdentityAccessManagementAddon)
+!define IdentityAccessManagementAddonParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IdentityAccessManagementAddon, IdentityAccessManagementAddon)

@@ -1,0 +1,15 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudbigtable [64x64/16z] {
+xTS7SWCn28LXJmGFJUN-fqtHMwqPKeJI6-db-nTtspzi_WV0MptmbG7WZGMylj1Q2m7Pr2AD0NlD2gQ3iu3T0iLHa52eQevUL_3vYxe6py9PcC6z2uoSZBwe
+QSy2dSnGSVLSu6SyvvCc2Z_G6u32wbFpK_1usGSj9tIlUPkQIaBfPkKvbqbYYJzMVDAfiFIIUPoQftRLp1KLByhB3814BTQju1N7KHI0NZLwDwozOdgNKD07
+hRxsE3tSLNaYrExvlUvR7k0wG-DUzrqF6okCrQNlUwwWO_M-w_qiJ6r-UYsTV-0O-N7-kGCY1OzPE3JtvnMpv5cWTsE49w7g6U31wTinhpd_gCdNlis0MZpt
+gIk-pS8J1n_TfMyN5_gaEMlF5OmywOgdI0VFEdkdZwXsS7eUJenVfojf3ZsGzawhhtqkeCGPaE5ZGQkQeyW1sNy2bWig5PaBTXH4tl3KLrhxpEVEkV2Lhq3i
+hG6d_w3vdpi
+}
+
+AWSEntityColoring(cloudbigtable)
+!define cloudbigtable(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudbigtable, cloudbigtable)
+!define cloudbigtable(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudbigtable, cloudbigtable)
+!define cloudbigtableParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudbigtable, cloudbigtable)
+!define cloudbigtableParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudbigtable, cloudbigtable)

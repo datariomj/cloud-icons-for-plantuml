@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $securitycommandcenter [64x64/16z] {
+xTT5eW8m48FXJUbab_kVzhcKr2ROgZ_EzCELp-e4D8S-nhy7ggl50t2rUi3GujENK86L1o9nrUgbX1Ql9RHuxVd-UFuLjjSLhg-KgkKvw1LUf_KZ_fRshMul
+mVEb_bKitroxt0B7rwksNbDlvVlZzRcvjFpYFF_5VFtCXWOVJ-DR1mqlOsS17dVv64mj3sl8tG-5SjCFWDdNnvD-Vv2HyS5v6SzLUyzrEyzDiVR1NMl_ZD-l
+sjG7SvMnBq_y_Qy5rDFish_a_vFVwHq
+}
+
+AWSEntityColoring(securitycommandcenter)
+!define securitycommandcenter(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, securitycommandcenter, securitycommandcenter)
+!define securitycommandcenter(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, securitycommandcenter, securitycommandcenter)
+!define securitycommandcenterParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, securitycommandcenter, securitycommandcenter)
+!define securitycommandcenterParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, securitycommandcenter, securitycommandcenter)

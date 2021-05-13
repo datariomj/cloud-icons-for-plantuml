@@ -1,16 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $LakeFormation [64x64/16z] {
-xTHLbcCz30JW4bXG-zzla_r3W-yD34--XmegbivHp5_DmqExUV5s0S3lge-RwpEYxZY_02WZec-jTr5EvQPgFkhwym4a2n010F7afTmiwJ04fwwXW1OlKV7Q
-ytYhpoWkxO0rpxG2WEW806c0D9SsIFD40Z8ogxihSoWGxvOgUKBndhoRJL0yLj3AY34Y8ajHxpyz7s4Wo2Km-5v2UKBGd1go_VczX75I55EJB8qLf0YF3ASZ
-L_VELaZDC4YjcGw8i4N-xHumuB-eimOICGyc3KLwiToJDTwYIGuKjnozIhVtHnqDeAjrfmetHBa5cmyoeDmmuKwltWoGiP-HvF5iKPt9ZO7UrmTVmQdAIS2r
-bFeM4gZ3_aiLJeLQasM0fGEw0dvmFk5a0PeS0cbom1nOCLwZ7TmI8namiWL5iehiV1Sct5AGf6FG4BiUbLk194c3OXoi-5RFhMs17Q_uyGAp1szOt_E_z_a5
-f6WktU_YJKCllRweID9c12T3yfYl2Se0-BynLlVECugSZNWAPbY9d5_VIylizltqJJ8WpNEjNtVfqEP539BaUoamNYe0pNVL2WGlrmE0HLPtPHY0qRnAX-5V
-5iqRP0pt4SbVrCF3Cm
+xTNdWkiw20JW4QWXcFT_tPjOFjjbfzn-ylsOtHH565puR_FouYMNmSTr0EMfzUtXzTQxFx6_0z3elJiVCb14tjkecciRTwq7X0s0qP5ImaMwVHfHSpOMP3HE
+CPe2EdYBqQurrsszlHSU5SZ1Co5RjTAs-ZCWpftd-UAG0LAx3Rymgm9qlkb8nXEApoJuRYICq-whM--jjjxD5UFBfobuh7wekA5-EpuzxU3R5Ww9rS-l6J8d
+nU1GuoKwwTTWfECZQ2KAR6ztfIl4Bv4yBZ7cbSa3IUOMU_L01lPGRDsKT5XycnlFwba7Hoqsmwjl7HX7tVTzQKTPJRXoIMGslb2MVKhAfRtta9g42pbnnVVQ
+Cf0g5mfYlNuEfuymE-hHmjZNer24KqAGSWtT8hNr00AL7Aee5AW6wHd8LW2TKL4gWYiev034s0Gfo8fS0EGAGBU80awhsNHaCcGhqvrq6nz34vVcPmMLYlx0
+_1kC5mf5FJZ5bnnblutczVYTQ_jfwtNLuqXoyk3beORE8uBWBlmzWbD0RhrzKJ6kOMH-spJ3UApiH-0Af9e1pDYhBpmH2fk554kuX01vI9hlQV1CfAtQ29B-
+5Z4VOC5pBZzNMI3EMqI66BymGGxUg2Me1T-4ALBZxQ82oDqymgrl0mZU9RhYZVRW_MBqLclh8_ZlzFBo1m
 }
 
 AWSEntityColoring(LakeFormation)
-!define LakeFormation(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, LakeFormation, LakeFormation)
-!define LakeFormation(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, LakeFormation, LakeFormation)
-!define LakeFormationParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, LakeFormation, LakeFormation)
-!define LakeFormationParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, LakeFormation, LakeFormation)
+!define LakeFormation(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, LakeFormation, LakeFormation)
+!define LakeFormation(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, LakeFormation, LakeFormation)
+!define LakeFormationParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, LakeFormation, LakeFormation)
+!define LakeFormationParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, LakeFormation, LakeFormation)

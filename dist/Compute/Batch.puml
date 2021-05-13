@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Batch [64x64/16z] {
-xPK7ikCW44JVvBd_XJTOnM9KnljpVfK7DIXqj_gZyiCF5MPU_LI22_R47HmyAnHvqWOvT8xr4n36iKhsewbvQk1FkNrVjdfhVQ7pGqG_7XkgWdgA-JYU88Ne
-fv0WvWhUJwCCGBEVZbBz78p-FFfKaAKlwXoT3C_QvrrKa9fg0CdU35RYK3fZWn8iqY5xCnXCbzQLsmq_5cHrT2ARl9NWCpWYuxboJPIHjsu_se5kWGCREmzy
-NdfJ7o3TWbr0nuhQNnJRwKT9f5SdjdhNgF50DHTsUIyX_vrxV13jwq7PxJegGIDSy6a8rAuDOST0r-DNTrm_Mmn3heFUCEswzxzoFoxrev-K2vOFrgUjdoi0
-0QsbOJJs_Q4gy_90yc8tNQvWuvz45hiMKjFOYt_zNjKREGj19URlLxYN7tGMoQWD0nb5ClS9SfFVLH_j5pqo5xRvRv5rDR4kj-p4rlxoy_bhNOwdatCXwEpF
-VVvdW0liCl3p8E_aN-A_W-mD5P5r7gmccOFdyyCFlm4
+xLPPsjmW39C1izcv_tLRCX2NRvAqFztRw551PfD5jZyL3nveZfnaMPu93QnhyWJAeiN3BHKeGnV1Atg7iNEFXJCG15j9-hY-caZ1A_feIrdGA_nnZyWBvyT3
+fKIwe5Tw5H27lAr028vJ0DAg_IC1y7LRHu1jVKs__Jtw6WWkwMOGZ_dq9ATo9O-0RnLa41e0WAgfTyBLKtc6Rye4hrtkmAKcwaiOH0HE2-mkrRQCFDQJNZQY
+sT42Tz5lGeYRZiQdFYoXT4FxKRYUBR-q4q0BdWuUbJj6HvUv8OmiW6iR2JiGnXVV2RQfplEg9BMqyBrjmuW_rmb_Qkhmggh7bPVNJII4OukX7V557gj3o2KH
+aXc20ZjO_3Ce16fb9ynsASOK3pEa4TSD7r2_udzFzvcdZzuWYS3bc_MLv-lA014GZAa1yFb2dW7_fJlodXJA27F2MC495Kw6NQTdYr4EGyjUC9xfFQGFhyS3
+hi4LUxxl-uVyM4VkiL7RWkcpxlL5x_hNlWhYCIe1xgWir_bXSMMlVGLl6bcEFmb5kCglEIvr74ZfVIrJGWZSRVzdUx-v1u8HfKpvVTl_udSYpqHpnGKav_e1
+udlnuC4d
 }
 
 AWSEntityColoring(Batch)
-!define Batch(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, Batch, Batch)
-!define Batch(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, Batch, Batch)
-!define BatchParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, Batch, Batch)
-!define BatchParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, Batch, Batch)
+!define Batch(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Batch, Batch)
+!define Batch(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Batch, Batch)
+!define BatchParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Batch, Batch)
+!define BatchParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Batch, Batch)

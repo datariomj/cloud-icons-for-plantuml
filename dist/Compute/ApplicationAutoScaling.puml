@@ -1,13 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ApplicationAutoScaling [64x64/16z] {
-xPO5ZaCn30LVpFS_yJQILoxNIXb6y772YHttuySFi-jqGA_J0Rr67nZGTTt6y05TrcECM2p0fpxzMS3ABCYKfXykiKJwnVVvPl4it8eL7IYiRSK_2jQ4eVM3
-dzCPLhuUkJNmfJspBxbK_VNzGW7bApPeJwzVoXym9U_fzLFvrU7pkeu4WE_Khp8y9tGaSiIdP9HVPsZwb6Y__U7AqEPXNlh-_5S1xVcRc65t_hIfXpCpu0vi
-RZnw1N3g2IY2i5i1TVPFGX3P4zoZZmzWs7LdYCSpKLqKV_6duhV9LVc30NP5_cA0Nf4_bRvImBWs0Rmw0TMu1hUu7pz-_04
+xTO7SWCX38NXHpD8GlU_Rgm9iJQTWVJiFpMnl-Tkev_NsPdm5cU0zlZE02DS0wrpIL5iO9LhYheu8CRDsu0i35H3vbMgBcRU-hUUMRyheLkymd68fvK-H2Xj
+L427AxpL1Uo-wQYvbr3UyXp0JxtKVFDYbyyCk2TSepdk0-vZOCfzZlk0UsITklCjZ038mKUq6kqVFG1XL9zxIgE0SFHiWtJlGngrDx-s_FvRdIumF_55vlpP
+w-y3KzoynOp7hnzDSkqbPuJUWPnBrxc1OjmBIJK5FIGXJtv-h8nQyHX8r_aambxCzJfnr--CQ16UlpyNtlhz5WJUEZ-m3VZvPMt0pqyRvxTlEZ_w-NKz4Vsy
+pixk
 }
 
 AWSEntityColoring(ApplicationAutoScaling)
-!define ApplicationAutoScaling(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ApplicationAutoScaling, ApplicationAutoScaling)
-!define ApplicationAutoScaling(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ApplicationAutoScaling, ApplicationAutoScaling)
-!define ApplicationAutoScalingParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ApplicationAutoScaling, ApplicationAutoScaling)
-!define ApplicationAutoScalingParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ApplicationAutoScaling, ApplicationAutoScaling)
+!define ApplicationAutoScaling(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ApplicationAutoScaling, ApplicationAutoScaling)
+!define ApplicationAutoScaling(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ApplicationAutoScaling, ApplicationAutoScaling)
+!define ApplicationAutoScalingParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ApplicationAutoScaling, ApplicationAutoScaling)
+!define ApplicationAutoScalingParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ApplicationAutoScaling, ApplicationAutoScaling)

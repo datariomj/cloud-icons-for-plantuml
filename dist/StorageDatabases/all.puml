@@ -1,0 +1,81 @@
+'Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+
+sprite $cloudbigtable [64x64/16z] {
+xTS7SWCn28LXJmGFJUN-fqtHMwqPKeJI6-db-nTtspzi_WV0MptmbG7WZGMylj1Q2m7Pr2AD0NlD2gQ3iu3T0iLHa52eQevUL_3vYxe6py9PcC6z2uoSZBwe
+QSy2dSnGSVLSu6SyvvCc2Z_G6u32wbFpK_1usGSj9tIlUPkQIaBfPkKvbqbYYJzMVDAfiFIIUPoQftRLp1KLByhB3814BTQju1N7KHI0NZLwDwozOdgNKD07
+hRxsE3tSLNaYrExvlUvR7k0wG-DUzrqF6okCrQNlUwwWO_M-w_qiJ6r-UYsTV-0O-N7-kGCY1OzPE3JtvnMpv5cWTsE49w7g6U31wTinhpd_gCdNlis0MZpt
+gIk-pS8J1n_TfMyN5_gaEMlF5OmywOgdI0VFEdkdZwXsS7eUJenVfojf3ZsGzawhhtqkeCGPaE5ZGQkQeyW1sNy2bWig5PaBTXH4tl3KLrhxpEVEkV2Lhq3i
+hG6d_w3vdpi
+}
+
+AWSEntityColoring(cloudbigtable)
+!define cloudbigtable(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudbigtable, cloudbigtable)
+!define cloudbigtable(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudbigtable, cloudbigtable)
+!define cloudbigtableParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudbigtable, cloudbigtable)
+!define cloudbigtableParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudbigtable, cloudbigtable)
+
+sprite $cloudspanner [64x64/16z] {
+xTK5hYH130FGrPPZjp3tF-rdDwTHD63XA7ck6ivdpJkjvK_8Qthmv2LkVxxWNvjxuep7qlC5VJC_xnto5Vt_fLUUINDESsVgyq8QVhsOrqAYKL9UzWnrtHtF
+xaNzsuj_lfCk7Mv_k200J3NrfTtWdQXq-mgmr6xmpbg3elq5iZPtmsW7AuSxc1zkFzw9DUq4hKTtyE4h3MYpX7McP3uBIW_AEjCD9FOynhStTm79yDgg1nBu
+qQIiXmP-9xmsytuOKVtS-qsDC9XulvhrdzLq4XXxwsFU3PFndjVAfEQi9zpHkvwg-AvtzZHLp2_txw_ep0k4Uge3Rr0rdOpgbUV9Evy
+}
+
+AWSEntityColoring(cloudspanner)
+!define cloudspanner(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudspanner, cloudspanner)
+!define cloudspanner(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudspanner, cloudspanner)
+!define cloudspannerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudspanner, cloudspanner)
+!define cloudspannerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudspanner, cloudspanner)
+
+sprite $cloudsql [64x64/16z] {
+xTK5ZWCn44JHWDssqFS_RJYzy3MbhWNXb6WXxuS6rZzktuWvVy4ZOY9Ww8T7eQpJp-dhzA-vEdtErUbpdgQVew3XwuK6ljRylhR9E_HZvPVGMeT6OSIsFvzR
+wlRbFwb7I9y5d4blhVsZq6-QUsdfS-ARBNWMUXWUXH5XU0HU3XuxVrzg71VLWj2bz-3mvni-VVFG8LuytWHr2Cy2jFGiG4lF0dJ5dm_vUpw-HTtdiNVtE0Q5
+H-4qe0iUnt_HOzJqkY1qgU1f5g2bP85QVNuiK2lF0hJqB40N_AkGVgGsZ_-7xyxnZrCG9r_1u_xnq-CVMljrO86w_UFzWmLFim1j5g3D0hHPW3OBq6O1sWp4
+MF-uVLS
+}
+
+AWSEntityColoring(cloudsql)
+!define cloudsql(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudsql, cloudsql)
+!define cloudsql(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudsql, cloudsql)
+!define cloudsqlParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudsql, cloudsql)
+!define cloudsqlParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudsql, cloudsql)
+
+sprite $cloudstorage [64x64/16z] {
+xTIr0SH044FHHSrbst-rPsPcqik_sGfN8_89PsT3gjOZvkVtyejTt8j_MA-LqhKU2tkLAdiPw4rBTVQKdkfLI-tqgQB7jbwmxVe5MvvVsczwVrZSrubSt6DR
+ZrtxvVlbKu6u_zn_xZ_td_j_1Q88
+}
+
+AWSEntityColoring(cloudstorage)
+!define cloudstorage(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudstorage, cloudstorage)
+!define cloudstorage(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudstorage, cloudstorage)
+!define cloudstorageParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudstorage, cloudstorage)
+!define cloudstorageParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudstorage, cloudstorage)
+
+sprite $filestore [64x64/16z] xSqt4e1034FHGZCo7VU_BJMRHGxwjPyrFohdqEW2ZsQdUtJQxHyRX4xma3hSGsotFox7DF680mye-KXvY7vA4ZqZvQBdsbFsaSohdf7mZXUojxUtlpld5W
+
+AWSEntityColoring(filestore)
+!define filestore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, filestore, filestore)
+!define filestore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, filestore, filestore)
+!define filestoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, filestore, filestore)
+!define filestoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, filestore, filestore)
+
+sprite $memorystore [64x64/16z] {
+xTGt4iCm44DH1wwmtTx_jCwH0cSCGuq3-gVuXxNW_jlErwARwgTkN-YdwwWVxKqFqoTCdp1zGl11VCBqYLTzpJpEeo4mR_LNdj-OleWN-g-hfnEztdzHdp2y
+qdyHB_HVOvzGlTv_NVrjMl_LBRJ-ol2SMxuf_RElIFeNV9Fx7qUGa7sG_WNVIF-A3zA_u1lhN_1XdFyzry__xUJvy7phjDW_2L_gdt0elhDg_y5ymlG9qoTC
+dr2ztZ_tX7sp9wi5zzyU
+}
+
+AWSEntityColoring(memorystore)
+!define memorystore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, memorystore, memorystore)
+!define memorystore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, memorystore, memorystore)
+!define memorystoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, memorystore, memorystore)
+!define memorystoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, memorystore, memorystore)
+
+sprite $persistentdisk [64x64/16z] xSub4i105C3GSkl-_MzRkMQP8V5l9f8fEWFgsEFnucv-_vXx4_tJWSURcyvBHAc_q_bFrP_7lmdUtVp-_Hmv_5VLu_7fqGy
+
+AWSEntityColoring(persistentdisk)
+!define persistentdisk(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, persistentdisk, persistentdisk)
+!define persistentdisk(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, persistentdisk, persistentdisk)
+!define persistentdiskParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, persistentdisk, persistentdisk)
+!define persistentdiskParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, persistentdisk, persistentdisk)
+

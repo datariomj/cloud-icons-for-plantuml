@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $FSxforWindowsFileServer [64x64/16z] {
-xT57akim38JXHaRV_y0l336byigarloSmoycVhYkwxgwcqTIVnMP0W0QpMq16qM7PcKOygHlZe9plEeTVBxs-JgzTdkJZsNnluQy6f-AN2_rRlqDD1a8RlSC
-I7wieA7yslj2aYKGRoxgLFJtNfTPWm6secOW3ivlj0F5_nhWKJzQP0uKmS8ZzlhvpfC21jG6RBClr3hD_DyNntOVw5c4lUh_fpRTGHzU99c2Oi9uqay82235
-Xd2lP_DHuHv5igkv24G7f7cgdbm5yQAt_EKlUWhmQ9wh1w_hkgw_
+xT57UiKW34NXAum5GhhxtswUsqSoUk1f-DtBSUKVox8iIxXpYcsFHjQ4Zwq4XrNaMwCYLxEInMRwuAr1UObNlQ9tHUzrqpRQxyBU8_FWIF7c_jnWrw9DlFzE
+FXmIP85ok6T1ijy_Xex4hxrU-649eivBLYRuztwxy6GPo5SKL9JH_zUvGXeF0U5utxcaw_ux2WrT6UjPu2Jt6W9Mv0VsmTvWnsod7NtZRRW_cX09Sd_JHqfa
+XXshCttH5cHOWh4-9q_qLG0884Q7n5WVpguLLJMIRlwy2z9sWpJEQZtV4kgBFjU7lkWZeHFdj6ZsQC5_RrcMvGS
 }
 
 AWSEntityColoring(FSxforWindowsFileServer)
-!define FSxforWindowsFileServer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, FSxforWindowsFileServer, FSxforWindowsFileServer)
-!define FSxforWindowsFileServer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, FSxforWindowsFileServer, FSxforWindowsFileServer)
-!define FSxforWindowsFileServerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, FSxforWindowsFileServer, FSxforWindowsFileServer)
-!define FSxforWindowsFileServerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, FSxforWindowsFileServer, FSxforWindowsFileServer)
+!define FSxforWindowsFileServer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, FSxforWindowsFileServer, FSxforWindowsFileServer)
+!define FSxforWindowsFileServer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, FSxforWindowsFileServer, FSxforWindowsFileServer)
+!define FSxforWindowsFileServerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, FSxforWindowsFileServer, FSxforWindowsFileServer)
+!define FSxforWindowsFileServerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, FSxforWindowsFileServer, FSxforWindowsFileServer)

@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $datalosspreventionapi [64x64/16z] {
+xTK5RWGn38NXKJso8tptFstPqWj3kvnVjFGDnujIkzqkUEUQvZ2PXIHRsZctnBa5dhoRu_1ixXeGLzNeeqhw-pkHbESR4671NiGzyNW3WDJz8IB4o_wjvXL0
+pVC69Zo8nruxdhv0vW_W94-_8r_RVoVswdKztnI-UnvvFzFF6Zu0LlUQUeZWIu2ySkvrr8V4qsQh7lJBs1kClU7i-e0e7wHy_VhhDnq0a-Cd_M1X_E6F0v3x
+w_p-ayUVk2vmWCVslF_h__PV-Osy_OtZh_nMk-SD6FxIuEvtkzq7
+}
+
+AWSEntityColoring(datalosspreventionapi)
+!define datalosspreventionapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, datalosspreventionapi, datalosspreventionapi)
+!define datalosspreventionapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, datalosspreventionapi, datalosspreventionapi)
+!define datalosspreventionapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, datalosspreventionapi, datalosspreventionapi)
+!define datalosspreventionapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, datalosspreventionapi, datalosspreventionapi)

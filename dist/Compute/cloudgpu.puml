@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudgpu [64x64/16z] {
+xTOr0W9H40JHS3gR-vyMZtgrV-5G2QoyTUkxza-tblu_rF-zDikr1xb4FUJIcFGUvNknNRwMVGru2Vc2NinhpLipNkvThlk2Ninhd_VZPsF7Zh_Fd7eV6NlP
+l9bt7de_0w_rZxp-7--R-LxqkuuVUdvotypt2pnuVqLnRwNozTy_Niuze5_m_Vlti7z7
+}
+
+AWSEntityColoring(cloudgpu)
+!define cloudgpu(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudgpu, cloudgpu)
+!define cloudgpu(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudgpu, cloudgpu)
+!define cloudgpuParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudgpu, cloudgpu)
+!define cloudgpuParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudgpu, cloudgpu)

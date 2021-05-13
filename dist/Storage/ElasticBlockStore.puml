@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ElasticBlockStore [64x64/16z] {
-xTP9aaKX24HH5279_I_uzxrD-CAQbMViTQR0lx1juNVW0FmkM36vKmwet5cpJxW83WGkKgVFefoWajizL7GcLtHwgkX4pcvVNT3C1trzGPrtUcZm-u80_0Bu
-oHaATgdp8agMjwJEArTE2RqsvhXoqooIm7bPIdnVQ2B1MI65lroSio3LOIIn0_s5caVm8c2QH0xrvba-PSEndYJSIj5Ip47oQF_bt_Ixt_tkGmhhtZajhVtV
-ZFoS7n5mAxtvqPzVAEdW_Ahd9-0tdVcvCByNzuVb_MLrVrhTtzRtn-NzTNr_NhTjPm
+xPQ7TeOm24OH8M64zt_TkhgBZISzixd_SE1rAr_y1PE9oud53IOd_hqaSC9tFiE9_EYZRlYTxxg1YOz0qG41_kmR0VNeP8c_rphqIFsz-hkU-rVzNazy9J-N
+u0ydMqHKhSK5dsjtqaZXesO5uPs5Jq4vkcW4W5H5TwGo0g15FmZiyH6l0DwjEvJuYe9q-mQBj2ywFl8tgAhlAsckbHU0HtwL5Jw2LH_vilzhBOMu5Dbl07li
+V-HV-DEV_lJpz-V0-xizUd-7hm38LTJSL2klMV_8-nT_wb-Kzg-yVpPJsKdwvq3_7iqFm_bbD3-DvhVn_3YSNyVpypYJoGi
 }
 
 AWSEntityColoring(ElasticBlockStore)
-!define ElasticBlockStore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, ElasticBlockStore, ElasticBlockStore)
-!define ElasticBlockStore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, ElasticBlockStore, ElasticBlockStore)
-!define ElasticBlockStoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, ElasticBlockStore, ElasticBlockStore)
-!define ElasticBlockStoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, ElasticBlockStore, ElasticBlockStore)
+!define ElasticBlockStore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElasticBlockStore, ElasticBlockStore)
+!define ElasticBlockStore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElasticBlockStore, ElasticBlockStore)
+!define ElasticBlockStoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElasticBlockStore, ElasticBlockStore)
+!define ElasticBlockStoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElasticBlockStore, ElasticBlockStore)

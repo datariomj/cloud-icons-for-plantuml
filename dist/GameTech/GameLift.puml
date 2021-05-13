@@ -1,16 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $GameLift [64x64/16z] {
-xLO7Sjmm35o0HDF_7vnG1nqIsaFnNARUkaEpqABx-0MyyKQugPf_ZUoTa21vsOSn1hfPnm3RIy8Pw0hoKmX1Ey2n_tAWHn2I4Q283kWcNSuNTrZvwwSCsQGF
-gG4k4sDOUCk1WkAervU08oXjAyHPhpY8ZiBuAuG0t2QnmPG0GeioHiEmgQ6jsQdqAZgtl-2h5JAg9JWLCfaq9WA8k8aHPtIyf3lwSM8Msl3usU7hsddwaQq7
-CvWo3HNdP21U5Y_bwopJeLS0iGfVIkxUardb_9PPcQqggE0723m1TFsYlyRVr__r_2dyc_NRxPybzlitLFr_AMdOcXzd35JJ6m40sUtygiHZ4wjfLOy1CHD0
-xlU77mxop1gkleWy4BQnlnfyn5kw_hq96_iJxQgOGPzf5LdDaTN-3iZXGxDaPoXiC27fy5FeytxucdztlzoN-lNkVhfZaR_L74O3khgZwYVf-La_wDt_3-uu
-_PWG2ja_xUwSkxX3it-fNSY_pTVy6jemxT2oWS_vsUKFCD9GVsppSoWB2dsDFzyyy6lyG9lQo_RusRHjdXIYo5Q-GuDOG_yu8AQWunv1m9DUaCTssO6fV-PN
-BOwVmHjl_04
+xLK5hkmm31m7JRd_TRzQjuh-GjD7mfs5u4GnZ3F-01zyuChCelujihQ40wdfLzaIv2RIuWZv2jioq3h8zW6XDo3RRJe3rPteO1YHUmNu9hs3T8mwzpFg64he
+D-d9np3aEPLXOtYwTG23je0ro9mJj2sSTCC40q3T1gKn9X8DwmJGqea5icrCA3OdhI01r0Lb5NVKxRyI0AISIyav0G3LpPuAkUPdUBJ4hMGYW2YNnXJUTEJh
+f4MD3igZMT5MNAPoEvODxN4XtA5eL_n4qSfZfFWqdAuCSDHpkpuQngS1VcL-FtFm8T0sLzuxO5wxmHzlrgOXRy58UGSXFm0KRGB_0V_-_GNoFV-rI_-juzTd
+_6xdpnhh_3Nc_ry0PTRR-j4C0DIdYscVu1lwjQZ4B9oGSY21caWZj7Nzq64WFRo6Co_sypr3LlNBju5kzivx9V8ZKaJh-XdLfY82SghVU_VmzAf-Rr6mxSuz
+yY_4qu4U1wxU3vryGxt9d--NwjNzBp9CulrK1Kx_fH04JVzTPQWLeFQD7_7pUiIRP_okCrmoe8govqzFc3ZofwmKOiqKNNEGoeaKOz5h_XIjCLVClOQyw-Sk
+FyJWZmgvpmzHJZ3uY_mA6nDEwMjyGtceCNAJ7-MmmFwVtPEeGyOI1LqAwfF2iZ3HMCCIWEhF0ed4NCE5N-qpPX-_Wmy--0S
 }
 
 AWSEntityColoring(GameLift)
-!define GameLift(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, GameLift, GameLift)
-!define GameLift(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, GameLift, GameLift)
-!define GameLiftParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, GameLift, GameLift)
-!define GameLiftParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, GameLift, GameLift)
+!define GameLift(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, GameLift, GameLift)
+!define GameLift(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, GameLift, GameLift)
+!define GameLiftParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, GameLift, GameLift)
+!define GameLiftParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, GameLift, GameLift)

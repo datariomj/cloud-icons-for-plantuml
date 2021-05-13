@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $SQLWorkbench [64x64/16z] {
-xPQ7pkCm38EfRVdz7_XW5VYDDl55Dx1Bh8R8nyGsAsJ-LttrLOxmKepyKpQKyIRMw3_O092OUvJSJGY0PGiV1FQyX3g3HeSdn65HeCxIuVCWFoHtRmfuX-Tv
-4FTuqErjJkZnHe1OvFOoJ02o7Z-c2qfKGabyZYPVBN1JuPAeUNbj_g1_vTD7Zs_gt_b-_uOn0IJ-pEiDBG2n20Fm9nvnu-bhLUa4pWSUzcxf6sAW_2tl1DB8
-xK1UCqt4nciEv4D_6Q_rIgxMyB89fUKuzEdyqbM8i7uBHhsqhom5PLdjyy_riFZPWG2Nr-PjNTDUSVs96MrUy36uY2kqotFTdf-1qUL9LW7sTOMD_f0cNdnk
-G_U2ElrdsfblHg__zUp4dkbZvGkos_-nhlJ7IbeekDz_elNIq3A24DM1VlzZlN0A82g4XIUG_VvFgQU5063BMaBLkJt_w7r32ExWxFF9u1_J05ztKRRvWiWy
-mWK0TEw07Z_J22M9AR1pmBbQEJmgkWAEOomXyqaCEtyFwMcuZCy0Xzy7mCR53K6y1Pp_XS40YPh7Isug0FJzICtfMCDXZ7U9vMSdWEXzFzz_G4Tizz_qrLU_
+xPPPbYGX24KVWmeA-zzk7_s8atFItVLPj-RXlW23CCqVvPTVrdGx-5n_gOOtmHtIFCfs1y3QX_d1HbS6q6i9Yo0MJw4ce4eVmV1yYOCB5JX6lc70l_i6Vnzj
+5L_UL1bIyq4MBsmZrFnEW0vVUR5yA42zviymmOQ8c8a86x6OHNz_cTQRoa5Rj_Exil-2d_33LjMly_E-l-oz2u5OBRxwBPzO0f2exYyZllZF1GoWpTo4CNXz
+yV5mYNwd3D3ww1k3kiUDeB6lt5J7-heF66OC1a2igYjpdNyt0WWuKORsxVujQyA4_RrYxHREGpdRALuno_T_eTrk2gVuXLRs1sO6KLm_mpA5ohxG_PuO92Uq
+wZFlxbTUA7QWLttIp8QxQOYSiEhyi-HHBXeY7LQTVw67JBv-KPd_qtj0RZQXdgc8wlnFZ5tpk9P_vv7KvvyfCXZj_C89TcQWFl--5oGKaAPycbj0rES_zLpD
+bG3kaRiOSDJtls3qcnyNmmOuodw6GERDuSJsV_4g-qVYRcv30KBBAw3W7rPd7CH3Jpi6MdzrVbZJVCPfvmJuwu05pO_S1aG-qz3YTG6t0UEKQg_I6wW_hy4K
+-7t0swVG6I2vpezkeoa1BUvdmkZK__RLxXQIiHxN0EJvWRZEpxxYLPKM-JFyyiiV
 }
 
 AWSEntityColoring(SQLWorkbench)
-!define SQLWorkbench(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, SQLWorkbench, SQLWorkbench)
-!define SQLWorkbench(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, SQLWorkbench, SQLWorkbench)
-!define SQLWorkbenchParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, SQLWorkbench, SQLWorkbench)
-!define SQLWorkbenchParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, SQLWorkbench, SQLWorkbench)
+!define SQLWorkbench(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, SQLWorkbench, SQLWorkbench)
+!define SQLWorkbench(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, SQLWorkbench, SQLWorkbench)
+!define SQLWorkbenchParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, SQLWorkbench, SQLWorkbench)
+!define SQLWorkbenchParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, SQLWorkbench, SQLWorkbench)

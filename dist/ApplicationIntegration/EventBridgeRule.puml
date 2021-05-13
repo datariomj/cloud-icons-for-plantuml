@@ -9,7 +9,7 @@ Y82xBhv5DWMWnOt5IUY774Co4YUbwp-cXFXpSGeirH5t9EvvZFcPT7bcIwgDhrXoOxvB3I6vkdluVhvB
 }
 
 AWSEntityColoring(EventBridgeRule)
-!define EventBridgeRule(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, EventBridgeRule, EventBridgeRule)
-!define EventBridgeRule(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, EventBridgeRule, EventBridgeRule)
-!define EventBridgeRuleParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, EventBridgeRule, EventBridgeRule)
-!define EventBridgeRuleParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, EventBridgeRule, EventBridgeRule)
+!define EventBridgeRule(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, EventBridgeRule, EventBridgeRule)
+!define EventBridgeRule(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, EventBridgeRule, EventBridgeRule)
+!define EventBridgeRuleParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, EventBridgeRule, EventBridgeRule)
+!define EventBridgeRuleParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, EventBridgeRule, EventBridgeRule)

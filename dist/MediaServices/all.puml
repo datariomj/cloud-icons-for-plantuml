@@ -2,202 +2,204 @@
 'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 
 sprite $ElasticTranscoder [64x64/16z] {
-xPP55aCv40EhKRx_XGVI0o4xi8vMeRBLyFModkcddzJw7gum0A-lQ1buPZfOVuutn7XNmiSM17rzrgSEdBerem_TnsqhYGv_lvD-Vvy11gxtUFn-bfYMWdmB
-r-FlIcD3xvM_gRJU6eHYnpUMUeKdsEv70TGB_BolvTx7scT8Nyivughmo3wCpazu6HUvjdoUMvjQguFT8Fl4rt-3wTs8H9mYHSid5chtExF3zRa4X0vzplru
-0otX1gcLzEUZdVhAi7xwZ2ZkbK_uTdZE9m_wVpB1-0-8ZV-73sFufJGmfd_U4mLly-NJTKF2UdwPQyTNwdz-hlRIpTOKfYrlMFt7ErUPKH0jbG--uwV6uRdP
-XtPWYZdmfkdnhCojkY8lnPpujUIGqxzx3VoAJx17VWgmiN_sRwa7NWuUOP0d7h2fCR3KDJutjv4dtlighw_VvSgQAA2tl7IzV-LJosIZvhZ9oJVtLpacabx2
-veH0p_Zi6pbJ-CM4eILYbgEeHxxsp-yCTF8ne9xdHp_ePdWNlWngpVqVQUe7KbF_Xvh-4pCBMnyhgDMQMgZFUHcfmObl_zH6flCTFZawo_IrrBhk_4y__Ga
+xPH7bkGw3C10POda_O_xWvjlEbaUkzQ5ZICK6EHdl7cZgg_Bimf07gzDdI6tqGgazLnVGhNZpXhCnxDBE37MqnLaXd-YY3tI9zM_CcYhv3Bl-WNzkHuGA3Vz
+NpzEahfLsYrTV_ytZm0axDxsDpKpRcNIwivVf6v_qpiazNEg8EDQRzVrEdAUL_eYcxzCf7wFpLfAr-lKxvd2GT6BrE_fI5VtLP6ry_jUdsIBkrr76NMhcuXv
+hdeCi5jdIXVJTpUWsT5HjidlslaLSoDdf9jtrkFKoiV-PaBqj4UqbX_q4ryBh5D_y8lFmgoWRfGALS_NFtw-hE5RJv2E-4Nn9F7R_YmWJJsBkkGL9-BMdzs-
+-De4oepsr_YHP5i_aUOVFwR-O49RfZF7G1jVXBp2Zwc3bJcevXT-iXPHglpyKKThuzp-zFt8SO_uxTdxrWKvyMS1KjDhNnj8jr--5SYr91XNFf16n2zr-zHp
+16ub-jxFbEKUll3vr6ZUPuoqjhxgr_gRXLY4ajqWhxY_MRzHWSixqmtvI6r5p_m-lv69i6T8YQD_jK2roRpVlx68w7zlCDPP2cpD7wX_aZdycP3XCVyJEiiD
+e9jxGv_wId6BuzSa-MCgmsD7XVdSj_GnkMkcFfN3azfRWUOlOID1LFIBcAhv9s_U_0i
 }
 
 AWSEntityColoring(ElasticTranscoder)
-!define ElasticTranscoder(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElasticTranscoder, ElasticTranscoder)
-!define ElasticTranscoder(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElasticTranscoder, ElasticTranscoder)
-!define ElasticTranscoderParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElasticTranscoder, ElasticTranscoder)
-!define ElasticTranscoderParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElasticTranscoder, ElasticTranscoder)
+!define ElasticTranscoder(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElasticTranscoder, ElasticTranscoder)
+!define ElasticTranscoder(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElasticTranscoder, ElasticTranscoder)
+!define ElasticTranscoderParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElasticTranscoder, ElasticTranscoder)
+!define ElasticTranscoderParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElasticTranscoder, ElasticTranscoder)
 
 sprite $ElementalAppliancesSoftware [64x64/16z] {
-xTE5jSD034JHcHLj_mr_3EcOmw0RC3wp-uzIYcymaXisi66lK5j9eMEzzvLyegzUyCD7bXt9N6_o8uOxb2ExqV5NpxOIntfl6tX_3I4I5zIA7nfdvaRGdQ2T
-jNC2Vw41FECG5BAhGg3dz3xwl4spH4vxiMIy9vBJFkDuxqdUloVdd_zwXkQxlC7EUNG1YSFm3Du0LU3yjzK8qFhvWen-2VAIklgPPxsKyWq
+xTM50eGm281XP38PW_T_tEkmdTV1Tttwss4xpZb9nSI665RWiJvoeJZUYnMIYTvxWXsPtRSqrtEzawqlrLVyfENt7aCX7Eibh23s7J9HjfjfX9seTXkk04KG
+AhORv70AkO9mmqema1w_AG7VqilWU9kNk8tQFN5Rib487Us-2qjkOB7TnzGcjwz_ERxijHnkwPK0IC-Vjnv1JJCyUieb1C1ajrD4jNiWsXsy5x4fphaj
 }
 
 AWSEntityColoring(ElementalAppliancesSoftware)
-!define ElementalAppliancesSoftware(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalAppliancesSoftware, ElementalAppliancesSoftware)
-!define ElementalAppliancesSoftware(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalAppliancesSoftware, ElementalAppliancesSoftware)
-!define ElementalAppliancesSoftwareParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalAppliancesSoftware, ElementalAppliancesSoftware)
-!define ElementalAppliancesSoftwareParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalAppliancesSoftware, ElementalAppliancesSoftware)
+!define ElementalAppliancesSoftware(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalAppliancesSoftware, ElementalAppliancesSoftware)
+!define ElementalAppliancesSoftware(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalAppliancesSoftware, ElementalAppliancesSoftware)
+!define ElementalAppliancesSoftwareParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalAppliancesSoftware, ElementalAppliancesSoftware)
+!define ElementalAppliancesSoftwareParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalAppliancesSoftware, ElementalAppliancesSoftware)
 
 sprite $ElementalConductor [64x64/16z] {
-xTE5jSD034JHcHLj_mr_3EcOmw0RC3wp-uzIYcymaXisi66lK5j9eMEzzvLyegzUyCD7bXt9N6_o8uOxb2ExqV5NpxOIntfl6tX_3I4I5zIA7nfdvaRGdQ2T
-jNC2Vw41FECG5BAhGg3dz3xwl4spH4vxiMIy9vBJFkDuxqdUloVdd_zwXkQxlC7EUNG1YSFm3Du0LU3yjzK8qFhvWen-2VAIklgPPxsKyWq
+xTM50eGm281XP38PW_T_tEkmdTV1Tttwss4xpZb9nSI665RWiJvoeJZUYnMIYTvxWXsPtRSqrtEzawqlrLVyfENt7aCX7Eibh23s7J9HjfjfX9seTXkk04KG
+AhORv70AkO9mmqema1w_AG7VqilWU9kNk8tQFN5Rib487Us-2qjkOB7TnzGcjwz_ERxijHnkwPK0IC-Vjnv1JJCyUieb1C1ajrD4jNiWsXsy5x4fphaj
 }
 
 AWSEntityColoring(ElementalConductor)
-!define ElementalConductor(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalConductor, ElementalConductor)
-!define ElementalConductor(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalConductor, ElementalConductor)
-!define ElementalConductorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalConductor, ElementalConductor)
-!define ElementalConductorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalConductor, ElementalConductor)
+!define ElementalConductor(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalConductor, ElementalConductor)
+!define ElementalConductor(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalConductor, ElementalConductor)
+!define ElementalConductorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalConductor, ElementalConductor)
+!define ElementalConductorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalConductor, ElementalConductor)
 
 sprite $ElementalDelta [64x64/16z] {
-xTE5jSD034JHcHLj_mr_3EcOmw0RC3wp-uzIYcymaXisi66lK5j9eMEzzvLyegzUyCD7bXt9N6_o8uOxb2ExqV5NpxOIntfl6tX_3I4I5zIA7nfdvaRGdQ2T
-jNC2Vw41FECG5BAhGg3dz3xwl4spH4vxiMIy9vBJFkDuxqdUloVdd_zwXkQxlC7EUNG1YSFm3Du0LU3yjzK8qFhvWen-2VAIklgPPxsKyWq
+xTM50eGm281XP38PW_T_tEkmdTV1Tttwss4xpZb9nSI665RWiJvoeJZUYnMIYTvxWXsPtRSqrtEzawqlrLVyfENt7aCX7Eibh23s7J9HjfjfX9seTXkk04KG
+AhORv70AkO9mmqema1w_AG7VqilWU9kNk8tQFN5Rib487Us-2qjkOB7TnzGcjwz_ERxijHnkwPK0IC-Vjnv1JJCyUieb1C1ajrD4jNiWsXsy5x4fphaj
 }
 
 AWSEntityColoring(ElementalDelta)
-!define ElementalDelta(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalDelta, ElementalDelta)
-!define ElementalDelta(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalDelta, ElementalDelta)
-!define ElementalDeltaParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalDelta, ElementalDelta)
-!define ElementalDeltaParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalDelta, ElementalDelta)
+!define ElementalDelta(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalDelta, ElementalDelta)
+!define ElementalDelta(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalDelta, ElementalDelta)
+!define ElementalDeltaParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalDelta, ElementalDelta)
+!define ElementalDeltaParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalDelta, ElementalDelta)
 
 sprite $ElementalLink [64x64/16z] {
-xTO5ja8n30JGYKso_mr_n-cd9m-7YykSLs_hSjxUo5eW5T1ifnqm0pnxSK1OHG6oEYpgHrXT1sCAQm2JXddb11tdhIRO_taEglhxGvxCExRupdK1y6G-kILh
-O_M5NRB-0zFr7vYk_zYg_k_wNsx-J5gyVZoCTC_g2m4ageaAH03AQaW3B5UlZR93_rAfQDJ1mVf3-5Non0uElnz8soBRUR4jUQNwUwu6OIUV0ec_GIZPFFue
-gLWLf3K40Sjg8y1QGgHUDNzvRs-V
+xTK5ZaKX30NGYqDb_yiT-MuCf6_ySw9FRXgq-dMMXKWtu0X4LYF9G4f05hLWXq2g5E1OBLBLdPhqUr2TGjg1ITryQ1DYFvzqGleup_K2tywE3FCL5yfLtJSq
+hjykNDRVVHZL7pBbvyVVCJt-dl7ur_Ytdvz96--Ffd-6b29grnpWpCEb05VhheiOoAvp7RgOOH0LWNM70webJtf0AD-I9roXxliEZXV2PTx72_nDuy-YEv8j
+UVRmRRS9FJoRzhv3P8vmrZCW2TXjFZDsZdKBx_LPyjzlMLu1
 }
 
 AWSEntityColoring(ElementalLink)
-!define ElementalLink(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalLink, ElementalLink)
-!define ElementalLink(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalLink, ElementalLink)
-!define ElementalLinkParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalLink, ElementalLink)
-!define ElementalLinkParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalLink, ElementalLink)
+!define ElementalLink(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalLink, ElementalLink)
+!define ElementalLink(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalLink, ElementalLink)
+!define ElementalLinkParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalLink, ElementalLink)
+!define ElementalLinkParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalLink, ElementalLink)
 
 sprite $ElementalLive [64x64/16z] {
-xTE5jSD034JHcHLj_mr_3EcOmw0RC3wp-uzIYcymaXisi66lK5j9eMEzzvLyegzUyCD7bXt9N6_o8uOxb2ExqV5NpxOIntfl6tX_3I4I5zIA7nfdvaRGdQ2T
-jNC2Vw41FECG5BAhGg3dz3xwl4spH4vxiMIy9vBJFkDuxqdUloVdd_zwXkQxlC7EUNG1YSFm3Du0LU3yjzK8qFhvWen-2VAIklgPPxsKyWq
+xTM50eGm281XP38PW_T_tEkmdTV1Tttwss4xpZb9nSI665RWiJvoeJZUYnMIYTvxWXsPtRSqrtEzawqlrLVyfENt7aCX7Eibh23s7J9HjfjfX9seTXkk04KG
+AhORv70AkO9mmqema1w_AG7VqilWU9kNk8tQFN5Rib487Us-2qjkOB7TnzGcjwz_ERxijHnkwPK0IC-Vjnv1JJCyUieb1C1ajrD4jNiWsXsy5x4fphaj
 }
 
 AWSEntityColoring(ElementalLive)
-!define ElementalLive(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalLive, ElementalLive)
-!define ElementalLive(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalLive, ElementalLive)
-!define ElementalLiveParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalLive, ElementalLive)
-!define ElementalLiveParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalLive, ElementalLive)
+!define ElementalLive(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalLive, ElementalLive)
+!define ElementalLive(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalLive, ElementalLive)
+!define ElementalLiveParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalLive, ElementalLive)
+!define ElementalLiveParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalLive, ElementalLive)
 
 sprite $ElementalMediaConnect [64x64/16z] {
-xPO5kjmm48CrtFkVk76YadS_Prnwg6NudR5a-l9gzQbFbNlz0Hu2IFmkdG9409A_HIimYYy7TBk5Ci1gUjzN03g8DClHWWAnmnkINM3n2MkN7eE_BggPUfKo
--AW6xeCQl46JHjhWJqCRcOdXq5a3TVA7JEwoz3Epr6UyviXoNOAo_V2Pzs1zkkBhkqCJF_rZeJBDvtogLMFSCV8K-Fdtyk4Q1uFL7QrvFYiWmynXcLoVhLBN
-BGGZvuWFmI49VkPWY5LyoNSYN00aldy-bV0kJxrblingY-VV0t8bVyXhy0WskE9Bl-SMrrm4hZaNttFKkbirXTSiyH8fbs8jqbb9KsNGZpwMasueTURRA6t8
-N_bantUMVlARcq3Gf5zvMXkTzJCUnXqLT-jdSSzxpdClh6NjFe_xXmKwkfsVULhGttSr1v-wjG_p6inSH86SQbkBDjDE6iPW6gBDHeej6ODfgdxTQ-VO-ftO
-BNtkn7RfSoTO-k-V02N_zFpwQlMfJtq5
+xPQ5cYGX38IB00s1xFk_xarzv6m4EPUjbPcMFqIgvUsFrRlUPQNOT-0r0A5-AwroWsk0wBVGBGBNBNcxWDXEwPw1xAKRl_Upme54eYV_08xQaD4Syq0DUJjr
+9K-QR4yZ0ddTAQAmNUGpkP559i-6bkNY4N810IE78P0Fm2M8VRNuPGpoo1ErQv52aX5VoprVTEGdQSP_DliTVtVAH7ObVSvheXzND014fVjHR5o346v7WDsP
+qsID_oCG48fP2GZS9gjn7g4YgiVXULKG0gHospcDg3E--JUHiKEaVjwcsX5F_SrypxaVyTd6bo1-ERZX9GpCyeplyTFSAhqE2K4WdG5zZeihKDqtJCEaCEyY
+t1W-Sd_C8mZfkxwD24wlfUcUJxketpVRrtm3Kj-ZsQHiz-jRPcltddcnFQk_nOrdOHkZUyQF8RPfwka-IP7xqjAa27MtFUVTaReelh_cErkmt_pKoBTqD09V
+msSU0hrmdzjSwXFy_FprwUdRgOEQI9kaFdEm5-6fCuiZgNpoIfDlUOMomY96wiMESMzVAPYblYu2ej_x_lh7wbtl-W
 }
 
 AWSEntityColoring(ElementalMediaConnect)
-!define ElementalMediaConnect(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalMediaConnect, ElementalMediaConnect)
-!define ElementalMediaConnect(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalMediaConnect, ElementalMediaConnect)
-!define ElementalMediaConnectParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalMediaConnect, ElementalMediaConnect)
-!define ElementalMediaConnectParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalMediaConnect, ElementalMediaConnect)
+!define ElementalMediaConnect(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalMediaConnect, ElementalMediaConnect)
+!define ElementalMediaConnect(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalMediaConnect, ElementalMediaConnect)
+!define ElementalMediaConnectParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalMediaConnect, ElementalMediaConnect)
+!define ElementalMediaConnectParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalMediaConnect, ElementalMediaConnect)
 
 sprite $ElementalMediaConvert [64x64/16z] {
-xPO5qgmm48HxdFjV-4a8sx-IrBhrQkIZCiQmtAtUUglSwmGy190ubau1t079et03_X--7B1ZUBTkUfa_LCm-3ZA_BGreGt2WW18AM0re1pHvAPY1K2hWjPyl
-J9TebsfGVDlmenAGOl9843gSIO3SuVjfQpifhQfkqIxl8O0cZVxeYbH0mdVvPk_1XnId1_m_5VIdLKKxqfXVO3_Lls4Py9LruCjghM39FZ1mquuw7u3fMlzg
-G7H-99u_U-wMTdTEyhHVPE7l2_Aw-K-FuskBNurvfWPvvWzvRfhBNv7v_2NFsXVXFM2QJu4aUKxDyRrdLJkqjR7nI6E--rwIZRJ7OCY3vHxR4MejFvuiv-xV
-fOqBjX1kcEeV3MqNcUmVx5ySm7RwrxX_YdnRcXLvwfgyMwrycH_z_2HonFCJqwv9yXRFZ-nVTwkttleB
+xPQ7qZCX24Ml5HNk-p_kNnYTsKbRlrvFUZd9BYB0JyillvY8yVcq08J6Pp8IGci1QV0v5A0QQHKeV0QrA1qjbLy8vO4nBZuwmmew5vg1h5nq53lH9I0jmIC_
+Ly7HX21yG8-8dHDV-Pa55r-uWmBHreb7X3wbWBZ2O15Gtc40GDLvuc9SaimmQ0M0ST-Nde0yAb3i8gge8mEfooE_aIC3Dr9-901vaEt49nMPDyXGSiSd2XSY
+N1JmnBUkNBvLyqL07FF5zBKR7-D-0qe6H81SWER-7kxJLq99zQZpoJuP8m-FFyzFAtxfURwjzRCBVoD_d9K_paN-REPlZ3lvU-b3hdt1jZyYuZZuwwqjtv5L
+DKjPbLJ8VTzBRUUaUr4-z_LOz5gODSpAeG2R1EXU_RQCqFtFirryOQz_kEe_Sj4_jlkN5Q3OdVwrrJzZlFXeW_i-tzElHTr_xlpYdJj6x-BFdj_-WJG-PdvS
+y-kdvPTV_W8
 }
 
 AWSEntityColoring(ElementalMediaConvert)
-!define ElementalMediaConvert(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalMediaConvert, ElementalMediaConvert)
-!define ElementalMediaConvert(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalMediaConvert, ElementalMediaConvert)
-!define ElementalMediaConvertParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalMediaConvert, ElementalMediaConvert)
-!define ElementalMediaConvertParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalMediaConvert, ElementalMediaConvert)
+!define ElementalMediaConvert(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalMediaConvert, ElementalMediaConvert)
+!define ElementalMediaConvert(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalMediaConvert, ElementalMediaConvert)
+!define ElementalMediaConvertParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalMediaConvert, ElementalMediaConvert)
+!define ElementalMediaConvertParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalMediaConvert, ElementalMediaConvert)
 
 sprite $ElementalMediaLive [64x64/16z] {
-xPO5ifj138DbzlqlNFHEuz12sySQ2dqBbkm_-NRrfI-vH9uh180Uhs006u7yY0u6MMOeS7G96LWmx8ZFaaEto8XxVCHoqVKUhqjb20Nu_lwyuAK1vEF-mpUh
--plXUIMTG7Qnb4JjErPwdWQlevVyLm2Q_RNOOnxi_JO0ULloAQy2I7GlehM3w5C-dL68Gc-TyPpmlufO_bSnI_hh9dC-qyf_RUK8ovpoFV_Hox7DPvLZcRV6
-zqoLhF5T5etlcIw5RVP_ZQ2zxk-yO7a2X82iyJ5iD9fF02DmTL7nLlKB1XXaav4B-ttSwFxL5BPQ-m4-qk84xlbXa8zIn3m_GTJpInHR-Vl5rvxrVfVNIkCf
-NtfH7ZP2nDd48pe6-DFqUAOEbtioT8paHwgON3QioCNQ9DCdK0MktxlrmLHMTEEtMh_pPoAEFtpmzZ82sE0Da3swUZ1-yb6zT_BdpuZgCNuYfth-dchCZtEv
-v__Jbxxq7G
+xPQ5WiD024HdNI3__xbdX5veFESozNRV2Z0bm_VLl_xLCxs1vWIWy5MyEiJcuVibcW9SUtejGE8BV48MZ2Bg9VuMn9CyynBFV3ZeUOdFXyB06OYqn5C4Ck-d
+JDELGFebgipZuJOZqQO3whWSHRW-cRwjuWH4lYy0ctwE0Atn7K0WUnevpsHAeA_pETbYu-GA6pkalCNNIPIBgqkPgPkyH7dClurLbfDiyv864hwOS91CjitR
+-cSRZjEy5jr1dkvvMrFAqthziULjJOkudVI_P2uFHqMynZCTygzhbYyEeJ-VpktuLyO4XqWcVhwDDdmnrAfaJ7t9Uc7XAU350Imsh3Bt6gxLqZsYhPyufe3J
+fd-BllLUwZVIxVEeSg3-X5V_MBuUvSM_rtdHP_AaJk64C1W595Opq6Rrq62oR2f3U_9czqbX4lUK9hqXfFqEHC6CyTxC7GuugD5YtEGVyAoKFmz6UkKfdfuc
+0rNv2kJXhFfB4hsN_dlnugzwNqqBEBi5G1Q_9DD_hgdtuUFqhtyz0W
 }
 
 AWSEntityColoring(ElementalMediaLive)
-!define ElementalMediaLive(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalMediaLive, ElementalMediaLive)
-!define ElementalMediaLive(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalMediaLive, ElementalMediaLive)
-!define ElementalMediaLiveParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalMediaLive, ElementalMediaLive)
-!define ElementalMediaLiveParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalMediaLive, ElementalMediaLive)
+!define ElementalMediaLive(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalMediaLive, ElementalMediaLive)
+!define ElementalMediaLive(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalMediaLive, ElementalMediaLive)
+!define ElementalMediaLiveParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalMediaLive, ElementalMediaLive)
+!define ElementalMediaLiveParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalMediaLive, ElementalMediaLive)
 
 sprite $ElementalMediaPackage [64x64/16z] {
-xPPLmiGm28GP4c3lV-4rsiugoUywBzKFJzhTjzM__XMznnjmWuYyseAh70M1lOQE9j82Y2wli72Yz1WuaEUmboOEFvq0cpMVfXqYYp-0sKnQ2CsQav-rmBAn
-0sJug50cIhgjNdadoiHXD2Kjqck_cebuYbzPR-kB8OsD4H4lU6b1VZqxyYojLdnJ1dl5CwDUyPsJSyTxFgdvdBNsWEyv5GC-iqn-wONXp1kI6_1KBXi3ft6U
-fmNIqtozVzKyGRjQpptcUAuKuIGRE5X3FccrBgo_TCkLCyMhg2_LioE-LD1LT8u7UCtty_uVu0E8fM_9Pn_p_f3dpBgkzLVdB0zuhXbDBkqexvSyP-Pss-Nz
-ajTjPltgoJRBMl3SlEeDllxiSWTcBxciUeo_VlQ8pqwGhf9Gl-TToz3lmoJFnCQYB_ACQLBC5M1DgFaaW3BqKQyTy6ecQdKvgqy3nS_CA-M--pZzwry7
+xPO5ekOW38GdWUAz_tMNL7QULP_B_5BiIqdGySlgJtzgCRPNu5a1INSj50VfWgGxT1s0q5HR56Y-x7W0V1r7rPw-RY5rebX2TRNcodd7TVAP_2KBrPlZ8td6
+mzTJZWzhi-m0bscOLJkEkq8Q8Lona1Nolt4qD-OEnOTp0fi6Ak0vsGOiwOQ1Rn2WRCOTmD38hoaCxB_uFJvuIDhaavbFUtoo46XvaQzkgZdWvm5yoZESXxnv
+6UmHe5CsAO8zdCNzaAUcPPCwBTn3plAqGFegp_th0a_GaeHYEyTp4ItHMo9emJ_B6-ro5CPVOdPcuHplEZr7p_9fYM3knUTuLURPtif_1TzKsvpFCs_1PFa1
+ppbRFGpDqxRBybq-SitucPljU9R7FHwSCmkzMc3vDbyxjAQpqQp9Qyflxhy6SVVVFjBpqUdJHahrOUt0PRIbwY3fAS-pgUwnTAAIVsWudxuxX4QUPITWleiy
+-tJb0kBhobT_vGx5MCTcV8iSaoig2isgFD0kAmgw98vtrJnl1FTKolX--jEV_W4
 }
 
 AWSEntityColoring(ElementalMediaPackage)
-!define ElementalMediaPackage(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalMediaPackage, ElementalMediaPackage)
-!define ElementalMediaPackage(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalMediaPackage, ElementalMediaPackage)
-!define ElementalMediaPackageParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalMediaPackage, ElementalMediaPackage)
-!define ElementalMediaPackageParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalMediaPackage, ElementalMediaPackage)
+!define ElementalMediaPackage(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalMediaPackage, ElementalMediaPackage)
+!define ElementalMediaPackage(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalMediaPackage, ElementalMediaPackage)
+!define ElementalMediaPackageParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalMediaPackage, ElementalMediaPackage)
+!define ElementalMediaPackageParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalMediaPackage, ElementalMediaPackage)
 
 sprite $ElementalMediaStore [64x64/16z] {
-xPQ5TYuW38DJgBt_2ryPEQCp61oPPlBhLmcQdrQ_-bMeHjxB112xfRq1ga3p6pewq6C-7j8AD5BH08tJniLB9t9aWmjOSwc60JTYkO86Q4tlfQ6zRHriWU_e
-D7Gj3bV7ABf76fYN0xgYwTFWHoSDi6U-lesFLEJvJi4PqXSycbS-1IFcpB_abHvDNXxiYqTQTSaFZwBmT8Lqv9gdHrBvJ0FQe7FFP-XiqePxiuaz__fKGSzy
-Dv-quPwdQzSyNHC_uSFZnIQYp_a--Rr2PFBiQiUxvLJbkQ0MF8qNUyPh93eNjCBNTDCHOV8E63hNxeete3attycFhhcIbxp2gc_asNYFtFDUwtxktxVdZOlE
-6nfvzAXyA1RysADic4qUCFBh_Nj68CtwUNwWRyyFodJGv7b-eLzT14IubK20Ta1ha3yyloa7bFpv_Q4uBN9rVs7DFKHkR9jdBNYatidB_V7-_lffzQjV_GK
+xTPNajmm30JG1YHcuFx7TMhM5hH1B8wpFVtDnvpyZyqpprWfve-dAQ3jKTqFIAs2ep-YHmAokLi6qjYpLETKusHD6wa2xM4a2gaR0rS0oQwzOONBiBk2CxJO
+5KVdW9RXT2LuqzcY9Q242RtDNAu4TolV1j44vmWBkjWlqjpfEP83qa81kTjF0pZDwL_AurBU3c1yv3k0SqJlAfTfgmgWV-np0f95hyPfcrfAkVFLnm4f5Znt
+JvlQlDvwJg9gz5mLQbzxjo8lWsoSFKlKInysaNaCaZCB7pPniSSzzrBTzc_syewtDjwSfVpQf-2N6Q9NtnKhF-A6r-XveEuyYsXzvSjmfBcg5VrUdqMWDVeE
+QKYDT-ATRy0vk07FuBqB02xdhQ-OOpVLwDruXQzzz-3UpD-_xtdAsu5ZUYIBtihD_Jdlg7PmikaXbNvzVyyQgAVN-NuWhTyFfauz_No_aERxjH5wlf-uF0Jh
+57lnl0ZslZ4TKkXt_myCds_wtVyBm-TRTV__52y322_HN_r_ZF_NFpRFFFCP
 }
 
 AWSEntityColoring(ElementalMediaStore)
-!define ElementalMediaStore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalMediaStore, ElementalMediaStore)
-!define ElementalMediaStore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalMediaStore, ElementalMediaStore)
-!define ElementalMediaStoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalMediaStore, ElementalMediaStore)
-!define ElementalMediaStoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalMediaStore, ElementalMediaStore)
+!define ElementalMediaStore(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalMediaStore, ElementalMediaStore)
+!define ElementalMediaStore(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalMediaStore, ElementalMediaStore)
+!define ElementalMediaStoreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalMediaStore, ElementalMediaStore)
+!define ElementalMediaStoreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalMediaStore, ElementalMediaStore)
 
 sprite $ElementalMediaTailor [64x64/16z] {
-xPK73iCm24N16CZzBvpvfU9q6ATQ7LyhwvbDfYVwww-_b5dVeMdLrHECYQfx9MAxmijAJwkyaWoYLdpZ9sZZlLYMzaAaPrw9YgTemPUHnwdYNReImTF88ogY
-whsAeLmj7r-_mkDhWIDMmEE45mTKiYQBL6obcymPrIwFFCZEKZ51t4aUWTh-zVx447U6HwBnEJCEH5aIl0iA7NayJV06IoqFh-mrhojfpoPMUUUBvbiGYisN
-7W4xqvAZOxRETtafqSw0HZq7DW3h4V6H3UNKz9iu4YYE3OZjvuBqkLYdVmozYp3WE1xt-qSfVi4StvBsUUTOw5fZMx3tUMmPFsKKgoV3jtigFiZoK_lNCOIK
-vECKnCxlyoXN_15WxSSlElkxNQ7jykpiRxWT03fjvEfZeySyFeH86FWNIwN_6mEF1td177Wub1R2lV48V4n-yn_qkC1VbyZqlVhhhmK
+xPK5akGm34M_CH7q_Q-xwnghdDQ20aK3RnXUOYbVwjS_-E677_QSzoSsKiBTAt16sbItXCnt_8PDnrVTq2wgN6NuzkFmfV9PMof0tYTWN3H6s_pFep-lsZIq
+Dw2Capf_m0MZ9VzZJyWqltV-W3BI_Z_z-ESs2vQAThp1_Z-VLnSBHYD6sIYhStpErmuq7YugDw3h9Pzcw2GbcL6ayxuKM1zojhfd4R6lTbppLq5wmcUxqz6t
+K_7_VVfjiaN0GtduKYYAOBS87k5YLSLezyCYrTa1qe0cxgShx0cZtpQGAzSXrchwgFYZ6pGVIW1LcJFSTNPyFWtjStQbKf0VpcjXKhBSsg_3_13GNs_vCJf0
+iJzgNrkczxMPHWz2tsqPlvb2twqnlxXYVnsMLtQjfDXtK-2I7_ffToy4jlRZ_Mc5yzlKl4qIkyw6eySfyRKXjFNbysCBBCBQxVt30ucXZ4pJTx-8MM4rto9z
+1MqWyyaAluIiyylh7kRVfxNNr-M77tu1
 }
 
 AWSEntityColoring(ElementalMediaTailor)
-!define ElementalMediaTailor(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalMediaTailor, ElementalMediaTailor)
-!define ElementalMediaTailor(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalMediaTailor, ElementalMediaTailor)
-!define ElementalMediaTailorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalMediaTailor, ElementalMediaTailor)
-!define ElementalMediaTailorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalMediaTailor, ElementalMediaTailor)
+!define ElementalMediaTailor(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalMediaTailor, ElementalMediaTailor)
+!define ElementalMediaTailor(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalMediaTailor, ElementalMediaTailor)
+!define ElementalMediaTailorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalMediaTailor, ElementalMediaTailor)
+!define ElementalMediaTailorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalMediaTailor, ElementalMediaTailor)
 
 sprite $ElementalServer [64x64/16z] {
-xTE5jSD034JHcHLj_mr_3EcOmw0RC3wp-uzIYcymaXisi66lK5j9eMEzzvLyegzUyCD7bXt9N6_o8uOxb2ExqV5NpxOIntfl6tX_3I4I5zIA7nfdvaRGdQ2T
-jNC2Vw41FECG5BAhGg3dz3xwl4spH4vxiMIy9vBJFkDuxqdUloVdd_zwXkQxlC7EUNG1YSFm3Du0LU3yjzK8qFhvWen-2VAIklgPPxsKyWq
+xTM50eGm281XP38PW_T_tEkmdTV1Tttwss4xpZb9nSI665RWiJvoeJZUYnMIYTvxWXsPtRSqrtEzawqlrLVyfENt7aCX7Eibh23s7J9HjfjfX9seTXkk04KG
+AhORv70AkO9mmqema1w_AG7VqilWU9kNk8tQFN5Rib487Us-2qjkOB7TnzGcjwz_ERxijHnkwPK0IC-Vjnv1JJCyUieb1C1ajrD4jNiWsXsy5x4fphaj
 }
 
 AWSEntityColoring(ElementalServer)
-!define ElementalServer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElementalServer, ElementalServer)
-!define ElementalServer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElementalServer, ElementalServer)
-!define ElementalServerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElementalServer, ElementalServer)
-!define ElementalServerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElementalServer, ElementalServer)
+!define ElementalServer(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElementalServer, ElementalServer)
+!define ElementalServer(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElementalServer, ElementalServer)
+!define ElementalServerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElementalServer, ElementalServer)
+!define ElementalServerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElementalServer, ElementalServer)
 
 sprite $InteractiveVideoService [64x64/16z] {
-xPNRUWGX28EH4V3zNxZdV9glKjcsUpVSxF4VJ8modb5ttHKstriyJ7SHnmSNwV4GRasObsPrsbMazvNlNKIzHiSbSiLW7j-U2vsOnwfEj3SePHwkj9z5X8Z6
-oFWHAXB7rKV6nqa1_XCxFl3icWNCGtofJ4ITULSHAy68G5lvbcp-mGRm9BnOVMO-BX9UvQzYvc6xCI-UPTwQ9xbdVfTv-evvHJVmC_EyDRhd7QPFdcE73vxm
-oDx2esMFPJ4PZmQ-y8Yqs70iB-VHZNXqXZqvZsQDU3mLHgOyYGK_DxTZ0JaFivc7gzYVZ8U_n8EQJyfuGx183rQzAB4zZp-kF5R4JkvuG_mN7iAvNBTNKNpJ
-SsLpipQ7PkuTGBLOk9EAuWJc-GrpwXEOx-_gz9r7aFbv-AeJcFalHwn-xpDFDz6pvZTERyP7xY9VLNlUS8EKaiCyV3qNZYpp45QVlhhocZkVsp1v4buicmr3
-RJoZxhhh5G
+xPQ7hjr024JnThFm_v-RDa8sRWydUQftL6uzks9erk_GHn_9khrVvJNT5sBxmBHqUOMlYMZF4wKrJiz2I-zxllU5oepHqeYgwDZpGwKIDGdWOw4yLO-ywioq
+ZAzeJhGWKi_3bOKIFqTEL4JlU9L2zEn28_F9y-OhjI-zXqzdNkpiW0NZp0yBFfO2zZoR-U4II7i-dP8Vj06y2poejjMyr5LVQr159GR5UHnulglvaVdgFihi
+-UkQvqmqhlX2LCNpvvgNIbIkUVvjUXVFgtIul_l0D_oVkPDMp-lM-lRpFQ_QOJe-cr1zlytegiyyRZlmg7xOyyoZVvBZxLGO-SnRi9v7Hs4kFl9cjkTjg24_
+zxmbs_56RIVTyGF5vdXCy-aZ6TSy0dSy0Z_DXaiUUNVyzTIP-OfNq3j-lLqvCzJ_Mzspw4kvL4oaBog4wFTtV19P3VhzZTgB2Itevp-U2GAmzVYHjnzkvOlr
+p5jpVEl-HlVUyH9m4ILxvgqNWjltpCStC5hMyxPFuzitx_dyTWDpylMRM5zg8958sz3lq4SV_GG
 }
 
 AWSEntityColoring(InteractiveVideoService)
-!define InteractiveVideoService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, InteractiveVideoService, InteractiveVideoService)
-!define InteractiveVideoService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, InteractiveVideoService, InteractiveVideoService)
-!define InteractiveVideoServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, InteractiveVideoService, InteractiveVideoService)
-!define InteractiveVideoServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, InteractiveVideoService, InteractiveVideoService)
+!define InteractiveVideoService(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, InteractiveVideoService, InteractiveVideoService)
+!define InteractiveVideoService(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, InteractiveVideoService, InteractiveVideoService)
+!define InteractiveVideoServiceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, InteractiveVideoService, InteractiveVideoService)
+!define InteractiveVideoServiceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, InteractiveVideoService, InteractiveVideoService)
 
-sprite $KinesisVideoStreams2 [64x64/16z] {
-xPQ7SiGm24INdl__uiHe3gTfiAoRxhrUrZnGu-FDUlJ8VCyFsVJpdfys_OpRLZrI5yHMQ8FUzMVeeDi02ay0lkbto4X3xXOWqOF0iHhQ1m3b1HYmrTHZl8p8
-1f0kCDIe2IX9GW6mNRv4ZPe2ak_2602ncby3eBHbyZmiOK8uHCIYQkQfoGMgPiu0vCNkfiA4Kp8boBWZ-sAFLu8HxdPecav8LJtP6QbaFz0ZegkY4a1Y5RJO
-E_wIZvAn3FIXWQw7H6nkdg0d-O8cw3Iak_vT_lNwbHR6hr4_Voo_-ArAlvs_Skm6ybk4Q-k7lq2O_e64DEjNQkCWkdo-rlvXW2HXUFcPhF7N_gNd_YNbfwhC
-wU_tJplz9814-TlzMv34fpzhwkMVYVC_mHbitL_dbvPlpZy_F-iVa_ernr-TtolZbsBA99A-dJzz_x8qVqkdgLa_RV_MhD-D_d7Nlzy_x-lHeqy
+sprite $KinesisVideoStreams [64x64/16z] {
+xPQ7qjiW48JtAeU0zt_T399bvdT7Ia_MlNneXskqxwp_-gzOpl7GNykJdEE53gFk_GdbAA_zqXdfA6-eVGEe7kGJUkpZS0GMM7zH-D6zN_Uk2hHEaYLl1hY3
+LK4n0O-eEMIzSX0uPZnan6KTNkkd9W8qogTytQCMWArK3GL0whbyPe2t1Oe2chT5imkwIDJS8tBNa-K2b2zXL81izrwogp26x9a3WbnMg240MDEuM2rboT6r
+FDq31pXrujRxQdqfvTrEbCG0MwxNh4WcJFWYUvt3pjksnpBYlrdtBjDu6yimeTKwYtcAxhpDgkRa-jKwhU9qbZ_hVth_XYRYDwtR_CcjEU5M5Et3_BMM87eh
+HlwaVg1H7ewI2dzTlrK1sNQ0kTqBzhf_qDu_ofLNpg_vqR_Ith-SxCepeEKrxwWRBlMobvm7pmPu7Vo7_NlmhGXe6Vox-M6r7U3BpVpwpF_j_CpxFsRsRvNU
+pE-9-AsIc_F3HFwCyujXjpgJlqC3cgYV9-UtYVhzRSwViRIVel_whsy
 }
 
-AWSEntityColoring(KinesisVideoStreams2)
-!define KinesisVideoStreams2(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, KinesisVideoStreams2, KinesisVideoStreams2)
-!define KinesisVideoStreams2(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, KinesisVideoStreams2, KinesisVideoStreams2)
-!define KinesisVideoStreams2Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, KinesisVideoStreams2, KinesisVideoStreams2)
-!define KinesisVideoStreams2Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, KinesisVideoStreams2, KinesisVideoStreams2)
+AWSEntityColoring(KinesisVideoStreams)
+!define KinesisVideoStreams(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, KinesisVideoStreams, KinesisVideoStreams)
+!define KinesisVideoStreams(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, KinesisVideoStreams, KinesisVideoStreams)
+!define KinesisVideoStreamsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, KinesisVideoStreams, KinesisVideoStreams)
+!define KinesisVideoStreamsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, KinesisVideoStreams, KinesisVideoStreams)
 
-sprite $MediaServices [64x64/16z] {
-xPOtkiGW30RRNs7kVzmNS8kCFZQ7gNPj3nb9UZXVlaIo84CrIOCizI1KqFeeKODw0FHyllx06SIcRt0GSzyMVWB7_vdlW9_vJfxvIK1QwHlOcG-oXAZynBNm
-9K_mgU-arhuqcGGSes_vaqamSBNyoII6dkhvrIJKz2UJsF379E8INo8lyUso_WDIsxv3kZRyOl5xVh7vxVDJ3BrzVekXj-_FPEZ5_QtZZsitVZXZwDlnI-Qc
-2-9dGH6_ByiV5-QlR_w_e7wwh7wxl7wyl7vzF5--_08
-}
+sprite $MediaServices [64x64/16z] xS61400000CXWldhpkElMXu0001m
 
 AWSEntityColoring(MediaServices)
-!define MediaServices(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, MediaServices, MediaServices)
-!define MediaServices(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, MediaServices, MediaServices)
-!define MediaServicesParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, MediaServices, MediaServices)
-!define MediaServicesParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, MediaServices, MediaServices)
+!define MediaServices(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, MediaServices, MediaServices)
+!define MediaServices(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, MediaServices, MediaServices)
+!define MediaServicesParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, MediaServices, MediaServices)
+!define MediaServicesParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, MediaServices, MediaServices)
 

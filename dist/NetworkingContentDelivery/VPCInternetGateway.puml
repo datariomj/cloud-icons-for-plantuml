@@ -10,7 +10,7 @@ uL5kUxp60mn8Exo0n_CJctn9_H6lgKs-Gmxp7ShW6RhZXmRVPhcxAq466Ew29Xyk6s47dduQ-gKcjtpM
 }
 
 AWSEntityColoring(VPCInternetGateway)
-!define VPCInternetGateway(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, VPCInternetGateway, VPCInternetGateway)
-!define VPCInternetGateway(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, VPCInternetGateway, VPCInternetGateway)
-!define VPCInternetGatewayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, VPCInternetGateway, VPCInternetGateway)
-!define VPCInternetGatewayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, VPCInternetGateway, VPCInternetGateway)
+!define VPCInternetGateway(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, VPCInternetGateway, VPCInternetGateway)
+!define VPCInternetGateway(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, VPCInternetGateway, VPCInternetGateway)
+!define VPCInternetGatewayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, VPCInternetGateway, VPCInternetGateway)
+!define VPCInternetGatewayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, VPCInternetGateway, VPCInternetGateway)

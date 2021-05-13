@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $KinesisFirehose [64x64/16z] {
-xPO5hg0n28G7APIv_u4tPNUVEycBzOlyYaqD7YwNY-FQJrWeJaWaHy2c0cnEACXK0ScX0_ZcW790Lxj87BvJa5cIUma0CJUOAV9R-aFyk0ZNusGpZgVO_2BL
-iTLMvAxLzgPuuQF2Ft8Hnw9f-qtcKW36dHdBv5rHzdwuouXb_-oR5ANZe1xvZdmFgVCGJ-sfoXsH6Qu0tsHtScX412_jMvmMOsfVFyu_mdMcdtZaOFpytDU7
-yqUwYFtU_67u9_EtkiZlpzzUFuoEgDzVFqqAu5a_MB-DGO8_H-4rC7Si3aWO9nYA0mhE2O7ylVFtzY-No-KF
+xTP5siOm20JWYP10mjp_k9_mkmlBzjtsGHhdtUbq4XmxVi2PCR6POL1cE7fs01Spl9Ji21HB9e1i9hW0RSOmBDpywOTQCtAF0g1swMYzmVvMkmvphYcr05XK
+eFIv-Ki-QjGUQckFYEyDxtAu2h-sjLSWHFoYssW0EhUPZlYwFmzTJePjggCznj-vbKh1NHNzOapwO-jxHnvzYR-fbKlLLANXYtswvalhvUPz_2W5CHZwl_Zv
+4f_jFpb-YVcJcB_i-lbw_OevNQNzP_t6_d6DYktl-oTe0KJzx_itU4UPpl_o1d7-ds0mmT2PqU1Cs11cA8mP0viP0Z_q-yTvCAVJ5G
 }
 
 AWSEntityColoring(KinesisFirehose)
-!define KinesisFirehose(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, KinesisFirehose, KinesisFirehose)
-!define KinesisFirehose(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, KinesisFirehose, KinesisFirehose)
-!define KinesisFirehoseParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, KinesisFirehose, KinesisFirehose)
-!define KinesisFirehoseParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, KinesisFirehose, KinesisFirehose)
+!define KinesisFirehose(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, KinesisFirehose, KinesisFirehose)
+!define KinesisFirehose(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, KinesisFirehose, KinesisFirehose)
+!define KinesisFirehoseParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, KinesisFirehose, KinesisFirehose)
+!define KinesisFirehoseParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, KinesisFirehose, KinesisFirehose)

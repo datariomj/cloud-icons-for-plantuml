@@ -6,7 +6,7 @@ __xlx-H__qt_3z8TAqa1X7HD__VTzNkcL8qKQr0ThkoJA2JhUxRBX_RXXP1unVatTGnhs1D--t8
 }
 
 AWSEntityColoring(BraketChandelier)
-!define BraketChandelier(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, BraketChandelier, BraketChandelier)
-!define BraketChandelier(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, BraketChandelier, BraketChandelier)
-!define BraketChandelierParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, BraketChandelier, BraketChandelier)
-!define BraketChandelierParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, BraketChandelier, BraketChandelier)
+!define BraketChandelier(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, BraketChandelier, BraketChandelier)
+!define BraketChandelier(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, BraketChandelier, BraketChandelier)
+!define BraketChandelierParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, BraketChandelier, BraketChandelier)
+!define BraketChandelierParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, BraketChandelier, BraketChandelier)

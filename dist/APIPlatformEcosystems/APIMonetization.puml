@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $APIMonetization [64x64/16z] {
+xPC53aGX34I_qJRA_K-xDcd2h6BhlEXG7avyCOFrI8CE6dJmv_uxpX_0_YPuoNAWuSG4r5wP5Fih-yxN-B7DRp__2Ds1_l6iQP18AVF8QCV28V_6-CcgXnn_
+EeQDV76odvoypqVgvkU_t-Ns_Mq8duUPDNHKEv7qCJ8qhL2HcYr9xcnS0JTqytHBCIV3Hx9gV_Z37_wMutkxFlg_wk6wJqaeKK0YX1fXErHIqzY9mHu
+}
+
+AWSEntityColoring(APIMonetization)
+!define APIMonetization(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, APIMonetization, APIMonetization)
+!define APIMonetization(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, APIMonetization, APIMonetization)
+!define APIMonetizationParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, APIMonetization, APIMonetization)
+!define APIMonetizationParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, APIMonetization, APIMonetization)

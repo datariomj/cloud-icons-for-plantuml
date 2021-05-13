@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $IoTAnalytics [64x64/16z] {
-xPLPplKg30JBDZQm_mrVHL7hYz1DoFcVKsSUYeREDF-VZu-FTApzknvO63x5g1e_w4KSSq0pQ03jb_XvO2RTg_pr018rp3WNuemtRcy6ZCimHUbbIpbOD7mS
-yT1-yeT36sTX1b4EDGTnhcRimg7fdRlNySQ8QKHLRFjBJ0d6504Om5vtwKNEAGnxi_zqxABCIxuJSyj0zIXUUfj1RVr6NtOVwVfY4-zJ97dHDQ5dWZLUkWfv
-PebVz9aOda_bvn8lNM_D3NzeR_p5bvnOpmTvvxjDWLtrzNnmW_arNlewV73d4zVuLH_6KCg3h_XLRu2FupMtFhxg2TuRECJShRzHqcLZTVo0HTt8ovbIkkod
-waJITH3zwMcoRwiJdQPuwILRlpzYTiOVkknSziydakg57_ff8rkzRE30Wv2z7jtF59OL4BFxQizElBlYDT9HLSlk-yWufG6qCHUCFhT-dYyk-vgUSmkcesUX
-eEQUn7jlQ9SHtR4-tz00F0rh4aOwgcFFg3p4DC0ZmWq8sJ_GCyp0lDtD_EFZupy
+xPJNhkKW34Mt2zt-_y-TWZX14SEGSv-pNbANjcdsV_Foyf8P7Et7keAKmUO3AyM-IKSmzuGux0W0NvIZwFyoUoT2IX74fxeDKT4l3Vht8dXKG0qCz5-Dg1i5
+PLxEymuE4M9k0Q1exlcntmGKMnyn6D3CeFofNz5EuTSa5x18_dj32CRGKlGuVmdqIM2oSMSA0ZzPlmonwpRv1OEivN8gleBDbtXt1IFu4QDU_1Al2AuFLYwC
+Vwvrd_fyiQT1V8tlUdyJZ_5rYH_wd90zXXcVaAT-bSJ4oRP-GLhZXpxxWTY-_7QFl-i5QkvnFmj2CvwdllQ33Spt-Blkinzi89tngsvyoh_-ZYXJdzrlz8Dq
+oZVmfKzRIWIOeBw3vOg_wPO8NFe2aMRVefZnGv_sN84j4NN4TttQdqoIm-6FFLwcdWcKRz__1z4uH4FF34gsxCyj2RbcoD3BpHw57GxWNxJhqrwQovOCJbc1
+u8MNLbkXVe38UawInVP6QCVs5Vi5g-t6Q_MhdqONN98Q8_aHwiq_hac5aFrCWfGQ0Rh_N0LK_GaH03WHA7w4TflC4osducw90OYgCW4KcdzDJKe4OecxQNzv
+UVaD
 }
 
 AWSEntityColoring(IoTAnalytics)
-!define IoTAnalytics(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTAnalytics, IoTAnalytics)
-!define IoTAnalytics(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTAnalytics, IoTAnalytics)
-!define IoTAnalyticsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTAnalytics, IoTAnalytics)
-!define IoTAnalyticsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTAnalytics, IoTAnalytics)
+!define IoTAnalytics(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTAnalytics, IoTAnalytics)
+!define IoTAnalytics(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTAnalytics, IoTAnalytics)
+!define IoTAnalyticsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTAnalytics, IoTAnalytics)
+!define IoTAnalyticsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTAnalytics, IoTAnalytics)

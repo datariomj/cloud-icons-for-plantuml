@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $AIPlatform [64x64/16z] {
+xTOrUaKn34JXnf-aRlQ_sZ2OPgJaCPp-lsZ2qBDdrWT4tncyAHydzwPzv5nxBtYyDtgybp-0vTvJ3-Br0_Hc__xTjPG7zoZ-mxqFr7Bc7QNu_zTi2bqnzLTl
+mYjUVm3Rryi-Fz37dkEplHzVHNdiF8JlkF3q0ctvzAjVVa8J_sxhOqhvDUMRJLLuKtyVIov7W9608E4mxo1fVzdzrtFdUltArn-0xn_CzyA4bnpr_uTzLG-I
+rxo3LVFWLUOV2juuTwXoVzhp4p9_uVFdLPs_dprx1G
+}
+
+AWSEntityColoring(AIPlatform)
+!define AIPlatform(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AIPlatform, AIPlatform)
+!define AIPlatform(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AIPlatform, AIPlatform)
+!define AIPlatformParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AIPlatform, AIPlatform)
+!define AIPlatformParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AIPlatform, AIPlatform)

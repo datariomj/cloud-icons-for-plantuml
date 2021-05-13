@@ -8,7 +8,7 @@ ReHhLpjfhDi6KxlVyXLLHY6y7K4snoaaTegfJhxeHwfS4rO6lf1L12Qb69r6Hqp1N_IsZRQ5iY2NSha1
 }
 
 AWSEntityColoring(IoTLoRaWANProtocol)
-!define IoTLoRaWANProtocol(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTLoRaWANProtocol, IoTLoRaWANProtocol)
-!define IoTLoRaWANProtocol(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTLoRaWANProtocol, IoTLoRaWANProtocol)
-!define IoTLoRaWANProtocolParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTLoRaWANProtocol, IoTLoRaWANProtocol)
-!define IoTLoRaWANProtocolParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTLoRaWANProtocol, IoTLoRaWANProtocol)
+!define IoTLoRaWANProtocol(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTLoRaWANProtocol, IoTLoRaWANProtocol)
+!define IoTLoRaWANProtocol(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTLoRaWANProtocol, IoTLoRaWANProtocol)
+!define IoTLoRaWANProtocolParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTLoRaWANProtocol, IoTLoRaWANProtocol)
+!define IoTLoRaWANProtocolParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTLoRaWANProtocol, IoTLoRaWANProtocol)

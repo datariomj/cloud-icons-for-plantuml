@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Config [64x64/16z] {
-xTI7hkD028NX0mmCdFT_u4LEKopvnfFjk_bKN7zt3_y87nyvxBMHF39mnlYYvskl-eo8oVOqMz5EzOh6ZQ7LuzRoJ2-QTkzptFjqp7CzxxtGxtt5R-o7m1GM
-R_Q92tdTJv6fcFlUsVHr7xZmNQ_Uv4plqJ2U-iA5dkXdjbtFsjv_y4H_CTvyV-KG5tZ-_k-d1110_Cr-GhJ1s49hQhAfd-udM_Txw-TlRYtO5ky_k05486pB
-ppzbbCD8HPH9BVJJgtCq2JA09dM-RvrFqydDr16GMkaxvvE0hlG3nfO-HXIROQpq1TssRRoIYbhf7PCqM99J8SX0VDMZFNe7XCpRFMnB0EAm3pDpRdni9mvo
-Mh9rZa66OHprUmO-LCuejjL-ci_YtM6VpuhTQv068Db2adGzwdU4T86Gjz-eHCYwBUrLxB45Pa4woNJ190F11GLbLGYQT4u1LznUrep8-ue5WZZuVyufGPZ6
-PJx40b9SKGAq81rjCM-be-8sVWqjlWDemhU5jU2VvUFZ6m
+xTA7hjim38NX8sgG4ddU_tLBE443k7TOwMxp9Tx-lVb7U7bPlNskBxwduuh-GS_FVTOlCriyUCvE7iBIfLu051uQKf1f8ArBlNZ3lI_UuVVUzM9V-UWvllPX
+lx4VWbPHxSdUSIEVzwl8h5XnwfMfVjuRRiQfhoELptl5C3CzzO6RUg6VxhvEFQF35HON-flnvFkBKSeG3F_ztuyBK82YJ_OJKXCQazQOzUYhNkudKsayspz_
+qfQKwOdxJpbNK9YsdxzB3qKZApIQ-4O_Hz0BKZ5IZpdnwttAVBOwUPZI3U8xlU1e7mooqtSq9jVUrPaQnauVg3dgE6Wu1R7JAsREeYroLWYMmJxgaHwz0ZbU
+w4nB2me3WBxRs-CpqumQccNOd4a13D8Q-dlzMIjyY3Kjc7RxsSOCFhpN-qdsg4PM0CvaugJMz_gJGcf1ZdDaJ5uA6JYMlkLsTdz_3e7OMbemIODnGw0omWgI
+P4v1SCFzPSLKMuyLrydvSWsL6rnWJIoOmgGP9BZ31KX6Aj9cdhoEC3IomgBNu3E0LFWqRSduPtbv-G8
 }
 
 AWSEntityColoring(Config)
-!define Config(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, Config, Config)
-!define Config(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, Config, Config)
-!define ConfigParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, Config, Config)
-!define ConfigParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, Config, Config)
+!define Config(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Config, Config)
+!define Config(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Config, Config)
+!define ConfigParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Config, Config)
+!define ConfigParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Config, Config)

@@ -9,7 +9,7 @@ tkyAL9vwRSK_P038t3zG_yA2oFtBcdyAjGRgdrRyszXb-gt-yKR_Uhj_ljs_SsYxeNyOzo_2-nUEZ5_K
 }
 
 AWSEntityColoring(CloudFrontDownloadDistribution)
-!define CloudFrontDownloadDistribution(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, CloudFrontDownloadDistribution, CloudFrontDownloadDistribution)
-!define CloudFrontDownloadDistribution(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, CloudFrontDownloadDistribution, CloudFrontDownloadDistribution)
-!define CloudFrontDownloadDistributionParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, CloudFrontDownloadDistribution, CloudFrontDownloadDistribution)
-!define CloudFrontDownloadDistributionParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, CloudFrontDownloadDistribution, CloudFrontDownloadDistribution)
+!define CloudFrontDownloadDistribution(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CloudFrontDownloadDistribution, CloudFrontDownloadDistribution)
+!define CloudFrontDownloadDistribution(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CloudFrontDownloadDistribution, CloudFrontDownloadDistribution)
+!define CloudFrontDownloadDistributionParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CloudFrontDownloadDistribution, CloudFrontDownloadDistribution)
+!define CloudFrontDownloadDistributionParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CloudFrontDownloadDistribution, CloudFrontDownloadDistribution)

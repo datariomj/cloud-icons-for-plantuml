@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $videointelligenceapi [64x64/16z] {
+xTOr0WCn34JHeEpkt_-sgUs9GkEmVhNqbeb_hweYDA39f1Vw00mlAn3VFDzxulCL3Fe6tu3plYT-6izyJ_nXdZ2E3rgyR2_nFV72fK4lzZdFlUJwMEI1ktnC
+7G371t1mV93q9Hx0EFu6cDV_Q7ZZ_d_zy_VwzuVt_hlYhVTle5mzwgNhtm__-sTzVrtF5M__V-1xcRIqggfE
+}
+
+AWSEntityColoring(videointelligenceapi)
+!define videointelligenceapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, videointelligenceapi, videointelligenceapi)
+!define videointelligenceapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, videointelligenceapi, videointelligenceapi)
+!define videointelligenceapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, videointelligenceapi, videointelligenceapi)
+!define videointelligenceapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, videointelligenceapi, videointelligenceapi)

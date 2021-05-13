@@ -1,16 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $EKSDistro [64x64/16z] {
-xPM7pkGW38J7RUptV-8JiVWBocrWTQUwipNb6q_0Wle_-kWZiZ_lAHLI9T1yYtQWUS3F7K8WbC4B1HB7qU63xOy3ccVHBUkRhpJ0yoHwrJS_jFqGLA1ldFoq
-1PIFqQsZh_nwRTLQO-NNRAjkdp6RpxknkI_k-VlOglptsVI_Hd1mwTwuIqNuCzyji8pABjyrkSxADZ-xZVmryhxB6pJxjx-jHnwnpV_uzJPhxfmFIDRxV02D
-9nt6FEI9UKun98TyzzeeAn8HWj4P9xpazKD2hn11u80tQ1aK0Eow0u12SvSlXK2JOdqfNM8ORlCfDzKKiSjNGbQU0BVvYawR9YAMi_m-JrZN51LSf3_oS-M8
-SfDnDfliRan0D5_mwPWEm1NVBdo6SHN42xuTbEF-c0jnIz0-3tol8Sfv7xHQXdp1nxgLo5fVNzGFm79rKEDLbirTGSBkfv2wEb1m4TajmpaPtLJt3fvBisPd
-4zCvY_5gyruS77uv6m1bE_9f-u_lezl-ptjqRP_xPkzkUd9Gpc9HrEYA6SfUqH-KDXqeC03m7aN07l1bpwC0O7olVtluR8VXCiABa5HKCHhVTL0kw_-Ho6fb
-36NzMttqqHy
+xPQ9pkCW38J71W8s-FrVT-KGrF2l-4kgNPsTtiTdPZXZ_qTVVQNQ7v-fHh0P8zPFw9Q1pWEvFSQ5mShEip9O7bkducn_57eKeXr0QlRYhINWs0rH247DNhnB
+0wXiMUz_dFbHzbs8ONJcvrWBpMtC_EnjASyeTpFaFDrDY_VD0XUtFfivp8xvMmyX2_FJ3tMOKPvT2SgAlpdBjsRdNj4DNXciywYajirxnkmHPExvNVwux2Rq
+J-dg-RB99znUCqBht4Ty0JVxd1TSqwTfHfBsa5UCxo9SuI5F42UQ6N4fXU7xsWF-37-0gb8uJKWbFE0Jeeyc01nzKW8HSPktY83GXDBLYvd54k8stxWF_wI8
+iijRzG6SLGbrcpT1w6k2YNkA2B5zNf7ycK21SP8PvTtwuRvp5CkHtMmZSaRe_01GQB_mBTEe053qYjtoPIO7HbdoOmS8-jghcAmhz3UovESAutyqHZoXhVcv
+Nsi2Xa_cqJxMxGkGwiyA8RcfX97VZPGO1Z-fnf-dR0quYGfInzaZDW3SbYTGdd-AgDrRIA4llOBowtK7bNk50tbuGzHUKT-SeLnUd_wsgg2wOEVfivhiQHLW
+7lonsCGqNf5QYMh7jAJN5MAz2Xm0a7iqKDh0hy5FzHmIa1Rq_Qyejl3HvSchk7bY4Gamg_vfKnf62WjmyITNq5VFkPhzMttrrHy
 }
 
 AWSEntityColoring(EKSDistro)
-!define EKSDistro(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, EKSDistro, EKSDistro)
-!define EKSDistro(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, EKSDistro, EKSDistro)
-!define EKSDistroParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, EKSDistro, EKSDistro)
-!define EKSDistroParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, EKSDistro, EKSDistro)
+!define EKSDistro(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, EKSDistro, EKSDistro)
+!define EKSDistro(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, EKSDistro, EKSDistro)
+!define EKSDistroParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, EKSDistro, EKSDistro)
+!define EKSDistroParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, EKSDistro, EKSDistro)

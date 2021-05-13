@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $IoTSiteWise [64x64/16z] {
-xPG5blCm30P7PCdtF_0FVfldfKBAa2bN-SHn_uMDZOsDSW7nEb7UGCm4sadoGFB_PmfnIlBeybKveGIReiBMwpzhZ1FIZy-jg5lhEpw_EtqrAlExwFhw1P_X
-PMt-AGYnL2z8hfD3TaKYCmGTlrTj_eWN0Y0nyg4T5zazPxqfahCV_sq7vCv_Phj5va3uZn-eMwkK_A7_OTiLldel_AT-sgweBnqvxj8FczPEjOCoqFgkhyK2
-kmv4XHZpAu5b2vVD0wanlmQwe_a6sfQFqN5n5uQ3fc2vVEok0EO5okYOJlVCx7VGT5w0VJsyAZJw2aJdGN0AHlGUs6dgCZwmEa6UO1cgaGPvGdX5skYeeASa
-C8IPmys9-BpZJ-sXLNzHDZOs_W8
+xPG7hkKW3037DXtd_jTTXKZy-WferRuohoIKeLe-Vk7cvkQc9mLDVLCle24eb2qze-ryDYNlB1xrO-3AnXR2XzG9oxf_TWA-llpqKKZqTJz_5FAwxyIFGiIF
+LLIcuwBBUbVIn_PrTVrDKF8C9AGjwHMg6vfhpOhvMLwA_35V5W39rthAUmjFgStzUXDfFi_ZR7kX9qvi7htEatVZ93sV7UlTQCU7_w3jqVHzXkw7_w3j__lT
+nXeV-QFD-YFR8nY0O6tw7qCBZ0xHV_SDohY_BiYegGfw1OuWVTnV0Njm-06q-7WCgI4f2MqCPH2gb_FH7YTiWOyETfsOVGmFyZoTUx6F3eGhUSt6P7ab4SYO
+sUJO99AF8nFtx1u04I3q3Rr2QDaijm1rOtf3oaW6WkqiO8YjZM7sy0IG_DYcnzYFFyhDpSq_
 }
 
 AWSEntityColoring(IoTSiteWise)
-!define IoTSiteWise(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTSiteWise, IoTSiteWise)
-!define IoTSiteWise(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTSiteWise, IoTSiteWise)
-!define IoTSiteWiseParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTSiteWise, IoTSiteWise)
-!define IoTSiteWiseParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTSiteWise, IoTSiteWise)
+!define IoTSiteWise(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTSiteWise, IoTSiteWise)
+!define IoTSiteWise(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTSiteWise, IoTSiteWise)
+!define IoTSiteWiseParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTSiteWise, IoTSiteWise)
+!define IoTSiteWiseParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTSiteWise, IoTSiteWise)

@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Artifact [64x64/16z] {
-xPQ9ZlCm28J7W27m_k_x7xRgM89clIkjpduwQ-MRC7Mk-2K-V73JVvZ_o5N6WlMR6SO0MDJ-eJ9-M1npqJf-owChpX2WU-hJ0JagJk2ohJF8lvwzGUCDYdPz
-fGCsZjnPWnlm7E1j7Y3W3O1NV7kiGB2OVcpW3Z3Gup-lKVd2Aq0X3-KvQZ_k0CRrVdf_vzy1_hQ1eSVj6m_-Bw4nyzg53eiIXc--Oa0HqJ1v3S2HMElBJmZs
-ysGwxCmtz7hyYDH_iMUc0cirzL_iFgEit-Di_kZmI1Zqr5TOvLlkRwLlbQ-uSdyj_GjQ-NOwlq5F-v_FVw7N-s-xlwec75BlloQ_LtwqTZe_8me4VkWtYWA3
-dlcE7XMW8py_GFAwm1AC-uygST3jLwJRFmsWhoWjiEqfMzFWyS312u3oFIM83M_juHmT_8LFi7X0m8--fEbpWCV0YDhqYTYB-1fvVIGeC3oZXjdPEUiPUtt-
-T93FXPbe3NBw-TLNmDJdgiOPrW2s6J1qxmI8np7Am0Xeu-oC9bTy2rSV5SRmPl53pEFN-F3XBm
+xTI9ZhCm30JWIPpBYUVz7_S_mWfOOKgsqkhirpimLcnK-4i-FaPl__JnLhOcx5BzOGqL05AQ_jFA_A5SrWL8oXDDW7GkiGmKkwmM81kVZOWqt0C9SV193wYy
+KH7wKnpeyynlylUZzqROJiX89q3Q2uJ1UnQtE3DuWdE1QBoLKUdbSzeBLEGNpIVwUHu5qlq81ECkVnGO4FeKXKTUqrH88iuXPau5IfV0Jlc6APACs70o23q3
+cNJsVrdB67HKw5fUKUb8C5xwtvtoXaH74FBI_-wKfmIt_SAr_RDu0r2qrNo3yd1TFFfNDwzeNhvV-szklljvNTd_aN-_V_NwxwXqhxywy-kyC6J_-hTBlcBm
+AiRL_ISOlUDZCH-43aLRomyKEYp4jNo5qbEEzGoz470J0rq6EVAUupRdA_i4HdFquoxhiuZ19ms5Tph4Bl-fZEzJ3iPR5UaXBr2-a95UvZCA-L30li8YSSkB
+Y74gI7oG4VgM1-B_d4h0rhC9n1O6Z6BRCEByL8GnFmCA5mn1gFPLO8ztGMXSen58QhF0Z8yQWMnSrWJGkOF_SIQ4FFWZrcOBCqvLlaa7Vyt7nry
 }
 
 AWSEntityColoring(Artifact)
-!define Artifact(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, Artifact, Artifact)
-!define Artifact(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, Artifact, Artifact)
-!define ArtifactParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, Artifact, Artifact)
-!define ArtifactParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, Artifact, Artifact)
+!define Artifact(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Artifact, Artifact)
+!define Artifact(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Artifact, Artifact)
+!define ArtifactParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Artifact, Artifact)
+!define ArtifactParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Artifact, Artifact)

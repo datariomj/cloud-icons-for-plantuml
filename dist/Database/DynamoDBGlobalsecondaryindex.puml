@@ -6,7 +6,7 @@ gmf4mtfvztk6_krZOD3dPc7jhBRVM619Lyp4NcWLH8cA4LiFPzcljmnwbvc5jHFV-t_tU_3z7inPzXlS
 }
 
 AWSEntityColoring(DynamoDBGlobalsecondaryindex)
-!define DynamoDBGlobalsecondaryindex(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, DynamoDBGlobalsecondaryindex, DynamoDBGlobalsecondaryindex)
-!define DynamoDBGlobalsecondaryindex(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, DynamoDBGlobalsecondaryindex, DynamoDBGlobalsecondaryindex)
-!define DynamoDBGlobalsecondaryindexParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, DynamoDBGlobalsecondaryindex, DynamoDBGlobalsecondaryindex)
-!define DynamoDBGlobalsecondaryindexParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, DynamoDBGlobalsecondaryindex, DynamoDBGlobalsecondaryindex)
+!define DynamoDBGlobalsecondaryindex(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DynamoDBGlobalsecondaryindex, DynamoDBGlobalsecondaryindex)
+!define DynamoDBGlobalsecondaryindex(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DynamoDBGlobalsecondaryindex, DynamoDBGlobalsecondaryindex)
+!define DynamoDBGlobalsecondaryindexParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DynamoDBGlobalsecondaryindex, DynamoDBGlobalsecondaryindex)
+!define DynamoDBGlobalsecondaryindexParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DynamoDBGlobalsecondaryindex, DynamoDBGlobalsecondaryindex)

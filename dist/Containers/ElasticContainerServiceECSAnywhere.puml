@@ -10,7 +10,7 @@ DIbTsD1FBXFi3y5Edv9cxCwOOoblUWTBXeVhU56cbu41e-TggLv4xtxLt95gsNePKfLyktcY4RspIT7_
 }
 
 AWSEntityColoring(ElasticContainerServiceECSAnywhere)
-!define ElasticContainerServiceECSAnywhere(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ElasticContainerServiceECSAnywhere, ElasticContainerServiceECSAnywhere)
-!define ElasticContainerServiceECSAnywhere(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ElasticContainerServiceECSAnywhere, ElasticContainerServiceECSAnywhere)
-!define ElasticContainerServiceECSAnywhereParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ElasticContainerServiceECSAnywhere, ElasticContainerServiceECSAnywhere)
-!define ElasticContainerServiceECSAnywhereParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ElasticContainerServiceECSAnywhere, ElasticContainerServiceECSAnywhere)
+!define ElasticContainerServiceECSAnywhere(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElasticContainerServiceECSAnywhere, ElasticContainerServiceECSAnywhere)
+!define ElasticContainerServiceECSAnywhere(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElasticContainerServiceECSAnywhere, ElasticContainerServiceECSAnywhere)
+!define ElasticContainerServiceECSAnywhereParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElasticContainerServiceECSAnywhere, ElasticContainerServiceECSAnywhere)
+!define ElasticContainerServiceECSAnywhereParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElasticContainerServiceECSAnywhere, ElasticContainerServiceECSAnywhere)

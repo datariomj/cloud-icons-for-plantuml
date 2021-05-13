@@ -1,16 +1,17 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ServiceCatalog [64x64/16z] {
-xPK7aYix24KF80an-z_l3qhJNK-MGzMhw3jvp17q5PYVlwIllWel_ydZ8xOOKsBbpJDg0ZGLToyvAP3YZTm9RYcZw1idk63rZueKgI_X6V6VZGgK5_24nWDJ
-XFoSBtR1YyWbPoZbV6MMhxbT4K7zUa0oA_6eFBYOL0roHERYPcN4RDIAA-ZoWHJpDjC-vgfAxkxNcMaQ4GPr4tDNmTip3uiSaD8z17mJSvTJLaZ_imZghaWf
--2Rcha3Yl-yYiK8Z0-HOGCYAsHM06VWgPm6BlyHib06jzyTHlHTS5NI7BrjF_5d6RTpK9--ANe_sFQzoUmDeVQVQ-j2kuu_jUT7v80qDWoIImA8tyufxmDkS
-0_5brhBKPVQzwZ6_GLacmhAkW1tpgmnUUivgD5djjSZWiQF_Hf_PDe2gRVpwB7SmICVxD_h8jI9KXmqM8_5-UkOBgun2_lKgzrUmbMQdm1Q_xJzisRIL4S_v
-Idh4UwivOJ7uQ1uEFgoHYSThf8zty_f_le0gxHUFt3qCzB2vI7DN9KmGxtrd91bzQCTHj55S4O2ynW6aZ0nstDkCjwR8ak9t72N7U9quxrxq4122_voL3mU4
-KbvPt_5BkCTf_vxtV2I0j0vUnP_bS-Scp5rxKkyN-9fokwyw-fs8BEisNr9aiTdr1O5-WUyeBdpodmyKg_vFwAj_7oeIy36--kUlwQkl_WK
+xLK9SYCX36m9mGYa_F-xk-D1XkmIV5IbJdTEKsfQDr-_X0y-yAP_qVmjhWgXWqHVlCCoW5Iqrgf7JW2olQ2TWM-IhWaep_fG2TB-FMm9r9wY7w2wEbT0dw0N
+99iydvmsnl64l4mK9PeqFMqly4Fac9FK64JWDYmO9Mm2itiWaDq_2r3S2o3timOGmBRY9-YP98uy0DcZcgKVycMJLl8e5ws5KYJ21N4ODhOgJxrCj9iIIAyS
+WZfVhxzrKSWuL8IKAe5ROv1EXo7r7vpEr1cHtqsz043nk7IsMJa04VIhkvJT2C6VR5Ou0AHk6AuoHr0n1jrcWKZhXh-5q5JD16x1R_nj9cfRynD_Mm20sCat
+0IIQwGJ9ciyfve1EFSj0OIv0jjCVEdpOhK0ffePh96kaj79C4lDMNm0TcsWi4mKaT7Rn2-ZIDC4DOdr_TJvapHVqFru0QHd8pkpdtoP0yOleoDlw2xfqiYjM
+Izq9I0pA4Wt7S4DHHgxAHO64p1BTFy6w_uAVwCS6X3_c6_9F_7hpEKEiyxq0nJlVvCRCuVu2J1vxy-GVX7JhEqMBFMf8cvSBETwgZCpWUlLTHgRUXx8TnHIB
+Ze1JECO18BqhR63egyaBPH_ZIENy4AjhWugqCN1-k4WE9D_GzOdtTtgUhDRf0yNpkOM2TAmXeCHM6NjtZyQzLXbIQq8Pw-CvU05OlwptEzmEHlZ-5AoGn3Eb
+eEY55-0s-9phrniO_h_3dlFt9g9-RoBwvzVmmGT_
 }
 
 AWSEntityColoring(ServiceCatalog)
-!define ServiceCatalog(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, ServiceCatalog, ServiceCatalog)
-!define ServiceCatalog(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, ServiceCatalog, ServiceCatalog)
-!define ServiceCatalogParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, ServiceCatalog, ServiceCatalog)
-!define ServiceCatalogParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, ServiceCatalog, ServiceCatalog)
+!define ServiceCatalog(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ServiceCatalog, ServiceCatalog)
+!define ServiceCatalog(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ServiceCatalog, ServiceCatalog)
+!define ServiceCatalogParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ServiceCatalog, ServiceCatalog)
+!define ServiceCatalogParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ServiceCatalog, ServiceCatalog)

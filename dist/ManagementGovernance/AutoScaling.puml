@@ -1,13 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $AutoScaling [64x64/16z] {
-xPO7LaGX34LV2YNP_uBb-8DWHx3hdJuvzrTI_EFuvvzQptIWdkcWkgqReK6sgpCoSmRRdYz8pkm9igKhr9iVNpPENlpoNROkWLdtsxSjmW--n5VrduofsecD
-XjfRZ2dRCi2rCf2N_JgohH2eZ2yT4N-9Z8WBaAS3aQw_bamI6e3aGGAmgBiHwgtFy_4pXhvs2Q3pzLEygXSE0BtySVykNm4EoehVCA9cB_Z1E4Zeb7yhnp_h
-ZVWOVWGNTIU8tVd6Y_Tln4r09Voql7vaYXQ2MFFp4-jtFVs8GTatAGGWsM7z-Cb4_Vvn_UUyVnfnzvdiS7xuWlcbqUUdhvdV6fK0gbymlwxCp-VyyyyD
+xPQ5TiKW44Hd5vO8E___kS-9L58ErDjxv4bo1nT-7F_yCyzzEj0Ja0MGp5PS8GBrLZrWL1qH6WCY1gfoG6GB2SQhJqDgQdpWtMTewWBtuhkpYU9tqEkRyIUJ
+pJARyGG0oLblsBn-7mHXdWDas2OSfkLrjKqAdTOlXHWF0yQoM4gnfI95X_4GmyWhsFkerEcA-URhjlwAEdtj0jYs_mnlwbDu8B2Rlns_cv-0y60wy87qyCai
+aiagd_iUXgthx-7J4Bbog1FncLy2QdGgehFu7i0IKAVJ3JBTVHy4aJK17ctJeOBegXnbEtyj-b70VZ51H1Goxb-fPvAoVXjniyoVZ1aBF-3ywJy_-y_l_lj3
+8I9T_OJOUt_glBzrtXzxxwyzvCoFuvz_pW
 }
 
 AWSEntityColoring(AutoScaling)
-!define AutoScaling(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, AutoScaling, AutoScaling)
-!define AutoScaling(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, AutoScaling, AutoScaling)
-!define AutoScalingParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, AutoScaling, AutoScaling)
-!define AutoScalingParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, AutoScaling, AutoScaling)
+!define AutoScaling(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AutoScaling, AutoScaling)
+!define AutoScaling(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AutoScaling, AutoScaling)
+!define AutoScalingParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AutoScaling, AutoScaling)
+!define AutoScalingParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AutoScaling, AutoScaling)

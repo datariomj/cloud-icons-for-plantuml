@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $FSxforLustre [64x64/16z] {
-xT17ZaCn30DGgeltl_30KP3Uj-EtiWdm5_AVsxPjsz96aYw0UF4h9dvGLCcgTF-oRnmX73_sJmSsvgZoJT_rb0Lo1UXl-eKuXOe-tT_sUo6PaE1eECMEvwf-
-rST1p8Imvb9jqiS8W9Frvlj7AUBYRreWdkb5ZRVz4UXLf0ZPG4wgoW_xF8oWKGWgwbWNfd_HTpIZ4y6b1KL5VzHFD0ivqquYo1daPJyygyiHf4m6dK5Wfzkz
-28vs0Q19XZQNsTmnAvZp9wStRDksRTiV
+xT57OeD044JHcjofxdzTcmQjd11RprEauHFvpstRjctIJygO5QLEurj6dScYLZ7JCT_i1qzIWkbXFpelXfn5hV6evuAId72-qHk4Bwq43OitZEw780LLWidB
+ZDAl_shnMuya96CL3ET1OvIuHfycGty__uisoFadVxsWJf5XqUQD_h3ohaNUV2_Ntg9rtknPZgI9OR72phoMq7c_pqUtN32l7CO6lzKh_FKeEo8dzLWqhD_x
+DTJS1YPVZwwqd0Ev2Jg_inPFFYk0fkHgmKFBLHFGF9l1Hs8AqxPjsxPz
 }
 
 AWSEntityColoring(FSxforLustre)
-!define FSxforLustre(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, FSxforLustre, FSxforLustre)
-!define FSxforLustre(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, FSxforLustre, FSxforLustre)
-!define FSxforLustreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, FSxforLustre, FSxforLustre)
-!define FSxforLustreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, FSxforLustre, FSxforLustre)
+!define FSxforLustre(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, FSxforLustre, FSxforLustre)
+!define FSxforLustre(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, FSxforLustre, FSxforLustre)
+!define FSxforLustreParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, FSxforLustre, FSxforLustre)
+!define FSxforLustreParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, FSxforLustre, FSxforLustre)

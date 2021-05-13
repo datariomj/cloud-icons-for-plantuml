@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $websecurityscanner [64x64/16z] {
+xTGt5iCm38FXHG6ryVwdJU-m34HysVHFBlpSz9ByQwiLBbKzKFN0-svCU7pjJ3m1tlhj7RYsEQQliBCcC2wmCodUYxpWbED3-1jhByzdzGM0aJVNqRjzzDvZ
+u3NlZsYCUUF3_HNxyNiHfmliSZ2_vFjMz61-oVQ7ea_Xi-XnIVn7Qa-z-CJtf-Dr7_qz2AyUG7C-GzppV0Kn9KxvCn0NK2FDzFBgqmCeNZyWVXtUzy50QvzR
+KmxdOOzpWLVVFj89uz9BUPtaEk7z1DS9FjzgTG8
+}
+
+AWSEntityColoring(websecurityscanner)
+!define websecurityscanner(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, websecurityscanner, websecurityscanner)
+!define websecurityscanner(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, websecurityscanner, websecurityscanner)
+!define websecurityscannerParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, websecurityscanner, websecurityscanner)
+!define websecurityscannerParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, websecurityscanner, websecurityscanner)

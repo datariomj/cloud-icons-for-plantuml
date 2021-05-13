@@ -1,13 +1,13 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $QuickSight [64x64/16z] {
-xTP55cD134DHsGNVrlxtszmE9pfXUlDRC1F_zEtRDuUKyq2m9cGuw3k5OgfUJ_UBm-Dyly0Qa6VxXcHWdEtTo4G_stVqfM5HVIvBRdx_TuEY3mCirhbbpA3g
-3NF2DZZ_fFd480ToatVelfCTkS6f-mQuesrotJVq3lJYGT4N9ztvfoWk-EBb0mYgldZvueelNhwuuekNBwxuukMBotx5msmfhleLdm2Agtx52SiqKFLj_k63
-_meCSY04Npa6ApZfeEYpUzlW7333KBt1WCxrPckJef-O33Hkf_gE9CtFzXCZ9_hPdWx0ydpFsISfUZtT-xZCep_Adx-Vpjzltxvz-ma
+xTR5iIGm54DHcUaf_tIdFEJVh6gckp-6dSZPjs_VFAJy8GyVXJmE-aIXNbMlf_lc4Vhvli55O9pj8umTvMmV76d8P_k4r2AQwgqrs_p-B5FqtG6k_-Hkz3ge
+UkTgTMw3SoRwWKncZ4sUe7f38XDiWrFt4GW1SPFhFY8b81bdVNBDBqvwpmqkUvjy-iLLl_ZqVtcdx1UVVd7HB_xNTuTEqM_owHUN_2RlphN5DMy1cN-gc7NA
+VfERysDuPwgFTODpe905G_NSv3G4im0JlUKG9rzbE8TCpPk30n9_LcEi57r1PKVaTghFCDA7itr5jefyjcS0uEnypvgBKVHwkW_bCe_qA7_-VZf_lttxzkqN
 }
 
 AWSEntityColoring(QuickSight)
-!define QuickSight(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, QuickSight, QuickSight)
-!define QuickSight(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, QuickSight, QuickSight)
-!define QuickSightParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, QuickSight, QuickSight)
-!define QuickSightParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, QuickSight, QuickSight)
+!define QuickSight(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, QuickSight, QuickSight)
+!define QuickSight(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, QuickSight, QuickSight)
+!define QuickSightParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, QuickSight, QuickSight)
+!define QuickSightParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, QuickSight, QuickSight)

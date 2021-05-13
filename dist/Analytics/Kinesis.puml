@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Kinesis [64x64/16z] {
-xLO5OiCm33onrVy_U05bJB76wvMRo3umNJuOLrpXerSF-TvwubwzOBhKR7bJv7JNjBm5RBPUD-f4imGCOtdtwGG6T9CnhO0txv8XURRhs0bmPKX-Ldfk7wNT
-0V8p709U4T0sVz88a1DD4ENHizOt0K1YCTv7WFUo542Y_bJ62c9HC_TOy59p3ggg8G3fmNs42HFke2yn872raCvFk6UE25_mefmqW2mlJxblr4Vc6tRkhfD6
-7h_3L8hxM_mBGukwZxlUTkgsGkNDaPLUr75GNuYVHORhGzz16zYwzLt-NV-w-NN7JtlyzkTFV_xsru_--jLVF_lhTt__wEzV_Vsplt_tpm_zyqjbrps__Vpp
-P__ytCSLLzm
+xLQ5TiCm33oBBCVk___kdf8oDnflLuPJpkBDE-CV__0fnuTyBRzmZizbDTKidj3NyYKktL3NyXKZ7536Idv5nDvNHs22nel0rlf-zjrWo7YHsTiYW88u1CLV
+31t6yiBpgnUGlwAXmRTsQ8hNKGiWtf_bZrtK7D2PDLm05B7MdnD0Yu4kWBJ5Q3D6eB2ecNiBt33dA6qRHW6AxhJtPiA40_IMWWBUMXZE04ZguMAZzwbvOBhf
+0mEe1kD2UqYVUd_aYLu986rZzxbLPIeuWTxFOQF5xJuTuhz8ju2AFuobAvTPEh5QzL2-UHMZLPDJwMK6rJm_hp_lltpyylcJpzzy_UJhDzy_yltBq1FzCz6_
+q_CZFx_oypC_l_FxGtv_MS0bkxzz__qplp_dyOz_l04
 }
 
 AWSEntityColoring(Kinesis)
-!define Kinesis(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, Kinesis, Kinesis)
-!define Kinesis(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, Kinesis, Kinesis)
-!define KinesisParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, Kinesis, Kinesis)
-!define KinesisParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, Kinesis, Kinesis)
+!define Kinesis(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Kinesis, Kinesis)
+!define Kinesis(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Kinesis, Kinesis)
+!define KinesisParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Kinesis, Kinesis)
+!define KinesisParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Kinesis, Kinesis)

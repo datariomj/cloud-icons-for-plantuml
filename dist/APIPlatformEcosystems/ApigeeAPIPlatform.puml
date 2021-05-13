@@ -1,0 +1,14 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $ApigeeAPIPlatform [64x64/16z] {
+xTOvZiGm44FHn2XsvllVTgBvGEiNE6jeXeOUlKkw_ozFXjpAwpEfcYoQD4qMJiRSuKBpSioTm9snTm9tseCV2k28jU1yPXS5qMl3co-7bj4K4hWA0dV1EVQw
+to9EillxY3YfdlZHTM-kWkh5LT2zk0gwduMJYDjV2oUnLy762Utr-_UBor5GVy0tm0afC7T1D01qYPFmnouZK9UUfWesJe6u2hAFYBYJvUg9kHEulRc3RZwJ
+phiFwqBbVdvm5OYNztSkRURP5gZXz2hGgb2-tsYf46__J_IhclkFFRxvjG1EWHDDDk8aXREu5j_dJtiuoS99yIemxvx4lFkoVlxAyytEZxpvML3VdxaAv4E1
+lkYojLf6wq2YqNL_xBrwjBMKHwmVRSRn8or_N8edErU1E9csmMwSB9nKJM9DfFyZJpu
+}
+
+AWSEntityColoring(ApigeeAPIPlatform)
+!define ApigeeAPIPlatform(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ApigeeAPIPlatform, ApigeeAPIPlatform)
+!define ApigeeAPIPlatform(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ApigeeAPIPlatform, ApigeeAPIPlatform)
+!define ApigeeAPIPlatformParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ApigeeAPIPlatform, ApigeeAPIPlatform)
+!define ApigeeAPIPlatformParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ApigeeAPIPlatform, ApigeeAPIPlatform)

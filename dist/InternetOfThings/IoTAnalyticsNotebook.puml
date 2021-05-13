@@ -6,7 +6,7 @@ uCVpn_nPrQRO6p-CVtD-6zGFoDyK_jFF4_NZbFmshtzOFm8Fa_oJZ1_hXz_yYFDt_vjM_o_7xwwVn-St
 }
 
 AWSEntityColoring(IoTAnalyticsNotebook)
-!define IoTAnalyticsNotebook(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTAnalyticsNotebook, IoTAnalyticsNotebook)
-!define IoTAnalyticsNotebook(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTAnalyticsNotebook, IoTAnalyticsNotebook)
-!define IoTAnalyticsNotebookParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTAnalyticsNotebook, IoTAnalyticsNotebook)
-!define IoTAnalyticsNotebookParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTAnalyticsNotebook, IoTAnalyticsNotebook)
+!define IoTAnalyticsNotebook(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTAnalyticsNotebook, IoTAnalyticsNotebook)
+!define IoTAnalyticsNotebook(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTAnalyticsNotebook, IoTAnalyticsNotebook)
+!define IoTAnalyticsNotebookParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTAnalyticsNotebook, IoTAnalyticsNotebook)
+!define IoTAnalyticsNotebookParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTAnalyticsNotebook, IoTAnalyticsNotebook)

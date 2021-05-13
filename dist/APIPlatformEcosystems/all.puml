@@ -1,0 +1,74 @@
+'Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+
+sprite $APIAnalytics [64x64/16z] {
+xPD74iGW30GtKCWt_lzQPtkWQyLji_fczOmJK7wD80Y2UyEB-iDAMKXrFT7wPMNQfoTe8Az8NQSbSehSjlhjWJRKyrcpwWRdurKRTd8H_3Mc6zHrOvPrNAUZ
+dsIT6vo3F5CFbhflMSyRJFGr0qfaMBUlm8uI2jUs_5xVgeH62yRRQzJ__zAm_GsW0Mn1NV1CMNDjtkDu-EMz3S_RQQRCWBf6I38X6CYU5V2fjScj2y_xblIz
+oNu_GH044m
+}
+
+AWSEntityColoring(APIAnalytics)
+!define APIAnalytics(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, APIAnalytics, APIAnalytics)
+!define APIAnalytics(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, APIAnalytics, APIAnalytics)
+!define APIAnalyticsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, APIAnalytics, APIAnalytics)
+!define APIAnalyticsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, APIAnalytics, APIAnalytics)
+
+sprite $APIMonetization [64x64/16z] {
+xPC53aGX34I_qJRA_K-xDcd2h6BhlEXG7avyCOFrI8CE6dJmv_uxpX_0_YPuoNAWuSG4r5wP5Fih-yxN-B7DRp__2Ds1_l6iQP18AVF8QCV28V_6-CcgXnn_
+EeQDV76odvoypqVgvkU_t-Ns_Mq8duUPDNHKEv7qCJ8qhL2HcYr9xcnS0JTqytHBCIV3Hx9gV_Z37_wMutkxFlg_wk6wJqaeKK0YX1fXErHIqzY9mHu
+}
+
+AWSEntityColoring(APIMonetization)
+!define APIMonetization(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, APIMonetization, APIMonetization)
+!define APIMonetization(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, APIMonetization, APIMonetization)
+!define APIMonetizationParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, APIMonetization, APIMonetization)
+!define APIMonetizationParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, APIMonetization, APIMonetization)
+
+sprite $ApigeeAPIPlatform [64x64/16z] {
+xTOvZiGm44FHn2XsvllVTgBvGEiNE6jeXeOUlKkw_ozFXjpAwpEfcYoQD4qMJiRSuKBpSioTm9snTm9tseCV2k28jU1yPXS5qMl3co-7bj4K4hWA0dV1EVQw
+to9EillxY3YfdlZHTM-kWkh5LT2zk0gwduMJYDjV2oUnLy762Utr-_UBor5GVy0tm0afC7T1D01qYPFmnouZK9UUfWesJe6u2hAFYBYJvUg9kHEulRc3RZwJ
+phiFwqBbVdvm5OYNztSkRURP5gZXz2hGgb2-tsYf46__J_IhclkFFRxvjG1EWHDDDk8aXREu5j_dJtiuoS99yIemxvx4lFkoVlxAyytEZxpvML3VdxaAv4E1
+lkYojLf6wq2YqNL_xBrwjBMKHwmVRSRn8or_N8edErU1E9csmMwSB9nKJM9DfFyZJpu
+}
+
+AWSEntityColoring(ApigeeAPIPlatform)
+!define ApigeeAPIPlatform(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ApigeeAPIPlatform, ApigeeAPIPlatform)
+!define ApigeeAPIPlatform(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ApigeeAPIPlatform, ApigeeAPIPlatform)
+!define ApigeeAPIPlatformParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ApigeeAPIPlatform, ApigeeAPIPlatform)
+!define ApigeeAPIPlatformParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ApigeeAPIPlatform, ApigeeAPIPlatform)
+
+sprite $ApigeeSense [64x64/16z] {
+xPO5hiGm44C_Z6OYxFrFkxoMQjNPU9cUiF3SPeBJJVXIRKQvVYDidNaflqZsAjW4jixuDkFgJ1bwBDuTrVK3JNLU6WdWLkOU2gXJEcuauETz7RuLWDzZ7mcf
+VHsE0Fg4KLtuuhrgokU0vQ4ezVyT8c34Hy2OpvK918IgGBzw_mVu1xJFs3uJg83d0zFF3R0ky_-s3t_EyFDGjvYcGFrC7pX-p1lmRuqV_002lF4B7m7c_E40
+W3j5_a85AK2j7zLPl_A8MB-w2s0U7G0zjCxX9FiRWADpGCvNRdeQDzi_zK9Q_W6WzU_g9bn-0BhL2InlVtxKLVY8yplmTT-_d2zh
+}
+
+AWSEntityColoring(ApigeeSense)
+!define ApigeeSense(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ApigeeSense, ApigeeSense)
+!define ApigeeSense(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ApigeeSense, ApigeeSense)
+!define ApigeeSenseParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ApigeeSense, ApigeeSense)
+!define ApigeeSenseParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ApigeeSense, ApigeeSense)
+
+sprite $cloudendpoints [64x64/16z] {
+xPH9RiDG34EBKZ_oplS_hUTP1Yd0MxtrVoJR9EfNYg8eiDC_w7PokWK_4_0VwkK0lJuV0EwhW3-gwm5Krm6GljC0efC1HES1V7qBt7o3g6zuqAu36Y1r4k2O
+27hUnmAl9m7juGUT-kROYBw7h_eLyYt7mcz_us-wXwqFtywIDvz-ovVrvojFr-yiwza0hlUmsqCFzMHzvZgG-dp0b_l6r-i1-aIO2CZVHzVhUO2ermVswtti
+-7eTeEgBeYX6
+}
+
+AWSEntityColoring(cloudendpoints)
+!define cloudendpoints(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudendpoints, cloudendpoints)
+!define cloudendpoints(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudendpoints, cloudendpoints)
+!define cloudendpointsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudendpoints, cloudendpoints)
+!define cloudendpointsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudendpoints, cloudendpoints)
+
+sprite $developerportal [64x64/16z] {
+xPO52iL030MHDVJV_xJVVNXBmoDe1csIsRRhfmIAeXZhpOZRwu-eJO8scK6Tn7I6Pg014IC4bI8eMIAOJSSSl8AOrFzgvtWoKINqyVVuW76b3w4Z8VGXT6Qe
+i-eHeCy6LDNkowYJRVAWhjEkRtw_sN_c-9dpnvw__leXSbAXIZ2S_SF7tp_z_Ti_FwO-lrR6-KbcK2U6BLemxqy954Ln0G
+}
+
+AWSEntityColoring(developerportal)
+!define developerportal(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, developerportal, developerportal)
+!define developerportal(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, developerportal, developerportal)
+!define developerportalParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, developerportal, developerportal)
+!define developerportalParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, developerportal, developerportal)
+

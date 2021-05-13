@@ -1,0 +1,9 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $partnerinterconnect [64x64/16z] xTMb0G0n341H5N3PVzeZTSpKzZzV3CL_0D1Lh3_2j64naEzw7nYkzu5xrxDUExPtlMbdl5xthjUSrf__lu_YptgZ_p9_Jwx_3m0r
+
+AWSEntityColoring(partnerinterconnect)
+!define partnerinterconnect(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, partnerinterconnect, partnerinterconnect)
+!define partnerinterconnect(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, partnerinterconnect, partnerinterconnect)
+!define partnerinterconnectParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, partnerinterconnect, partnerinterconnect)
+!define partnerinterconnectParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, partnerinterconnect, partnerinterconnect)

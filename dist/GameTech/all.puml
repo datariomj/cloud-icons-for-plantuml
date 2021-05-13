@@ -2,42 +2,38 @@
 'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 
 sprite $GameLift [64x64/16z] {
-xLO7Sjmm35o0HDF_7vnG1nqIsaFnNARUkaEpqABx-0MyyKQugPf_ZUoTa21vsOSn1hfPnm3RIy8Pw0hoKmX1Ey2n_tAWHn2I4Q283kWcNSuNTrZvwwSCsQGF
-gG4k4sDOUCk1WkAervU08oXjAyHPhpY8ZiBuAuG0t2QnmPG0GeioHiEmgQ6jsQdqAZgtl-2h5JAg9JWLCfaq9WA8k8aHPtIyf3lwSM8Msl3usU7hsddwaQq7
-CvWo3HNdP21U5Y_bwopJeLS0iGfVIkxUardb_9PPcQqggE0723m1TFsYlyRVr__r_2dyc_NRxPybzlitLFr_AMdOcXzd35JJ6m40sUtygiHZ4wjfLOy1CHD0
-xlU77mxop1gkleWy4BQnlnfyn5kw_hq96_iJxQgOGPzf5LdDaTN-3iZXGxDaPoXiC27fy5FeytxucdztlzoN-lNkVhfZaR_L74O3khgZwYVf-La_wDt_3-uu
-_PWG2ja_xUwSkxX3it-fNSY_pTVy6jemxT2oWS_vsUKFCD9GVsppSoWB2dsDFzyyy6lyG9lQo_RusRHjdXIYo5Q-GuDOG_yu8AQWunv1m9DUaCTssO6fV-PN
-BOwVmHjl_04
+xLK5hkmm31m7JRd_TRzQjuh-GjD7mfs5u4GnZ3F-01zyuChCelujihQ40wdfLzaIv2RIuWZv2jioq3h8zW6XDo3RRJe3rPteO1YHUmNu9hs3T8mwzpFg64he
+D-d9np3aEPLXOtYwTG23je0ro9mJj2sSTCC40q3T1gKn9X8DwmJGqea5icrCA3OdhI01r0Lb5NVKxRyI0AISIyav0G3LpPuAkUPdUBJ4hMGYW2YNnXJUTEJh
+f4MD3igZMT5MNAPoEvODxN4XtA5eL_n4qSfZfFWqdAuCSDHpkpuQngS1VcL-FtFm8T0sLzuxO5wxmHzlrgOXRy58UGSXFm0KRGB_0V_-_GNoFV-rI_-juzTd
+_6xdpnhh_3Nc_ry0PTRR-j4C0DIdYscVu1lwjQZ4B9oGSY21caWZj7Nzq64WFRo6Co_sypr3LlNBju5kzivx9V8ZKaJh-XdLfY82SghVU_VmzAf-Rr6mxSuz
+yY_4qu4U1wxU3vryGxt9d--NwjNzBp9CulrK1Kx_fH04JVzTPQWLeFQD7_7pUiIRP_okCrmoe8govqzFc3ZofwmKOiqKNNEGoeaKOz5h_XIjCLVClOQyw-Sk
+FyJWZmgvpmzHJZ3uY_mA6nDEwMjyGtceCNAJ7-MmmFwVtPEeGyOI1LqAwfF2iZ3HMCCIWEhF0ed4NCE5N-qpPX-_Wmy--0S
 }
 
 AWSEntityColoring(GameLift)
-!define GameLift(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, GameLift, GameLift)
-!define GameLift(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, GameLift, GameLift)
-!define GameLiftParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, GameLift, GameLift)
-!define GameLiftParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, GameLift, GameLift)
+!define GameLift(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, GameLift, GameLift)
+!define GameLift(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, GameLift, GameLift)
+!define GameLiftParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, GameLift, GameLift)
+!define GameLiftParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, GameLift, GameLift)
 
-sprite $GameTech [64x64/16z] {
-xPGtSi1030Dx0Vp_SvqKCUinnqhLeJeHNF4YfriqD3GakyhMET-roV_tLLNMN6KUfUIZNoBkAANUJrlv3UclVDO33Z-snk5cgFVZPuYrligCkWH_5doNoAjC
-VnRztsQLFiL9rwA8lk6Vc7_mf_Rlm9ywlmD_wlu4V-B-1bzy7ytx2lxC-ptow0yG-qVmNN-QZFvsv56KnusfyFx9TjdYTiz9-h4jtZy-RGX1yBXkZFOyAp5C
-7aOp0V38woP0dccSGCSpAmarFCjp0gHSVNd-c_s9S-G4OioXeppaB8gnYVC7NAVc5odWaBncblWwYLDcFpfsXLxoF8UXeQ5F
-}
+sprite $GameTech [64x64/16z] xS61400000CXWldhpkElMXu0001m
 
 AWSEntityColoring(GameTech)
-!define GameTech(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, GameTech, GameTech)
-!define GameTech(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, GameTech, GameTech)
-!define GameTechParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, GameTech, GameTech)
-!define GameTechParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, GameTech, GameTech)
+!define GameTech(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, GameTech, GameTech)
+!define GameTech(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, GameTech, GameTech)
+!define GameTechParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, GameTech, GameTech)
+!define GameTechParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, GameTech, GameTech)
 
 sprite $Lumberyard [64x64/16z] {
-xTN5bS0m34NHBykYrt-_myp9cMNkscm1txbSBfSPEAzDiZm_NRvNAZZ9dUaf3UUOwO4DPwHsJ-TIS4PehHaRGkUc5s4UK3ev_S641OTjzTDqC-ETNFFtwRXF
-yQgtJCKlGWqFyqRDYyabhr7mizR3rB0zPU-sZY6M5JzRczSlV7b5UK4lxT-cbuOdRMk0Sia7s6R1RznvCMv9IjiDMehcLvRSI_CS2DbsQQjSA_b1L_K0Akvf
-RzFAcVILsrtA-M6owv5jFSrlI9cMHvJ5zkPxerK3JCLISiyAqkZSxYQf-47gq_kj05FmmFRmazRJW4wN1i0teLHoR_X5cMmjaypB2c3lKfBYZpeZiWPO2U2c
-02mvQ5H0ITh0TWvoeyFaKrf3BWv9oIIB0MQjIUEGaXJ3ep5FEz6qcYSjqxRWY345JqhtZ4Dg3pp9eQFuPvVBvN8B
+xT57jkKm20JG0Y44Wjh_Sd_EoVryUkWxLed4trmkbqjLyxojW2oULJ3NEF-1MLTLedcE2fv8yOo5kMk7mljSN4UNDbtEv1tPhhR8a3uLvvDoyHDnsIznaS_b
+ExJ-FKuRbNot9rII1nOssTbaO_DDBuLb7SwpaS-lPuLyAhsQFWxhw-IJTXdZOsco1kPHF55yiKMRP1fWJNAAEe-OyKqF2IvWcf9Ru9k79FWeT4IJ2p8DSAHX
+17_NEtDNaqW-WhjWHFUoiUOm88g_AiCpdQ_vJGO4QkuXxhRvkyB89bcv1eAF9Cabt6kQ2O3a7mBzTNzZaGhdenOl_cLZ5XzL69xlPvCByT9Cyq0AH8S0Olby
+W3a3yTxOeHtB8ukaFkLDi9wlUQD6FZU4sUIqM-EctAwmIepcKjua129utdUfTWXlaW1MyLchXV8sMu3zVbULASvRbC0_TWCeRvAp-IgQvSd_x7AvNEu1
 }
 
 AWSEntityColoring(Lumberyard)
-!define Lumberyard(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, Lumberyard, Lumberyard)
-!define Lumberyard(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, Lumberyard, Lumberyard)
-!define LumberyardParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, Lumberyard, Lumberyard)
-!define LumberyardParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, Lumberyard, Lumberyard)
+!define Lumberyard(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Lumberyard, Lumberyard)
+!define Lumberyard(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Lumberyard, Lumberyard)
+!define LumberyardParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Lumberyard, Lumberyard)
+!define LumberyardParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Lumberyard, Lumberyard)
 

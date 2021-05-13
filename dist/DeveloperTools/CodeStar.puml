@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $CodeStar [64x64/16z] {
-xLO7SiCm30F5hVy_kETQFgP3Bhjk1XbU0ac1WfBvdtZYYJ3_3Pi0G7zC1pHy_3Z0GDQX3v5pV49M6JPdzla2wEAjE3eLimy3uar-Ca6BE8Wa7HHlvt-WfHVn
-041P-hiHR7edlq9Fqjl-msOFDDRiVLO4Zzb4GkluAPnfwDpYApu3Wq3RWeYM3BwHHuuQGFksSnxVupQy8MuM7W6Kk-dLSOEGmVRsJcpaROBniNxl45qk2sR9
-i_HhG43d8QjUEVkN6qeEgrFmF70SQlzn1lH6VBd60VQm5BX8Ybrs1zEupa7vA1cZ8djiAeW7hUCCuB0rcojoWa0t_lKt0GQMYIib87iw0F8hWCnuvTaRnsZk
-wSF326jm7jFELz6pv_vHXzg-coXR2QvqWcYpgxE6h1Ny1fdt-NrbtJmd0FBb_0DZKnwfCUYk038J86-Ysrq5JW16tAepRiqRaVjjfDJf8TtdGl6umOyyFOC7
-i_jvck3ErZCi2E8s8FNJ8PbEY0wV0FX9YsLWvUMk3lzS1MK11do6QeEzjBeA1r-jjTb6BjwZ1RN9BU_LuGT8GDqPF7-6rN_vtJ_ddF-99vvu0G
+xPQ5hZGn28KFfKQ1zt_SNqWwSurDhqNtYvoLuepuR_BaoPfYtx0c01XVDWU6p8BkNwD0tTquv9nUDLJHGWN3JVsO1dIBz4TyDtJlC3zc0F8gVXdjnDv68Mew
+GIk-C_wh5H1mO6yCgWoWwDN_BhDWc9p4x-Wny_leAW0ekd2GFd78n7ovVyly3CNmq7HV9XVkgJj3VsnVGLn0AysVmdU795EjvYwWVEoiRWCbSLz21kJ1uX6X
+Q5hUrepLk0vxzSkwsvlRvp3iNVxJ3v2sBq5xqx-IJ_3-r133Q52bVhU72QJP_l2yFfQ8vGPsuwjWgOHiVwm1RPy3XkzLk1t43rdqYKfysLCSCoeXzOLdaP7C
+pYlyfOFhIb86snuYWIo_ViKk1ykzn56X5nCdjDmS08a72yrNs8tuRTFLKtEMDMXljxhNQ9QmdLtzSKw9xr-gdpEnGjireORbvmpehS5i_WfJUsWleTcDTX90
+BVTWA1PzvwIxr0V7cOG16hC1wq5tnzw4B4FmIi9hQ25_m99iEohsJFmKlTzSxgxMqCT44ie0xce5_NYb6ifOX2QJqJom2dJLILWdzWH08bt4UItelA-k0_kz
+1ViDeWBJL-_J_CpUTkAeUxJ3Jp5rVn4_i6x-6IfaovTGGfV9gFv5j010i--yEK_rt-J9axy
 }
 
 AWSEntityColoring(CodeStar)
-!define CodeStar(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, CodeStar, CodeStar)
-!define CodeStar(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, CodeStar, CodeStar)
-!define CodeStarParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, CodeStar, CodeStar)
-!define CodeStarParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, CodeStar, CodeStar)
+!define CodeStar(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CodeStar, CodeStar)
+!define CodeStar(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CodeStar, CodeStar)
+!define CodeStarParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CodeStar, CodeStar)
+!define CodeStarParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CodeStar, CodeStar)

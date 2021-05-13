@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $ApigeeSense [64x64/16z] {
+xPO5hiGm44C_Z6OYxFrFkxoMQjNPU9cUiF3SPeBJJVXIRKQvVYDidNaflqZsAjW4jixuDkFgJ1bwBDuTrVK3JNLU6WdWLkOU2gXJEcuauETz7RuLWDzZ7mcf
+VHsE0Fg4KLtuuhrgokU0vQ4ezVyT8c34Hy2OpvK918IgGBzw_mVu1xJFs3uJg83d0zFF3R0ky_-s3t_EyFDGjvYcGFrC7pX-p1lmRuqV_002lF4B7m7c_E40
+W3j5_a85AK2j7zLPl_A8MB-w2s0U7G0zjCxX9FiRWADpGCvNRdeQDzi_zK9Q_W6WzU_g9bn-0BhL2InlVtxKLVY8yplmTT-_d2zh
+}
+
+AWSEntityColoring(ApigeeSense)
+!define ApigeeSense(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ApigeeSense, ApigeeSense)
+!define ApigeeSense(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ApigeeSense, ApigeeSense)
+!define ApigeeSenseParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ApigeeSense, ApigeeSense)
+!define ApigeeSenseParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ApigeeSense, ApigeeSense)

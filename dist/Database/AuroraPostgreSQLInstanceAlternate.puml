@@ -8,7 +8,7 @@ _WCgbhodStBdkxxDQHTllvkEzsT_zcT_zcT_zcV_twzVZry_ZohkP2Nx96izJKWS6ds7Exa_01bLYmTM
 }
 
 AWSEntityColoring(AuroraPostgreSQLInstanceAlternate)
-!define AuroraPostgreSQLInstanceAlternate(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, AuroraPostgreSQLInstanceAlternate, AuroraPostgreSQLInstanceAlternate)
-!define AuroraPostgreSQLInstanceAlternate(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, AuroraPostgreSQLInstanceAlternate, AuroraPostgreSQLInstanceAlternate)
-!define AuroraPostgreSQLInstanceAlternateParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, AuroraPostgreSQLInstanceAlternate, AuroraPostgreSQLInstanceAlternate)
-!define AuroraPostgreSQLInstanceAlternateParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, AuroraPostgreSQLInstanceAlternate, AuroraPostgreSQLInstanceAlternate)
+!define AuroraPostgreSQLInstanceAlternate(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AuroraPostgreSQLInstanceAlternate, AuroraPostgreSQLInstanceAlternate)
+!define AuroraPostgreSQLInstanceAlternate(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AuroraPostgreSQLInstanceAlternate, AuroraPostgreSQLInstanceAlternate)
+!define AuroraPostgreSQLInstanceAlternateParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AuroraPostgreSQLInstanceAlternate, AuroraPostgreSQLInstanceAlternate)
+!define AuroraPostgreSQLInstanceAlternateParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AuroraPostgreSQLInstanceAlternate, AuroraPostgreSQLInstanceAlternate)

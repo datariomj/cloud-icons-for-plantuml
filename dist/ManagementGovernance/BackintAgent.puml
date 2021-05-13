@@ -1,16 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $BackintAgent [64x64/16z] {
-xTG74Y8v38NXNxAiyEv_tmt4OkdgWQcmQJuoRbcKaAn_j5z-cTonTur-IZetNlfQ6HRLciu0RtqdiDJTR4XzOx56UcfZwtERqAjnKfygN7yrnkX3VdHfipvE
-7ySrwK-BDphGdvOGdpXgEdFzq6mrKK1CvyxMqq8_qaOLgKb_xztDw5n3ghY4f4Lr1QHkajQfCLegyhLnwf6_TIh8UvrBTsFsM1wT6Vpw4Y_DafGkt7GgIMct
-tEIqxeRrV3sp6JNiJH1wCdmkowLJ2qdj03Pwci3SmqmVn4i9f5uiSmChdQWmvfOlz6xox0mf0riwDOlKiOISzuoZYHpTZTCwqjXRT0UO0bZzl2vqv63V1WyS
-huMVZk3njiNMk7dVLaz6w6WmPXvPYxKzx-zBBuu7OmmZdijmko8_Yq_SGb8kZv6gaZmPuQIE3l1n0Bj4c9sCuB2EFY_sA7590VUY7bdKQpm-6aANq5RZ9QbX
-T6JWTOEWxkTOaRU_i8pIiOPLynhVx7jn1cm6wcms7ag6pwqhssmkowtTEZ4PwwfbTlzH2-fM_oziQaPglmvFhI3qXS4WTLC0hMzit1uXYwxMjpQbYRMlxxwt
-s1F0taRgUsM0oy1IFwN2InMbVvvVVlaT
+xLI7iYih39C16upD___kcqtODk6nuKwvLQUa8Qm8eVPBun_-mKfc4VKV8dkEw8YwJbS2iPgx5IQ4kaWNK3cb252Mw0dHRqu4v0Lw1hSxF2ueg7tw5HvWt_A7
+IolIjzP3XfwCTbrOMB-r4D66eQFmp7Lf5Q80nAtaOZTTpyuJL56QbHxUQ_84zaG7IbEyubu2gwa0-Kn5VH1Fsmf5kITFT_xJV4RPVQv-Rag7Vf-FHtW_S3Fm
+9SnTGAGsHTd6YsthukMhMW-UJmFO_JL0CXXyYtFqhcE2VhuM0O3ybWc46FanFZqVXJxQ8b4WW6RpNPcwlyuyx4E2pEeE5Di4qmufeFnP6SMQSV7h1ZREBSB7
+1yP0Q0mWsNcKFEGFzgr0P0H4JOWNYtquNeObv952xKD7Ls1oiTmHppQLMFgkmmmn_ECYXbCJdu4g0_xWOXL4ukq0KXHlJRKWJoha8zaH_gvye9zClyI11lJJ
+eVkDIyY-INdDnQJPMxeRw43mVLT1tIpS5XYH3_b6LE_PWVOUsnxw0LT2_V_UPRq4TUFRMsn1RKuWTqmAm18EQ0kR_XPWksPFg2rRcy2of3Uikrs1b03jnYyW
+GzrVNKHfQ_Gaa1M-uzf12W3MrWJ4S9YTO5hR4deeNPBqU2uZGOm1I2QKjWub0D4929s-Yif1MsLjlnx-uH_-0m
 }
 
 AWSEntityColoring(BackintAgent)
-!define BackintAgent(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, BackintAgent, BackintAgent)
-!define BackintAgent(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, BackintAgent, BackintAgent)
-!define BackintAgentParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, BackintAgent, BackintAgent)
-!define BackintAgentParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, BackintAgent, BackintAgent)
+!define BackintAgent(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, BackintAgent, BackintAgent)
+!define BackintAgent(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, BackintAgent, BackintAgent)
+!define BackintAgentParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, BackintAgent, BackintAgent)
+!define BackintAgentParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, BackintAgent, BackintAgent)

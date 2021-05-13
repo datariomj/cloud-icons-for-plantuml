@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $RedHatOpenShift [64x64/16z] {
-xLQ7hYD123EcvVz_-1fQNc68DgTorQe9uxK5dlBuJV4V_v7kPceU-HFaK453B5zK5a3qXtAuAG362ze2V51CLu1vKroBFV_rMtHPb4AWj-YsbGYzGVSF0tm_
-lbJe8ysVy0blSW-GpI08O1-5jKCNG3qotGZ83qgQ07Hm7HmaIvplCvC6s2CKWEPt4L_TnzK5pKzj4G3CCi5DNYzrE_G-27UMYICKLT1bX5dDRFOeiso0nx8J
-rPy5ZkeBCHTLzpXBqtv03xKo7h2TBr8PG9o2uRrc0tZPdorAi3qkI6WtUReaykfHn39zkze4sveR406sz5I-Cw67gbVs88B5VoSKF5IriXSFBdngW2NXvw_B
-ZyOsVq9G4XCfDEZp6QP9IHpHuNaIRq1kvDEE9mz0pwVvOETpWh3iy2_oqKbw4l3DW9VyL9YRFrrZEHhRnW1nrGcCkyg1Q9qZ0kmZslpZ8PSAYJvYzwl3vBhh
-au36l7mhGtl-qPzt0X1I-lBlBYnmUWRG_j8e8gGt9O2TtalYHcr7hEy46_GZulo024BozWD6Onx_kjEd5iIYVnflFC267Y1KvJXJxY6Zg29i9tyN_kC_lW8
+xLPLekqW39m8ch3_vJwX7AwH8rzFvwUInYPJOFoc-8__y5PpJgLs7w-ZPSQ6b1T3L0OaD_lXPgqa0gI_a9j1sJwyIO3QasqdKF73MzIdt2N8r1dviRinoft8
+3xCpwli1bln-V0bfU6aZXcnthu85tHuA0H0JMNQBbK2fDhDMz3OzhmneXOJDW_rAhg3gkuyCb669hh7cS12AVcCX-OV00WOW_iDME2gW8osYlsHmHUg2rXIW
+512GOEjw7hJH9DEZsK5M6NeqLyNa9q9RLSjfG3q1K8N5_Wb-3I6TR93gez-JCFEyPFIJCEh-9i9gMyYhVUL6L_2G04UU5m8ELUhbMD56xu7uog993luLxVf8
+21JufqoJ9Z_uTzIVsXE06O4_0B4nB4DFtLtQwqFF_gwfGxqAmEtW3u2czfJY4MAcE4KdAT3xC_H2u1OEgAFCQo3lsHvsxF3tigC62m7QFCK2DyYIuga_nLpp
+xmXSbv-Gd_AZpIj71JJeJIRdwdIH9CDRig_ahRG9FIZlyiaG0j0-ovTivpcYJuDT4cxqOG6r15fP9IHOqQRsvivhidNaBG7gxpU8KFz4kxic05Y40UZjPR-t
+05PjRaIs0nPb8j6wt_Hj3T51FRJHjiNe56rFvH3w06Ee7LuBs9uzmE2pW2m1sSUJw09mUKUat3y-1TiDM5IL0L2srq-VMPa0OYrz_8tuZ__u3W
 }
 
 AWSEntityColoring(RedHatOpenShift)
-!define RedHatOpenShift(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, RedHatOpenShift, RedHatOpenShift)
-!define RedHatOpenShift(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, RedHatOpenShift, RedHatOpenShift)
-!define RedHatOpenShiftParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, RedHatOpenShift, RedHatOpenShift)
-!define RedHatOpenShiftParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, RedHatOpenShift, RedHatOpenShift)
+!define RedHatOpenShift(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, RedHatOpenShift, RedHatOpenShift)
+!define RedHatOpenShift(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, RedHatOpenShift, RedHatOpenShift)
+!define RedHatOpenShiftParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, RedHatOpenShift, RedHatOpenShift)
+!define RedHatOpenShiftParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, RedHatOpenShift, RedHatOpenShift)

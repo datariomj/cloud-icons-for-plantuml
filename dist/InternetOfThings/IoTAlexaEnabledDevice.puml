@@ -10,7 +10,7 @@ xa_cAKGkqEiy5xWP6U4TU8rVbyF_ylsLXhMlLBvrXctHRFYcsCOjYNgvhgoh9-5HIWeVo_BKjMXJs_9h
 }
 
 AWSEntityColoring(IoTAlexaEnabledDevice)
-!define IoTAlexaEnabledDevice(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTAlexaEnabledDevice, IoTAlexaEnabledDevice)
-!define IoTAlexaEnabledDevice(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTAlexaEnabledDevice, IoTAlexaEnabledDevice)
-!define IoTAlexaEnabledDeviceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTAlexaEnabledDevice, IoTAlexaEnabledDevice)
-!define IoTAlexaEnabledDeviceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTAlexaEnabledDevice, IoTAlexaEnabledDevice)
+!define IoTAlexaEnabledDevice(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTAlexaEnabledDevice, IoTAlexaEnabledDevice)
+!define IoTAlexaEnabledDevice(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTAlexaEnabledDevice, IoTAlexaEnabledDevice)
+!define IoTAlexaEnabledDeviceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTAlexaEnabledDevice, IoTAlexaEnabledDevice)
+!define IoTAlexaEnabledDeviceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTAlexaEnabledDevice, IoTAlexaEnabledDevice)

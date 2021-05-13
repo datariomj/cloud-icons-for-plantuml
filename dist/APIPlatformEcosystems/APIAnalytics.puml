@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $APIAnalytics [64x64/16z] {
+xPD74iGW30GtKCWt_lzQPtkWQyLji_fczOmJK7wD80Y2UyEB-iDAMKXrFT7wPMNQfoTe8Az8NQSbSehSjlhjWJRKyrcpwWRdurKRTd8H_3Mc6zHrOvPrNAUZ
+dsIT6vo3F5CFbhflMSyRJFGr0qfaMBUlm8uI2jUs_5xVgeH62yRRQzJ__zAm_GsW0Mn1NV1CMNDjtkDu-EMz3S_RQQRCWBf6I38X6CYU5V2fjScj2y_xblIz
+oNu_GH044m
+}
+
+AWSEntityColoring(APIAnalytics)
+!define APIAnalytics(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, APIAnalytics, APIAnalytics)
+!define APIAnalytics(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, APIAnalytics, APIAnalytics)
+!define APIAnalyticsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, APIAnalytics, APIAnalytics)
+!define APIAnalyticsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, APIAnalytics, APIAnalytics)

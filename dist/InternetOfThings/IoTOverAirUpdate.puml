@@ -9,7 +9,7 @@ UZ_0Ja0ohTfcT0I2zFHb_cWc14F3Cxv1s1KVNbc_eW_RwKLdw3acipxj9-AlWq9Z8NpOPO0Uqf7xGjXY
 }
 
 AWSEntityColoring(IoTOverAirUpdate)
-!define IoTOverAirUpdate(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTOverAirUpdate, IoTOverAirUpdate)
-!define IoTOverAirUpdate(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTOverAirUpdate, IoTOverAirUpdate)
-!define IoTOverAirUpdateParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTOverAirUpdate, IoTOverAirUpdate)
-!define IoTOverAirUpdateParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTOverAirUpdate, IoTOverAirUpdate)
+!define IoTOverAirUpdate(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTOverAirUpdate, IoTOverAirUpdate)
+!define IoTOverAirUpdate(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTOverAirUpdate, IoTOverAirUpdate)
+!define IoTOverAirUpdateParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTOverAirUpdate, IoTOverAirUpdate)
+!define IoTOverAirUpdateParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTOverAirUpdate, IoTOverAirUpdate)

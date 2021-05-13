@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $DirectConnect [64x64/16z] {
-xPFdekiW38DbWnVl_y0twqTmQIXth--SRaGKoRGVm7_-4wPg_hLgPHnGZRQEqIPKCnC6wh9SGDekdC6nwBrNA6Xf0y_h3RoYP-JK1RAGtM0n8uH1nTkSWXZi
-2L1XmEPwbFOAOI_42JvFJ--VH0w5dpf7cT--tQlRaExcfkNVB0ROezmzooG1Bu3tNXpI1KaI3uEBOlVLkZsbG1vQ4B2ds4Kfzsa47PllvZJKzi90rboxRUDD
-ZOpeRWNaZT62WRwtSOs1sdan1Us5LOXLo6H6Kr22s9-yu1n8uhvaUsw-rGTzxcIqgO7TJly5uic_Z_JUhH5iU2iflmV_oQE3unhu2XsTyOn0NmvoGKhcwHWI
-RAhFyvD-g37HT_ERYG8KqPsiDpsGGY1hRx62aqXwmWLBj4V2RIDVtst79zf9_ak8xLBP-v9OLeTqh1fm97HDNs5nmudNz0MjW-cVqYj3EWWQArSVGF5v-ILU
-qCz7m4PB0_AvtdwfFePPgxVlpN_-ymK
+xPI7rjiW34O_0GODUF_NhN4NSZWbkoltdqcucXot5_3XGrLcqNlb4d50cxNR4Tf55f4SWLnlrGk8spSq8jnO0dkZW6uAe0Y-Od5lB0cmYtxA3RD3lWn9bWD2
+ihOceavYOhSZ8ElD8qrxwWjHmh820u-pp5cFl_fjj6dTlewR1Dmu4bQRA8Dl26Pn35WM4x24uRZqquhY1acv_Y8vaeodkV_o0maWQNFowQfNGYbqRba8FDKL
+SJXgB5K9FPkokh01Ehyvvbe1QOjKQmJytcownehDrI9CeILg6x9kA6snHZ-e3EirsEvJJqQn3V1iZGozy7NtqVqG_AHuvekhNuMexdv2qGrvwQlhCN-Tt-vR
+013hj5I_RLUZ7KwY7gkdMyxlV0ofTT-dy_lpr01P-lx-U8oGwz9dTtyTDG8fSwUUVE63d0ZaT8yaVENi1tmZbCKZn5HsphvAHsqXB-Pt2rcwMew7XjriMyaZ
+UgkE4toRlq5iG2dSvYSqHwJ_oQySa1r4fTwIVGBLwvUVx89o_HMGsL53ViYlx_EDRROJRS_cmuSl
 }
 
 AWSEntityColoring(DirectConnect)
-!define DirectConnect(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, DirectConnect, DirectConnect)
-!define DirectConnect(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, DirectConnect, DirectConnect)
-!define DirectConnectParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, DirectConnect, DirectConnect)
-!define DirectConnectParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, DirectConnect, DirectConnect)
+!define DirectConnect(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DirectConnect, DirectConnect)
+!define DirectConnect(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DirectConnect, DirectConnect)
+!define DirectConnectParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DirectConnect, DirectConnect)
+!define DirectConnectParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DirectConnect, DirectConnect)

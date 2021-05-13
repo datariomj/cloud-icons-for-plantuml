@@ -11,7 +11,7 @@ vDCNE0QGnfzj5U_EsI8eqatbHjMY6u-k8opn3Q7NCQoU7xGcTBs5Y5cOYQv_CNy1
 }
 
 AWSEntityColoring(SimpleStorageServiceS3ObjectLambda)
-!define SimpleStorageServiceS3ObjectLambda(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, SimpleStorageServiceS3ObjectLambda, SimpleStorageServiceS3ObjectLambda)
-!define SimpleStorageServiceS3ObjectLambda(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, SimpleStorageServiceS3ObjectLambda, SimpleStorageServiceS3ObjectLambda)
-!define SimpleStorageServiceS3ObjectLambdaParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, SimpleStorageServiceS3ObjectLambda, SimpleStorageServiceS3ObjectLambda)
-!define SimpleStorageServiceS3ObjectLambdaParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, SimpleStorageServiceS3ObjectLambda, SimpleStorageServiceS3ObjectLambda)
+!define SimpleStorageServiceS3ObjectLambda(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, SimpleStorageServiceS3ObjectLambda, SimpleStorageServiceS3ObjectLambda)
+!define SimpleStorageServiceS3ObjectLambda(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, SimpleStorageServiceS3ObjectLambda, SimpleStorageServiceS3ObjectLambda)
+!define SimpleStorageServiceS3ObjectLambdaParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, SimpleStorageServiceS3ObjectLambda, SimpleStorageServiceS3ObjectLambda)
+!define SimpleStorageServiceS3ObjectLambdaParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, SimpleStorageServiceS3ObjectLambda, SimpleStorageServiceS3ObjectLambda)

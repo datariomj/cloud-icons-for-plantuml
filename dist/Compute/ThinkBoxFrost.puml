@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ThinkBoxFrost [64x64/16z] {
-xPO7bk8m342_kkz_uMrE0E-R6Cpq0T5HFXRgxVtaAK_9U1rll0Bs_CkNrNruWIaEtkwJKW29TT1oSv_WtVhol9qFi1hy5w0hl83NYKz1rlW8GQBpPU1r8-_H
--LOEMaP_RUqVdrUzW6vyFrSG90V5B5uvNfOAnFZ3PJ5pE-CnIes6sImGgQ1roHjjuEVfL0v87l5bWDRnyOA4W_gBl8EcWH_o-EPsul_yRT03aMB7zk-78XS1
-ZCqpKiDLit_XeEcWLRlLfdHRvbBzihBTtirhkRdd2ksdoijpd0CxQJNdTIkxlh3Hhxijn-rCktqJlZio3tdyDNmBUPNzcuVgYD-qKodhyND0B-9NWtLNyqUG
-wBR6GVxCyvUUj6lvctYDzHEJ-hclVXNyjVrZth_Ql7yHxLNzKz3R-xS0NcF_zbYT7p4eNZc_5kPddkUdrVByZhF_Km5zrVuWAtnvlM9_UUt-DEvl0Vww_T7h
-a_RN-VxyUddAKtu3
+xPO5jXuh48IhSMdslzrtgCDSNWJ6uadzBXy3rGBj--cV_gcaTxp72pYMpclGPxW2pY8AdgwXEW0m-JQeeGxx3AAEhsuCam6ld_YN1EuERo1nyiNW9f-pWSda
+QKDGkSQ7J3utZO2h7XhwQslaAutP2MxmhQa7109JMXjytiPINPryLx60a9YyXkKG2V2JfnoqVSAxdP7L0dRoX_-JJvpFKXgPRojUFUZbIgN7hDiUlyhtNue7
+mfAND6n7dlbxy80fz7J9j-6L7wki3X2OF9oH-ic_DgkG8B25YSCqwc-z0w9UgjceJGCutsCzjhOsKdeZOgFowenpFYoBme6MIdtQnr3Jv_9XedgElv2bRJkU
+Hifg2ku2NpPyom9pElzDEnv5F_ppd_WtVzsgyWeCnF2IRzsL-CqLXfvsZ2LZalkW5Z9jsEPlcFahXc_PIOoUv6-HgAI0_65eqC_gn_Xj_OPz_JfWiuh8h5_r
+Z-gn3q1vrxyI4CxwfnUuw_tR018t_NkxVupsmwIP_ENzAupzAzxOloZoevGyZgAHM_klq6Vo8wLnYqVuzFoGoTy-lypyrLWUdfyajsTIDlqaY3_b_3Zy-wdd
+vxt-wP_-0m
 }
 
 AWSEntityColoring(ThinkBoxFrost)
-!define ThinkBoxFrost(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ThinkBoxFrost, ThinkBoxFrost)
-!define ThinkBoxFrost(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ThinkBoxFrost, ThinkBoxFrost)
-!define ThinkBoxFrostParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ThinkBoxFrost, ThinkBoxFrost)
-!define ThinkBoxFrostParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ThinkBoxFrost, ThinkBoxFrost)
+!define ThinkBoxFrost(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ThinkBoxFrost, ThinkBoxFrost)
+!define ThinkBoxFrost(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ThinkBoxFrost, ThinkBoxFrost)
+!define ThinkBoxFrostParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ThinkBoxFrost, ThinkBoxFrost)
+!define ThinkBoxFrostParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ThinkBoxFrost, ThinkBoxFrost)

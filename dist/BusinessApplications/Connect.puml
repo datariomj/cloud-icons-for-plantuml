@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Connect [64x64/16z] {
-xPNPskem2027i2Jm_kzxDZMd_LEtNdVSemCaqC_woSN5HRS6DEkdx11egYeWtqT8HI9lRntiMxrXks0jl_8RKLiS_KPtR5dnBwf73YhAoeYU7wLV3toW1Y3n
-tXUf5GNj8uHuNxxLoi3ldSatVj-aoB76iJT-y91I3uPFsXlVfs-e2paBCyygfR-oHuEnITNfCnemoa4ydoV7HXtv0yr1gyeGP3pH7vC-w-TM_psGSZyY3WCC
-slQJ0DCVMAN8uuCS-Khkz9uvqFcbC0yZy5LFTFRzdtxRH3nIglQNRUp4_xxVzKeXRo-xBHkh7tV5C1VwZDhC7zLCd7mwUT9sKom0n3fbQ_rz-h4xgexM7YEV
-NdcE6fARNwx7rNXnvHkR2GkYne_yFnUMhkOsAhBCMpiUm4QlXNIrtAyeNaUa4FMM4AoE6OBeP5jCcjveh__Hl0aFDbdwN1MD-epD6TkIynj_D3Jhj1_WLMVz
-L6JKQNy8bdNQTuWw2PgDbdKMHF0wpnoqayYxfbzSNFm6
+xTJNkeCm30DWsTcnzVwFUsO9qD35DVzDfuY3yi4xbyl5Mr90D3MUKGNG68C2slWf3v1Y_6LPaFp3k2Al4Oy8pay456uLH7wW87Cl8tymFTJdYOnMQtE-bj5u
+pn0J04ZbIwASHI2sNXM5BnWIP_q_w0hZSmthZ6xhs-KwcSyLzBLuIEUU1ZwNHpuX5H4VWwLiPC3J4dh0sA64xMuo07HcGB8_NXofSvElgAD1xwAa5HsxckF1
+EIJ4FEQlQ6J4xJqw3_HTt0I_RFajqKMN3-AS1TWktjmwmlXHW3PAAfmuulAk-s_yVqjrMJB4CRMB7f-SqVijJbUn_scC6mdEUnLjxHrjlIcfcA9nAyCEylsW
+Tof-rVcKplEtJUzjN3Mp8N8l7QnloFoLjxqpmmzEVH3Ez3_a2T2-xggm8qtF4yv6g-uSN26udpQWyu2YSU8vfdtS8pAFcA3m5Q-An6Eca3XqhYp5V-7fKzHB
+42mIXpQ-rLYTRrdpdY2DdnfvKqJdwNm52dasxn7QUJhV1SbvEb-0ofEGB20Opu8AilCqZDBFqLUbNowNRm
 }
 
 AWSEntityColoring(Connect)
-!define Connect(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, Connect, Connect)
-!define Connect(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, Connect, Connect)
-!define ConnectParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, Connect, Connect)
-!define ConnectParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, Connect, Connect)
+!define Connect(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Connect, Connect)
+!define Connect(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Connect, Connect)
+!define ConnectParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Connect, Connect)
+!define ConnectParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Connect, Connect)

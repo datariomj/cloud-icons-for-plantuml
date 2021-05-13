@@ -1,16 +1,17 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ElasticInference [64x64/16z] {
-xPO7bkGW34HB0QNx7tYVntguWzFcD3MX2Vg0t0Mc_aHzwbDcrShXNqqx0nphG00alufE0OO28oiOv4lnA_2nJhYW0emktat2QSPQhtmMxoqTMYt5Sqxtbhx3
-zy8upd7zYDZbU_GhlcgNJo6Ehj_Z_IcU8K3Uv6dX3GzyGii1u9fllV9I0oBqZNmf0BxENnQeYUPRfYExyL3103Hx_r1EVigw_yWx8mGO5MtxqbVJng4Bay7H
-zf-pf0BslZtsaZ3eB7L0Xqk6vtFaBZ-XjR-HL03Fgu0Sy4vZusNRkkA4lEHD0DlucRh1Qo0k-NvgpNVgLHLW8oofM9pnlRbpWBgae1uQtZESvT_qm_SdM0UA
-h4gG2-ASDu3iqJyr5HZbi0kUhAhzs_mKqM18dFAR1FrloW48e7d0ItjMhFaKDD-A_4Xjbqy5V7r-kl9Z_xnnXXwzECJc6Iq0ks8tCBkmiuH-Vh5wiVdR4kHg
-WdQ0mipoDjxpRKae0Ap56CAibZTu9flrYCW-sa04U0LVyP5RVJltOadCAyZE-DswWNEwMEkCpovbRdmyubnfX_pOpWpPU4PCdB86_8ZlTxmpo2U_BTbNYuBF
-Rn3SPtpp0p7jDJhBgylN1AfAQErWGEQ1s3fEOduKy-Ijqx3hQv0Aw3aiP7pL3LAplaCUzRFrgKzz0G
+xPO7WZCX28KVY1My_t6t3ADfPZ9_hs-RBduWjj1_H_tNVvKoMfRg5zEDWQ3kY03HBw9DW9o0P9-Ek4OWstawUq0DODcSk9UJU6LGysQXEVDyCWaL077q8cvp
+EZFrQ4lUasZ7VDf6h7dtVaJx-2MlGg5v_oHVWrwDPmZ1JlAKFduLNCLJf5u1u3NlkkCDOWb1-6juDm3yEly0dQu6xoenc__pkPG1HDltckmnNd7xMXd8Aa0s
+_xsT1xaTlbiMiW3M_VZFA1P1PNqzxbMGRBJuCg0InBJgpSYuv3yWiylvipwcyAdhMJpbA-UBNKI79LI6lUIBWCh5FbClg3r3N_9prH0lgM-7bpEHVJIg7l6X
+ZLlARQx-lh5KFK8wojzfslRF8mdSKREFN-0gQCTy9d3PJacok_T3aNj5US5pdM_L7T-9CYFe8M-pBxZdAm41YFQ45uTLyivhnEtxfzOr04lUuhR8bdQp80E4
+rUV3alVzBZGsJm1kw_V2Zy5o2kFCgO3ooF-yP3lcdeJlNod5plCUhn12s_i0lDcIX12BdU2PokohgdtI0I0ce7ODhtYr-_Uu04a_4_l0gHpnotu1QtSrYeVp
+7w7DBdm3syI3MNxAvx5_cUA53vZHGTeJwb7nmStBbSatf8blZoJ2SGKH_8qVVDh3QmBooFAuWl60bhRt9v0R0Y3pGNGT9T4hUGd8F6e0b3sDSg8C4jpjT9FK
+pqh5Ry3NgxN-e_LV__KE
 }
 
 AWSEntityColoring(ElasticInference)
-!define ElasticInference(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, ElasticInference, ElasticInference)
-!define ElasticInference(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, ElasticInference, ElasticInference)
-!define ElasticInferenceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, ElasticInference, ElasticInference)
-!define ElasticInferenceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, ElasticInference, ElasticInference)
+!define ElasticInference(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ElasticInference, ElasticInference)
+!define ElasticInference(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ElasticInference, ElasticInference)
+!define ElasticInferenceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ElasticInference, ElasticInference)
+!define ElasticInferenceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ElasticInference, ElasticInference)

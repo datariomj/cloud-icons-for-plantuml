@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $XRay [64x64/16z] {
-xPP5ekGm34HBilZ-znriYZg9dPdLXxSBF8DKWVg4VFEDos0Ublyafm0W8W0ZhkiE3A_VX01oLJVGSz8Su8kpDq4nBlcWsgBG2xeWgZ6GgIAsvE-iDa7uWyzr
-sxjfWAFA2J7r1tRpS5i7JtscqzhapAUpAGAJ6iPvMXBWin5qbdSN0iLnxKOkD0X-T4MgaU4U_HmTL96e5KC8Vs3T286nKDmO09k7cn2WquoKRfPbhqumA2SP
-BS5cCCvMjMWhFVCDVOi1oaE_hofQYjevtrr_FkTavBQBVxVaRQKDWT_7rtPXsz-ZZ1Dyqv_c6-9sEVRz94YqLr0-_OJyxQMUl3rWc_8QuhbVuhAMfKv8FClR
-_K4bf5aJRljCYUOBJhtMte3r-UV-JTptcMi9oBwFiUOpxVeEMx5lIKs7PYeySo3xzkUVKCOhKXMGLT-WPVgALn6oLc5uDGQyrg5UgvRw6ScRRu5Jq-V8uoSg
-ZK5ULya1W9W0aFx7JwHerEVacsz-0W
+xTO5SlDG30JW5JoKzlx7_Q4kv3dWk8E5RxZMDY2OyFlvzIjxCJDlmS-80a1K0TZaQHtmdYGv2r2IvpJ8v9jmMFAC0Lq23SOJKYIvgAXyNi7WZY6YUMd9OmdZ
+Na3nOl1GlrNaqCaSWiaZZkILs7eOC1unvNqLmGDg3rlR-T1qAEzBm1vreG8s-C0e0hbRuV3WaIxtFaH3uKwCFcPo4OAuFRYQLs_sXTRbmOJpXe6sL1bWhO_H
+Ym0rrnavR6w_p4o3ni6Cibp-rxe4o0wPonWypdTuSZ55ud6-ORmNGvCx0_Ru_GVyOk7NBcuVgQ_lTC_V2WRgxfDj_PNx9s8hG5_wi-RPCBV76Bmf13x95EER
+Z7pF1yhMoyexqe76YNRHYFcUfngR0ettpJANzYnv4rQjmJkM31a-Tda7dp4mjY7e-xpmq1QydLVbCnBbPZxXV8h9FlzWxEzjGWpKY8eHuOXSnkf0YfAAIuMS
+A7nIGsMhbmPJaNoMeNELov-EfABjuvKdXC9ZEVgLfsG1V2H9HbF8u5dX04G5WBJyv8z8D_Cw-Jtz-lKN
 }
 
 AWSEntityColoring(XRay)
-!define XRay(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, XRay, XRay)
-!define XRay(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, XRay, XRay)
-!define XRayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, XRay, XRay)
-!define XRayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, XRay, XRay)
+!define XRay(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, XRay, XRay)
+!define XRay(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, XRay, XRay)
+!define XRayParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, XRay, XRay)
+!define XRayParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, XRay, XRay)

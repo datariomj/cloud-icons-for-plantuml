@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudetpu [64x64/16z] {
+xTO53iCm50HHeVy8z_wdBGKDLTUreE0H55yXYK5PirbwrBux_GjhDC2NljrxDABhGyhN09q3P7f9KFZbiUjfUGruUZnxXrxkMoSXE2VfkEUTVvva-kFq3VZj
+_CU8Ns9FtlMRUqwb8zVpfW_8kUJx_0nidoLrUBP2ej-pbMJvfTfBkS-fxndrzFXWo9DpEUEtd3zqSB7KC_-eA01idrJ5FTEhbU-JceNX_URwtyhdu_ktwMUp
+Am
+}
+
+AWSEntityColoring(cloudetpu)
+!define cloudetpu(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudetpu, cloudetpu)
+!define cloudetpu(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudetpu, cloudetpu)
+!define cloudetpuParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudetpu, cloudetpu)
+!define cloudetpuParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudetpu, cloudetpu)

@@ -6,7 +6,7 @@ n_v5sKKUJJ-iVtVzTbW_e7zpzPzlhzR93VJRV_qBM380Jl-IhpzWoNZq8-oV_M_E-dyw_Pxzxvb_y-zF
 }
 
 AWSEntityColoring(SageMakerNotebook)
-!define SageMakerNotebook(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, SageMakerNotebook, SageMakerNotebook)
-!define SageMakerNotebook(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, SageMakerNotebook, SageMakerNotebook)
-!define SageMakerNotebookParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, SageMakerNotebook, SageMakerNotebook)
-!define SageMakerNotebookParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, SageMakerNotebook, SageMakerNotebook)
+!define SageMakerNotebook(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, SageMakerNotebook, SageMakerNotebook)
+!define SageMakerNotebook(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, SageMakerNotebook, SageMakerNotebook)
+!define SageMakerNotebookParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, SageMakerNotebook, SageMakerNotebook)
+!define SageMakerNotebookParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, SageMakerNotebook, SageMakerNotebook)

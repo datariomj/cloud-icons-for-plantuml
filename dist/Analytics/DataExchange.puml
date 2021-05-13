@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $DataExchange [64x64/16z] {
-xTL7TWGX38JXGWWXrVtlwsmq2JyzlErlC_7l3F1lbyibF7ZC19-QEayqeEiOAe2SRC6Ctq81urPivLy4Wpk63MEI_H6uRJXJD0J_mw6ichRUIV17hn-0jBms
-xRUQCDO4b2ysWCwjAOlIOLno0oBSihPqJamc-VtKmPBxlg-JwOqbUVoPv_5NvCEgcJElNrqCid3_AWJ1hT6Vg3zSLEMMOqdAylZ9Avxk-X1CdlVUO3pklGEJ
-1tr8L-qDq62ndnBPpmQWoGYos4yqppuL-ioFUy_yg5UC--ktrFeGs6ql-265FZUGrzz-p6BF41nV_npmgTvNrxHQRzYmMXzp8yhZ9u9bZcwFe2mBB4bPv_CP
-TowNopi
+xPK5ZiGm34L_i37T_xYBbRkTA2ChArQVeFXCXTXx7XuUH4HtNHq5twJ6Mtu6QZjwoq3PYJ36MRfqODWIbGLNvvBHrtcmO9YZPLs1Z0LY5veXzXyOpQ8ChvMo
+3w762oZ98y4348wWhcWs1r3KjKB5QSQUwHOWvxK_abEDC6w3ftC0oKBSVAtUJDJt-btt-cFevNVNVNu1zDexfgvsAL1Rqkj4uvUXzdSJcxc_xvAIllFdtcw-
+P93j-vmmRDld2f1j-99hRpK1JIpeKzRBvmmWbMEobpuXYVlNgnJoNNVV2Vhi-fxVqE_pSsA-Peo_ViP9ZlWUm7qQ9nJnpm2ytxz_y4xSZwvfCNzWmGZcfmM1
+_2UY5ePHnojeSL-0cMvnX2PuMV_3myCd
 }
 
 AWSEntityColoring(DataExchange)
-!define DataExchange(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, DataExchange, DataExchange)
-!define DataExchange(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, DataExchange, DataExchange)
-!define DataExchangeParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, DataExchange, DataExchange)
-!define DataExchangeParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, DataExchange, DataExchange)
+!define DataExchange(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, DataExchange, DataExchange)
+!define DataExchange(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, DataExchange, DataExchange)
+!define DataExchangeParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, DataExchange, DataExchange)
+!define DataExchangeParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, DataExchange, DataExchange)

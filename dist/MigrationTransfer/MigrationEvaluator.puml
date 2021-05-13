@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $MigrationEvaluator [64x64/16z] {
-xPK55kCm34I_JB9q__ikD4ykLuNbpIytfXb1_CzbPsTs_uZAy0ym4F-0HaK_sRuOrT-cCxmn_HNKV27YFcaUs4Z5JAWnIEc749WVc0sAPm18Fqmfs5h5ke3G
-SylHBb37Ehc8QJqiMZ5Fs6Pf1OJDkG6RAADwJc6pgiHeWqrFHprdC4B82gD6E7BYb4Qv-6VIFIS2rXaUDEPwpr6w3K7EasB6WN8aKc0nAmZ3Cs9iMKCjFjks
-PeQMamIs2XAcMHTe3rUm8T2MImQr5ThvujSctZjYHUFzIjmru-fA94AxsiNy6hqqA2PIh-orJ7taQzHlC9O3kVlUgUOgM1g1EmOr0FIr3B3E6gUjTlErhlfJ
-877EKrs5xa7Q0BISkIuqY_9FgLYydxMKpdoXVoZDWu95PypfwCcaM2h-oGcPZR44pIKZ8T9jDa1Mzw7DrH9pzsmKA2E4D7hPKgBb3XfIWJPZk-rZDe7QSmS7
-h0fepELdt9FI-ISfFgdXvweVynUes8Nfvg-Wj2Je2GLDBClTDFy0eVedTAP_XFdFOsVdAm
+xPK7bkKm20GBMLbm_-Dky3CpJ9Gtn_evWDGjNjj-N_xpdrNLleLC_wRb8TatKCaC-sgKGpdigsbqAopx4cOmNCHiKSpHFhRbaEVrVj3CxE3gE0jxCIg0r6KF
+bODgPjeI2Crs54OLE8REQ-T9TEIpQKPjnwbtPf1qETS1yZ1Jikr9egTLYUoIQEUwZM5x-lMlYljO6LVdcqCJNiBRIRKxv5DtfGTFfzdjIPfKROaKFINF-vCi
+8aZJs3A3q6s7_pTrh_RNLJbxxXX76E2LGPftQWBbNGkqfVYN9UIQAC-Rly6gpsHdvlayeZWu-Xjpux8TyhafgZbkXBwcFAuU2tsEmmxqLVNzKkz8yXHue0S7
+td9_s4KZgmqHZITGbxt7BC660Y1NlrNkJO26IHcrD7sKFUmEAYb1qRYh0mwQtQBJRHpas96wBZjtU6ncLkZOGg3i0z3J8aIQ_x2dCaEHj_ADRN6PMcWXaDoO
+3JvkimWa5mHbXaZSfP-s1Abxx1RQ0QdfdGHKKhukO368LnN8ZRe_VCX3FNR3LMDaGBRrgJtc3_cSnXXFQf6z5zViEBVB_U1z3BwE98DgNqz7MFRrg93jMsXC
+-oQM_JZ-yv-F
 }
 
 AWSEntityColoring(MigrationEvaluator)
-!define MigrationEvaluator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, MigrationEvaluator, MigrationEvaluator)
-!define MigrationEvaluator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, MigrationEvaluator, MigrationEvaluator)
-!define MigrationEvaluatorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, MigrationEvaluator, MigrationEvaluator)
-!define MigrationEvaluatorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, MigrationEvaluator, MigrationEvaluator)
+!define MigrationEvaluator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, MigrationEvaluator, MigrationEvaluator)
+!define MigrationEvaluator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, MigrationEvaluator, MigrationEvaluator)
+!define MigrationEvaluatorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, MigrationEvaluator, MigrationEvaluator)
+!define MigrationEvaluatorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, MigrationEvaluator, MigrationEvaluator)

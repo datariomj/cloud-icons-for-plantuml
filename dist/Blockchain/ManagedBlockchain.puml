@@ -1,13 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ManagedBlockchain [64x64/16z] {
-xTK5pkmm40DW3zc-_uKV_0p9yWhxYLnLpWW2VhJ3uN0GPuQwiTo1Lz6wlbr0r93i2g3agmoG_FnA17s5HipFzUQQwI5_nm1z8VwksmBaYoYWvQhjot2yGf-b
-_g1TjYrl53xKBjiTslR55q9jSagDslVnGgXDVgLTdyZk116npDFTXJZHRxl106AL_K-2rfc-IAso_z5um5s_o7gRkSXl1g5D_mKHiSuVPjatNnYroNbwVhn1
-xVBR0QSNc1-uotuXR-n_qXVAz5tdjz2-u_wm4hsuLEXBAL2wu_wq4Z7oEoR0gny0rCWMEu7KxSyNKFGjD5tLJVav3eV3uIy
+xTI73kGW30JGCG5YOy___-vjhw0ZgpjLdefdfHsp9Gd_jMLPbcYgse8_yPfmbVRZAw80gQYPQH6W7jnWWjoUhpP8um4xnFXA0UCqHGg-SvbVq2xrhmNYd9FW
+tQqxvxYnnoUQzS57cMHmeE2XZ3AvfnZslTb9SvH1pkuLPTp7nQapoBSvwZVaMlDffDJDMiyZnRYlfA898BtCatmQ_fT-c4KlyoJibhhzObPkPtQosyNZ2X_-
+VYdryuDs-xp-JqGPvErsllJFbnkKKUR9wFlRzc2ZF74p17iQ9-MD7ORAERNtJXS9peaD-rSzmSZv1IK-dyVAUP4XoWVFaCP3L235d8osRq0E7XHxmeqKvozS
+QybrRy7_OrcMvGy
 }
 
 AWSEntityColoring(ManagedBlockchain)
-!define ManagedBlockchain(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ManagedBlockchain, ManagedBlockchain)
-!define ManagedBlockchain(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ManagedBlockchain, ManagedBlockchain)
-!define ManagedBlockchainParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ManagedBlockchain, ManagedBlockchain)
-!define ManagedBlockchainParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ManagedBlockchain, ManagedBlockchain)
+!define ManagedBlockchain(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ManagedBlockchain, ManagedBlockchain)
+!define ManagedBlockchain(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ManagedBlockchain, ManagedBlockchain)
+!define ManagedBlockchainParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ManagedBlockchain, ManagedBlockchain)
+!define ManagedBlockchainParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ManagedBlockchain, ManagedBlockchain)

@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $AutoML [64x64/16z] {
+xTH9UeH034FX_h2Jyeft_zDcdYeHZK5PelrlgGTWofKhzJF0urUwVFRZq86iiWPKMGTA-UeVgB86L3a7j1-mThnVFtRvEBEUVruVWSmM5zvP7o4FfA0gwuON
+osNYDSjfliHRZFhtUDptOVAuzyTFTFA7Jwj-7d26nytmOa2JQp-wV_oDBn2l7lPvtkFWrOF9uPXVXBVgeV77_ygwuO7VRyo7447bYq--pP7rqVS8deVvsAtF
+Jhs_VeMRv6wzTu2sBtKWmHe0re7ra1z_3e0rW2bNhZm3
+}
+
+AWSEntityColoring(AutoML)
+!define AutoML(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, AutoML, AutoML)
+!define AutoML(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, AutoML, AutoML)
+!define AutoMLParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, AutoML, AutoML)
+!define AutoMLParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, AutoML, AutoML)

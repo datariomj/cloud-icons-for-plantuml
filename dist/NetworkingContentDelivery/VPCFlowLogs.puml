@@ -9,7 +9,7 @@ C423N_0G-jt-S_5rK0000051q4l_o3eOK030NYj-hP_s3-T7vrVtH_UNxuVVBx-VVhyZuN_0_xB_YVzR
 }
 
 AWSEntityColoring(VPCFlowLogs)
-!define VPCFlowLogs(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, VPCFlowLogs, VPCFlowLogs)
-!define VPCFlowLogs(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, VPCFlowLogs, VPCFlowLogs)
-!define VPCFlowLogsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, VPCFlowLogs, VPCFlowLogs)
-!define VPCFlowLogsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, VPCFlowLogs, VPCFlowLogs)
+!define VPCFlowLogs(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, VPCFlowLogs, VPCFlowLogs)
+!define VPCFlowLogs(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, VPCFlowLogs, VPCFlowLogs)
+!define VPCFlowLogsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, VPCFlowLogs, VPCFlowLogs)
+!define VPCFlowLogsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, VPCFlowLogs, VPCFlowLogs)

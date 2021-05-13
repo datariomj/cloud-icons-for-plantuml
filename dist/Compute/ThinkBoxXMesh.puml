@@ -1,15 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ThinkBoxXMesh [64x64/16z] {
-xPQ7RWGn24G7NBZ__-4Kxkp9ER6HY5PrKTdwn9Z1vN5Tt767DViFNG7fQRm9f0AQaz0LQ5yQ2b0imUl0Aj0ol4mPUTxLjpnVeVtH5pxmhBrkp7dxlhFdcz92
-l8AM3vxD0ErdpmG2SSl9indQsKjJe1hK2b1VahjD5wh_SZ2ZUrxeKmT_U-kX3jdodWBgSba6gs_Zbf0VbEUa5hScvWNQMGuVk4rhr2AUW_NKl1_r3tXFp9m_
-jTZJXorlCrbRwbyf0z3ZbAys2QuZmmjsnXBhh-Iz28r67cZ-isPSP9p2YIKZbxCuwDywy9Z_dR7-DQYeVgiCyvTn_UWVvmnvjj6XVpJi7u5kqtkt7_etdBz5
-WNQOF_7yRuB3_AqHxul4Tlr02NcFpVeLygFyc_NJ-UtwoIBlrcz3sQ_Vp5kt-mTas97VloxTFzVzk-6RxydzVxYGv35SIFDzUDUkFh_5vyVy-VNYytC-xhZZ
-4m
+xPQ7ejiW34Klc6af__-x9UurfWDmI7UVtap2GLlou-V9Xto8v7Te3O1Tlo4Ps00uMJDzWqd51Wy4NU2t4mj0Mk7DQSOoJ-lpEX-noUCbNWCFYno-bzygoe_o
+dPp1xdn1dXT70Di-fBE5XM7AAry_oW7msZVT0L4BVALSihR5y10tICOELqx3bVzudAB-qfkDxVDF1evngBx6yh_KKtRACzY7JZhE2EORl3qKqzTu_DAQ6YTJ
+NgyWxnRj_oOz0plYuwdOd3fTOuiUWKMN5ofhVRvY8Pzr6BXXoySQSz_KP0t9S1XGCJK6UbLhGMV3Y5Nk91asGJj--EPGI50ZRslCc4khCRTcu1PVDTQU-TQf
+MVo-DaDhK7dtlVpLet8pVmAuQVrOk7xz7hSVMZhrE-a__mnPlt_olF-JmQ1_uupdaEZC3_WvNwGpl-Oymz-RduKVpa-bhxtvNVZX_AQliRi_O1YJz_RN-lvC
+B-xlP53GrVtFBApox8PrtjJ9bNx3yzlAy-Fwy-lwy_EwVCY7V08
 }
 
 AWSEntityColoring(ThinkBoxXMesh)
-!define ThinkBoxXMesh(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ThinkBoxXMesh, ThinkBoxXMesh)
-!define ThinkBoxXMesh(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ThinkBoxXMesh, ThinkBoxXMesh)
-!define ThinkBoxXMeshParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ThinkBoxXMesh, ThinkBoxXMesh)
-!define ThinkBoxXMeshParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ThinkBoxXMesh, ThinkBoxXMesh)
+!define ThinkBoxXMesh(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ThinkBoxXMesh, ThinkBoxXMesh)
+!define ThinkBoxXMesh(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ThinkBoxXMesh, ThinkBoxXMesh)
+!define ThinkBoxXMeshParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ThinkBoxXMesh, ThinkBoxXMesh)
+!define ThinkBoxXMeshParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ThinkBoxXMesh, ThinkBoxXMesh)

@@ -1,16 +1,17 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $GlobalAccelerator [64x64/16z] {
-xPK56jmw38H73FU_xmDbdMBgf4p_agnyOuzCspyfV_bBXPkQH_Lda4fOiDLJjG1aaTMLeGJeenvq1EzsP_VhPiYeqytCSq86txIG17zd0aXpF57T6fsGtQK0
-WRmSU9NluBu18yU39g6wkq0feEmsQ6zHU7U0eWq-6OTr4A9RuBqX8Tq9H3TH3nC4a1Dj45GN0M0vLymW381gh6o6rsv5l2QVcFa8D4VBs5LVNP33jGepCOiU
-jXdLZkXFGTnjo9bsxONYy6OhUqMEHpf2xuKZL-Vpy990l8POJbTw5MUelcG6IlWA5szIyxbaUWzS4sFb6iLiS_aFXhnXfNpqk_5ZmZ6QKgV_UUA8RVssmau2
-rwatv7okcR4XAqm2mASbmR46rypQoRbRaWJAQz4AiZr1JDr-k8M4cq3DStgSV6qEq9H7L1sAjz7e8kfD-I-F3YQ0O966g3GGG8ouSG4eibj0NWbzhOAYoW7j
-DiH6N-0vghxEQnuf1_T4Empw-WS8wEWLKGAkushT8l2f0yPmHnhO05rFzl3Kc0m0XFdX76lQJqXbZ5YpFuyruSznl4y-rCl0w_UPlWIs3lHgFv4J05dwitqR
-XS-dWy3vfdqNfkCg2900TRRl8iWvxOBgW9tjkoH0eEN3LllHrjEQinI2MEtd203hBo0z-wVbBt_v5m
+xTC7clCg38NXJuYEplwNUmiypb_7yUtrdKbn4HmHhB-f__rlzLPBxIFqAyoQk7XTlxJQ8TKnbzOSnQ24dei2PNqrNDDJAv5tzUorrZxtruI77fb6bxIASLXP
+ErCAFR3CfhGA6DPND-nqqnubYCJS6SfAjYGjqihOb1f5RnMwDB2XIjVFEat365Acwur9bYPCXIKToQHnJbdedhCK1dYcwMXa1opKgU-cBrAbpxFuvkxdIvcx
+DX6wKrbQk2HPgjcJ9S_Lx8hM6RgJabIPaeAYIo5sjhRFtbWxOpgTT5qwSoTooKqt1kEQeZC-Ftt5gBSBq9XdulFrCcbNZ7twGvNGu6FZVW5tmexddoJo9wJy
+4wThqEz_lglPnjxyEJxB_tR-ployMIt3Gv-MPEtNXtQw85zhlWpmk29bOdVuiQ2SswH5qxHCIR7RqXau9Trna_ffW3nxTKhjCtFYzxF1tcm09GkDmkVAK5Ww
+r-yiijHn0wEEMHbhLWpCEMFSAqmfOorsr3rVOKKppfEjUq4AHQ99Rh7h0vSQARH8UgTHf71o3CgkBup8-1vswgrCaw90TLfZDhn22IdJzLxuaAIP08pzuNlU
+MlHBpB9hINNgrweC_HgDhyrVM9-tT7t-ilh8jBZsy-luiVFSNlMluySAFVPMxORFpuuVyYG5LGFBi5x7JsMcEbsPqAIzZfzQOAIGcxIeh-F7Ll4QKgKEPrp7
+lrWuKFKRpBxqj_M___q8
 }
 
 AWSEntityColoring(GlobalAccelerator)
-!define GlobalAccelerator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, GlobalAccelerator, GlobalAccelerator)
-!define GlobalAccelerator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, GlobalAccelerator, GlobalAccelerator)
-!define GlobalAcceleratorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, GlobalAccelerator, GlobalAccelerator)
-!define GlobalAcceleratorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, GlobalAccelerator, GlobalAccelerator)
+!define GlobalAccelerator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, GlobalAccelerator, GlobalAccelerator)
+!define GlobalAccelerator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, GlobalAccelerator, GlobalAccelerator)
+!define GlobalAcceleratorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, GlobalAccelerator, GlobalAccelerator)
+!define GlobalAcceleratorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, GlobalAccelerator, GlobalAccelerator)

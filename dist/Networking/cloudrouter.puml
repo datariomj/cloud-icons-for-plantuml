@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudrouter [64x64/16z] {
+xTSt3eH044N1jBAz_sqtnZReYMn-YehnxlTbLeYSo8cSo8cSo8cSo8cSo8cSo1dbaHz_uCQRvuzRR_86xzuRlJlFx5rxZxmhxw5txbrw-vnv-xnRRLvv0n-z
+WO_Um0V_uVTU_zv_VVpw_AdpDwoVi7xR_f7thxn_vlqxdn_r_0hdPps_qm_o_INz8D_VqW_o_JNz8D_Vqm_g-wLau3KhVm
+}
+
+AWSEntityColoring(cloudrouter)
+!define cloudrouter(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudrouter, cloudrouter)
+!define cloudrouter(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudrouter, cloudrouter)
+!define cloudrouterParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudrouter, cloudrouter)
+!define cloudrouterParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudrouter, cloudrouter)

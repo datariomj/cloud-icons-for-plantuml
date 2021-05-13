@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ManagementConsole [64x64/16z] {
-xPO5ek0w202727R_-pxXIRwiqAxBr19WwfPVWx_y9VG2yNzVkO1-o5TheX_sFPluH_nGZRVfZk-SwOuVPl4sDVolVVnRcspqrxx-tyat2hlhA_C9z8Plmz8d
-bcbCh-uLtu094faXrSGk-8Oep5V59gXWJR_qIFSyWcS8rlKvpOD3rz-C_1-3tVLJY5hg41bQpK0k7FygPS1udcfbgtlyRfDureLTHuDKbsdUy0COvPL-6WE8
-p_lEr6f97V1fkKwyu-zQ1YjVMKGjztVoengCS-bh4Iq_WFdSc5WMzjPldR_SIuYg4gzggKmWQ_Vk7wNo1ajrWPrWmp_tgW-0uUUUxldEM-tvaWLurmVB_s7G
-zISh_yTYDlrQGOnXvsKwelIkdnC0MP4PIm1AR_ivsR45opJagNdqdf_-zadLAlPxtvz2Rty_hVXUtr-rZ-1vr8__F_1HngaQ57hf_zbEbMaH-JNuoryU0G
+xPO5hWCn34Gd7DFzh_jNwnIaaZzJfsHb-f9uW_OHUkefdQ-GNl8Jhz2ynWyAQbpdsOBY6xpEgOVFMtZ6wVEczedqy0dm7vr_dq5rp3yu_X_F4tRHM_c1Kcl1
+U0DFcKqgQ8jGnJZJgtW2KWMIc4a2QWBe5JmXJQ2j0gx0JA0OxxYOoCdROacW8A-0NFe2QB3zZdon_ZIZX_FFtfJEabAP7YF7y_Uc90Eb05cyKy7ycIfazLYt
+dvMDe187U0LGlC7Xpl3k503wc1VKiNSu7HFEQJT6XKJullhH3bPRxVOmV_ezSN7U_uLoi0hS2VBmdjVZWA1w5eZmrbk63rZQIpZvS2At7fi_qtq2sXWDe5DX
+YDSrT5m0eF0QH8todA0U2P5uf4WSNxzywNDy_JQq2ziBOxnLD2s5R8bAqOPgOTug4e3awsyF7O_oLj4tqFVlj8MEntaJFr8FXwMyvVoPDmxhAAzCcrY_wFmT
+T4DyXjwvFznKjgFowP74xyzaHz7b_VdjUkgf5m
 }
 
 AWSEntityColoring(ManagementConsole)
-!define ManagementConsole(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #CC2264, ManagementConsole, ManagementConsole)
-!define ManagementConsole(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #CC2264, ManagementConsole, ManagementConsole)
-!define ManagementConsoleParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #CC2264, ManagementConsole, ManagementConsole)
-!define ManagementConsoleParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #CC2264, ManagementConsole, ManagementConsole)
+!define ManagementConsole(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ManagementConsole, ManagementConsole)
+!define ManagementConsole(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ManagementConsole, ManagementConsole)
+!define ManagementConsoleParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ManagementConsole, ManagementConsole)
+!define ManagementConsoleParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ManagementConsole, ManagementConsole)

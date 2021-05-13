@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ParallelCluster [64x64/16z] {
-xTC5SiGm38NX9zRzJzmDgAqJbUoP3kKlBdmxnlpewUd9gpbkg7pIYst9h3-T_RztCr_nUBNasMF9o-xKjsJQLtC-hCe9lrHvqhmN9ip4Ol6r9zk3f466zxdW
-5J41i2zz9Hdy-NqX05iSmo18zeMVRUyqGWt12UnP1KFp5mM3O-UN8GSXEd1R6G77pZs7h1r0t9yLIF4XSEEjMLY6D3mPhVTc3JgUqdkxUsgtcplla6xyr0o0
-A9k8ufVh9zfvXLuvr_RVZbTJ4Bm_FyS7CywumUD16yzl4CWpYMoldtqTTDkGwx3meK1akSPN8QZ6-niQgJhulZ0L5lMuF7lcZVz5WchMcsynOjB7-rzVymOi
--J3p5PyphNkrBPxqYcgAzrVtwUdf3G
+xPO54jmm34M_BAFW_jVjEEjbbPnEX_8Ma-YPoPzSN5p8kA5x-i2TlGGwQfyKo9w_lFx_VUbzdF41q2cVXvxoo-6rCQdR_cBJjxuOlkK_sVPJysziLER4fTlF
+VUu7ADvHt-Aq0A34153_cKzOL5S6dd5M0Evw_Es4wZ4wRiZCUYIK-_q4rcTYZEv_W6LadmYz2vR88k5hnIZ8KmV9Ho1QeElttOBYGgJ-0N6KVL2jZ4B1ECmK
+-3q8D0Q2SLWGvZ_-rC-HhwX1O8tAdv8798hQJuC4IelyXXRs7wqgs5YOXrY2V8mVM-FdI9YnO8_Hru4sw3b-6Kbc_Ve1fKXUEN6tQRJqEi-i0kffUIdodu40
+pS_7_6tkhGL-i4paN9gysM-BMk3_be8xk_uuoB1Dtnw_SiuVm2dVUfSplkzmtky7lEbNtFc7XxgBYuiV
 }
 
 AWSEntityColoring(ParallelCluster)
-!define ParallelCluster(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ParallelCluster, ParallelCluster)
-!define ParallelCluster(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ParallelCluster, ParallelCluster)
-!define ParallelClusterParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ParallelCluster, ParallelCluster)
-!define ParallelClusterParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ParallelCluster, ParallelCluster)
+!define ParallelCluster(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ParallelCluster, ParallelCluster)
+!define ParallelCluster(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ParallelCluster, ParallelCluster)
+!define ParallelClusterParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ParallelCluster, ParallelCluster)
+!define ParallelClusterParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ParallelCluster, ParallelCluster)

@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $CloudEndureDisasterRecovery [64x64/16z] {
-xPK73gDG34J7tTp_m5j7Ii7x5r9KUMg9XViOje6BYulkVjctNF0RovSoAo0UuGP8dKyEUFDt07xMdJc9mSuL3s5oukSgK3ntRBGS8k53HLkvMXvBlxS5512m
-iIKzJWlG_Xr63fGVWpNyrjkQG9reRe-ZNurEvVPQMj4BRmDqLv6Htuw6XPvRuBqlcR3qKgRO8nWKmftLpIim1uXfTSwOd0jjCQQNIKuwn1QPkkTWfjDfo7-N
-dCXPpGmpFxhM1hlEfwEeoJ_t_iMM1Dp_AdyX_f6-R_jVoHYsU9K4R3wZXLKGcSdYv6Ols97JPzdzDrJVxFopGv_6qbNrjoX3tjB8r3q3QrIHlaajE8Yg2brz
-aHmtWaEztKu1WCIseZ99SwctVflM4oIAOtaDHpkRVmaLDlyY40hWDPgoVvNY6bybsFohfFRsDIukBdu2
+xTHNkgim30JWSRSipVwNUvl2FNp6wSaR_njL6YpCezFfPAhALuqIy5VkV84c89RMQmQ2y5a25Bs4Q07bwSV3u7-MaVaCHL3k5LG-8M5CPpBacUuh9nOYHqcv
+sqFbZRE610GWAkynvCN9WAoqXc3ts-yywcMHRQbXt0p7EohqvRVxvEhDTB7Uk6uPI3QTgzaL9Qq4e1hNDA3eiUMD3z58YCOLYn0kPiSVGzfD0rVQQkdgvPqH
+kZlNkH3Y8jAbLaETUvhfQZWAXb-BTc-HPP5UBzESCRZJ8JpeYzd8NaXGk3Vc3x1-wVQS1VZwt_n91Xed4UOf_f7ROsmeXuxgxf4oxn6p56p-wrlltPlRBy2O
+AytbtC0_wg_ItPW7vKgQFiiG4Myrxwv8W7198rANZTU8yIUyYKYB28DNMC6Flcs77duB59hnEXjzezkYsfRN_EmpEeG9mbTLM4Nbor8G9BukH0__8lMnVvdW
+jV3JLlco7erVSpgTVWC
 }
 
 AWSEntityColoring(CloudEndureDisasterRecovery)
-!define CloudEndureDisasterRecovery(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, CloudEndureDisasterRecovery, CloudEndureDisasterRecovery)
-!define CloudEndureDisasterRecovery(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, CloudEndureDisasterRecovery, CloudEndureDisasterRecovery)
-!define CloudEndureDisasterRecoveryParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, CloudEndureDisasterRecovery, CloudEndureDisasterRecovery)
-!define CloudEndureDisasterRecoveryParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, CloudEndureDisasterRecovery, CloudEndureDisasterRecovery)
+!define CloudEndureDisasterRecovery(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, CloudEndureDisasterRecovery, CloudEndureDisasterRecovery)
+!define CloudEndureDisasterRecovery(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, CloudEndureDisasterRecovery, CloudEndureDisasterRecovery)
+!define CloudEndureDisasterRecoveryParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, CloudEndureDisasterRecovery, CloudEndureDisasterRecovery)
+!define CloudEndureDisasterRecoveryParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, CloudEndureDisasterRecovery, CloudEndureDisasterRecovery)

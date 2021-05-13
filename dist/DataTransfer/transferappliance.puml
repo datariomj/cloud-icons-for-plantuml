@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $transferappliance [64x64/16z] {
+xTH50i9044HHj8TTtV-qGDorEbvl_vDnE1CH-GmZybLwODNUSY4fNpQbjvBfy-TxbFjPYDoTJPp_isJw-NlM-FJ0HlqhALTOFsx_d7aS_mIPsvptzqts8Fko
+f0S2sJF_J-owPuY8_
+}
+
+AWSEntityColoring(transferappliance)
+!define transferappliance(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, transferappliance, transferappliance)
+!define transferappliance(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, transferappliance, transferappliance)
+!define transferapplianceParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, transferappliance, transferappliance)
+!define transferapplianceParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, transferappliance, transferappliance)

@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Comprehend [64x64/16z] {
-xPQ5bWCn24KVH83y_mVlOQgqpNR8kjmZepUUm7WF_ld7-XsQyJlkaPJV9KA0P7mT4IQ2lCLd9SXR_14BoFknWBmV2yZxiO2ydoZ0VU4pxeCt2D0Ll_49z7t-
-1FqflebZ9jVOVh_3KSKrVR-ltJ7hr-Xt6JyfH5nrqHS2Y0bWdVfI7Y33keu6DFDZjW8o7_y7zCDNTjjHWaxyAGgoy93qApGUrJdVKC8pSSwNcmehxEdurS7d
-yPER8M_Gf_FNHplDt-XJVxtz-V6hx3GVFqhE7yFS9so-e3xsTHRz1ULIXn5in_eDNIwe9zyORNf-NH7gC4RHmnmHQdB_cfTLGVwF0Mtj_AZmV_p-c_fT9lIZ
-lp7tNy4TBHlLTkMF4Gl-6YqabNcCu4DHnYe2nyOo4dRLs_dddnS
+xPO54YCX44K_pI0jtF-wkyGx2PNfMPTNWZuSYl4z-Cz_hByW4R_Z5GxvZJq4SCINuQ6KmD_Yaxe6ulxm3SHztq3Szmt4VTz0t0yqC7tEDwQFV880EUAtQvpG
+z_aBv4_nbITc_8Zkzpic8dYa1_hl4xF-YFukwyU54XKvw3C1b0d8klHvUmCFwpeQKhDv6oh0w_L_Gp-NPhkE9a4M_X85cKi4_G9nLNlCDsINJ1Jp1UrfEFPn
+_SgWs_hnqv9NwCVzwwDUz-_5Rv3G-1bzr_XN6BPfvSbS2Kh1_SlGwHDe-eowlhytr4rWk_TX1DrnVjsKDvIhRnbj-NuzuFgmZAodEa8emVjhhCCAqgoZG3ls
+VXJCEZF-c_gD5xIBVsBjBxWwKhP9qLt_Huyv_nZLVIhZM4hC7TiuYk0hISTXUF6dFif__lC5
 }
 
 AWSEntityColoring(Comprehend)
-!define Comprehend(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, Comprehend, Comprehend)
-!define Comprehend(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, Comprehend, Comprehend)
-!define ComprehendParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, Comprehend, Comprehend)
-!define ComprehendParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, Comprehend, Comprehend)
+!define Comprehend(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Comprehend, Comprehend)
+!define Comprehend(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Comprehend, Comprehend)
+!define ComprehendParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Comprehend, Comprehend)
+!define ComprehendParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Comprehend, Comprehend)

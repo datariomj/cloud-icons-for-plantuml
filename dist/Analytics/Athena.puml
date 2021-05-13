@@ -1,16 +1,17 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Athena [64x64/16z] {
-xLK7icCX39EC2yxz3xm3PeTioUFzDZLAnObaMxJ7p-2DDtguHyzFSTC42zJuSEO6i9b7kAa0z0_bLg35Soq4utvoeltTj0Dwa-x0oXLkPjwhXbQYHmIOyxDX
-WJO31hbFxm8qZymUHi2gi7QsZipLRcvDWOoHmaxyDdktAcB3mM63e1-iXqvw-tzRUUf0a4D4PYkk8XHHwrD0PWTnxTvOPyH89G188O6vU0m-2f0Ry--p4erS
-JTbK96S1UR7T9iWnuD_yqWtuIxwYOEK400vWO8JGwkqLkW-qcgE6T6qYqpzXXOOkZojWVbIZMNPNKaUldo-n4lWieudEQTTQ0p5qN_3I2vIQoRKG0UszydVu
-YEIhfRSWQ-Yb8m1hyySbFwCWh25idsK0ggNovGBx3z1jASmVbVhidwybphOjbUqivVNYjm55swH2HH9QRwVrXzphuCaA7UtRnGRCGbGw0zKzt1ec9z6gXoEq
-fiw9WioXZFG1FTmSCSv0z1hryEXh3jQkpci-M4lfxoxRJEomu-nftK3sdAXBXN7ahpfJi1MYeO84uIS1sUwngMa3e5cQdd8KIAuYGma05C_PmupV4PYtJI5p
-6rF4lD62hOetWW0hb4IS1EhspDyZ9M0EkIrGdeFIcX3h1hyjKCXG8K4sgoLu4ZZ384kRo2y9h1FrymADZyyB5F_p0bN_fmLe2lJ7P-44vFFqvrtnnXk_
+xLM5biCm39FjaEFq_t_t5hjxuwL73wU3BI1LKcdx7tpmGTVMrCQFk5O5EoZhju-S04grgRPQ6A3w7HSZ0qcllJ1OZn-SaEnEiHBoGNe3D4XQIwdDOf0WXp8e
+sFmpOGSN9nRmE4pl0aZhDheM1boX8gsh8pBV6fI0SeXcb1K_UVOI-o-ee7uI5_H5zSXXT3p4ejEKGTxp1JP5l2XhMOH5Skqk89v0txVNJYvvLc02W4YOvgVE
+J7CDSk3yLtUIDKACNWXZDZkcWV6IQEfWcblebczJjyqOxIK_8r2Y2VVFH9YOEaZnxnLwcqXnZXAivIJY_J7xrFGklBm2_ADuq14PACL5q7tvFU9OiNbBdCSq
+xP4K6hfFCLg0n8Tjln21R3r2TxIfQo_IOmV7S2zQ1I0WRtltvHL_Q839XuPozIm3t59_Tm4uBXkGhoejpSFOWVxQRfpalb9tnlAIgMKY8rr8WPWnPF-tlFwY
+eHGzNAh8CtvzSmCESoZsguLoRTfg8kUOJmkDROKS3LH6GEPmyBIbA8itX_hM7gEkJNiSCFbTpR3tVEBvcABxb2DvRmrbUVPol87ATSxEFcr0tHP87ju4LEry
+OQRW3GOl1GP7Uuq0Jhba0P2dr10qNtqFupsaPWO0aZ1YX1hoAmS2iREONOfnuY61WgZl0cM0noNW0bs0rEmyAWIKwW8HKBSLD7dqb8G0qBHp4I0NM62qB4GW
+JhN7J8Ki11Qu5h3V2I1jFq4v2oJQVYuG_9yB_Do_2t39GDz-Yae0E_sdiB45FlZW2m
 }
 
 AWSEntityColoring(Athena)
-!define Athena(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #693CC5, Athena, Athena)
-!define Athena(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #693CC5, Athena, Athena)
-!define AthenaParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #693CC5, Athena, Athena)
-!define AthenaParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #693CC5, Athena, Athena)
+!define Athena(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Athena, Athena)
+!define Athena(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Athena, Athena)
+!define AthenaParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Athena, Athena)
+!define AthenaParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Athena, Athena)

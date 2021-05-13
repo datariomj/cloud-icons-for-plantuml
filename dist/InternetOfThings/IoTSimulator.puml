@@ -9,7 +9,7 @@ NVQ13eJ_ucpz1Y76u8hl3Fvo_Llkk3m_iQpkSjtViAoqw_xMnba_RGCeGC_vWssDVjttAtxw1f0Nwc_x
 }
 
 AWSEntityColoring(IoTSimulator)
-!define IoTSimulator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, IoTSimulator, IoTSimulator)
-!define IoTSimulator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, IoTSimulator, IoTSimulator)
-!define IoTSimulatorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, IoTSimulator, IoTSimulator)
-!define IoTSimulatorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, IoTSimulator, IoTSimulator)
+!define IoTSimulator(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, IoTSimulator, IoTSimulator)
+!define IoTSimulator(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, IoTSimulator, IoTSimulator)
+!define IoTSimulatorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, IoTSimulator, IoTSimulator)
+!define IoTSimulatorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, IoTSimulator, IoTSimulator)

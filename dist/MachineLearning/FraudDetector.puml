@@ -1,16 +1,17 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $FraudDetector [64x64/16z] {
-xPQ7jYGt24GlI0Ye__zVXzQSTJiypMuxs-zE3bMWvXn0Vn2VV5Ahz9nsm9yxE3C3QpsZc98MIyzOfAGcz8maNiyFCRBJU6nG1h3ySGrwJOOK4DUdR7qhavJA
-yLhmu2YDIr80jj9PslJjvNq2KXajoKmNmLQwVsK2CjzkkiYTI3FrZjX_TMj9ZZRupUP8xvm7etlYsknIzFLIbZgmM6h700mh_P91wOHP6hFmcGg8LsjOkMN9
-r945f5vHoh7goOKjIHsj4psXL8oR7HwPEGshKs37eXndtWyPM4fTVNdLeN8s30WvoT2BnBl305-gZ_jJuoqDbfJSufXrEpPZ64Ctur-GfAGYTlNlvVHTX1xx
-OD-aTxIOqg8afueuvrzItV9doEbBlztDpzSlfVdJzUkjsFhjPgVwJPZ5q2I_w1bt_J2Tw06K6d_fvwiBzEkJcyu4XBuaOBRV9YrDiXawCp6y6vjvVQh6Idrv
-k1RvlWC5381H0rm9KPqJgis-gWNRxXym9g4q0Bmqc6_3t_jNQKioPfJQWNWN_XVzimUsMb85H3lnFhp6lNyl0pC0fiu6SOMlyOlvaNFucAL1R8DJ-9umWzyw
-Qlisg0_cvo0xODG7ytCR9El3-Jt1yxnbJQC_tXzilLtJB0_xoz8x-i7-z61_Uxe__Ztxw_Fz-JcVVF8z
+xPQ7akGm24IV1Che_t_t5dd2fP5tVQ7ITDKubHlQe6an_nBUUAFNRjVPGu0uBlE5t0hHheedVnmhzIA_qlqZo9VpbuzZy-CbMAHP2v3jee00X2h4Vb51JUYS
+vP1WjNszbycBE5n21RvUou7ugG2nDdaqqvwdFJ9jnGcObpJEXSB1Z79QWt1GWlWnEU_PLIFDCvH3imHRntjKESBKUIvWCHKTbX6R2tsTRPr6Q7i1PPeG0CBl
+reBIJmJqGEv8RlUruDPmNmxjh0WLQ5DPhw-rO3dWYCMRueSDB46Vuv6b04XfhUMmjvSQYML4X7nFxyXumSQm9Qrl2XSq0cKA3Rq_RaGxFY3MsKDufS1MizHR
+tE6Htc8O5ecfQ41dHr_m6-tXF_fyomrDo2kKacTYxFd5r-sJBs5MhsNnBnT69-_rTm_oh1Cw1RlndHnaNx_cwH_ripjZySsZnLt_SY0Dz32IMptGEzz3IPWx
+c09z6SdzBniNO_ZFx-BfFvZoC19_VLqsR3qyzu14H8OHSZiSqGXZseeHPw6TMs061P2X8BD1wTOJOInxs2AlHeN3Fq0JURR84MxgcNn3llClZwLaivPJxeUl
+bCyOS7pwfocnBkCgWMoHSfv-olV-NGE4w0UoQoXdwOV-j7-qfAAvcnm1yZQz9KZbj_kN9_T3Vx5_Aiqow7YrVwu0ZVfg_oO7fEyA9AJ0U3q_H8-z3n3QPdxv
+n1PrQNwwFhzTdn-lpw_Nv-V_Y3VU-0O
 }
 
 AWSEntityColoring(FraudDetector)
-!define FraudDetector(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, FraudDetector, FraudDetector)
-!define FraudDetector(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, FraudDetector, FraudDetector)
-!define FraudDetectorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, FraudDetector, FraudDetector)
-!define FraudDetectorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, FraudDetector, FraudDetector)
+!define FraudDetector(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, FraudDetector, FraudDetector)
+!define FraudDetector(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, FraudDetector, FraudDetector)
+!define FraudDetectorParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, FraudDetector, FraudDetector)
+!define FraudDetectorParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, FraudDetector, FraudDetector)

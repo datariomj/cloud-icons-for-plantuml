@@ -1,0 +1,13 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudfunctions [64x64/16z] {
+xPS54eHG34Ddw6y-ezp_j6kuff3rtOmWwSEfLFVKNsQIRnS9ljrqsBT61tthTCYtWRZFRHuHnqaCmKaKmLaSnsaanKaemKVQubCLK5hbFKVux2kybp6-z3bV
+up4-bpxXKuq34Hwe3v16l5_eA8-SVSpNU9W7iezu1_Rno3xW7Rjvm4UxzlDu55-_svLLme-Iz6or47bxCL_SzVcz-lshtw_q_y35_rV87pVSafg_XFmfvc-r
+VkZrIw-VUlrM-mUnVn7x9x5_4_j7iNyL-sUvVzVd1tr-qUSdNN-T0G
+}
+
+AWSEntityColoring(cloudfunctions)
+!define cloudfunctions(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudfunctions, cloudfunctions)
+!define cloudfunctions(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudfunctions, cloudfunctions)
+!define cloudfunctionsParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudfunctions, cloudfunctions)
+!define cloudfunctionsParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudfunctions, cloudfunctions)

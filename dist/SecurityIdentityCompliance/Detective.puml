@@ -1,16 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Detective [64x64/16z] {
-xPM9ZkGW34JBDlZW_pzu1KdQZQ9Cm-wEpgwv2Q_aCzD-ILzz5Mhja5dRbmDWxpG1iiyBh0351QW5keiRIclE04gq88fDdZ08gtwvRKbHsxiOleC7qNpWUoKi
-i8UJ9GNuVaJhEAFUpcIvX8gkOc-m2W2GBz0X80lbOH4lMAmf5a8mW6BuL0R0mXtMSUG4YfNWkSOPDe6A7V3mM-Y2gmmBVpyhXCDfJGO0T5fOXx4tW60lTEO_
-WY7UtDxeAGk1Hl4STND_T1xVlV1pN7EWzrIX-zkJcbyv3cwxCaXw8TQWC5M_OdwLN7ek2mxE62h7NJuDnkO6oUUIePYRCiZFJMGB8vJ3XNyEeRmk6E2N8q1w
-sPEjrQlvrVtGgf4twDCBVnw_4KJ-bESPlWruNnUX0xJZKG5OVoYUpyM87gyFd69S4A5nafg1czqmE745Z--mTRwpzS3jR4uGR2t-V9jc3haN2_KRCednCA6d
-VyNyda3DIxVECHxcXpCOO5f_9wIVmXygm7xT8AV982JT3VguFw9cbG1hCHjuylx4DnTqKG5v6kGRn3Nvn_U7dOCpjLfWPrEJVrOQpEr8VisW8h8rgtmQ550c
-lyitosLJQ-jyAcu7aJ_-NLzzzGS
+xPK53kim44HdpGjp_-D-IAnKLXIr_Y3iAyEC5nN-9xvyyM4y25Nkum2oazG456vJC1hGh02zOd0JHIKz0wZ140dkaN0ej1z566ZSOg0ldpES6zm2jhqIDYXN
+AdIdT_aUKGf-I6Iqu4eKr0yDXW10LLx4A02GZE-90j4O6P2gSOcBni0jh3icI7xKe6S0kIG0PSJo6v_f092xpx0JKjLJt180s0TxLmH8pVd2cXpv-CVJ3o0r
+EzUtoddo1iZMvCe_DPVC7JA2z5u4gGmd3UslzgV2kKD8MZuYSu-EyRGz-njioDn5KIwlz6dseMDOp9Yl4XOCClWMopXeCRUuSsuk6Udj-ZQWgcdF49i6sLmJ
+wkcI_8qypp-eu3He02231ttQFg38hqIGOkvI6_7wX_2P9C5r_C9vCbypEX-u3RWaiiWfr5DNWJpYUTvidVUWuJ3GywKX5takGKMiTixJOCexSZ26O3nK_wu_
+3Fef7xEYdg2VndyON3bCUnU9z_KBoVFhCkDmJXJjyO9zqTS_5NHUP7cQdyl0WALE9gYnPdgdNmC-89OMWoZ8d2W67mnGkcfBW39M0tlfxKbFBm00gH1V3KB4
+IHkh_axOK3z7RcbrFjvMlDDFfi7LweR67VqqQF1hjNVqqw2ANCblwsclPHlABVqaRb_u-Hpy5tpvyXC
 }
 
 AWSEntityColoring(Detective)
-!define Detective(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, Detective, Detective)
-!define Detective(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, Detective, Detective)
-!define DetectiveParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, Detective, Detective)
-!define DetectiveParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, Detective, Detective)
+!define Detective(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Detective, Detective)
+!define Detective(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Detective, Detective)
+!define DetectiveParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Detective, Detective)
+!define DetectiveParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Detective, Detective)

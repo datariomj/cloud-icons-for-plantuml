@@ -1,15 +1,16 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Support [64x64/16z] {
-xPQ7qXiX30ONIO3qlV_xfjpV6FBRldEIgLvNokeOkluNBrvK_fKTuALdwU0EyRHjAQL3VzO-IAEDw_RK9xFHfaup_gm-mFAolTBF3SLij75pCACksfcBKG-6
-OXgCBGqsbd1hZPsnHNU8CQ9XjRQGkEcdLlsZOgTfuQG_w5z_uxhVsjgKkkedOqjSyFU4YAj-frRVh_fpJOX-rQzLcSohlepbVzDbFp6z4uphlWRjIASjnWLV
-4vfxWwwd_3GEDg5qpkyGMQhfV1JaBwHplkEbTwsrZuWGv_nOArP97kNqGSjXzT2VkBHY02OvGAj7VckxtYCEgy87hUxxWxaDfMaXw3Vy6u-N7MNPOqWIJNVz
-NE8l0GEWfUHyxyUtY_yGXzI9qgH94qpQgSzprjh-T9U4VNPDDBImdxFuvjko8nm_mSt3qrB4vX_j8lGHPXhtZlwz-mocP9Ga9vM0RlBDfIbnAI6w4L8mIxUf
-vTAqdY1fqCOo_ZVPBqtpmwZtQ4CtsIzDLL8rSauTp56DrCQjmQp0TGI0rey1Was_nO06dZe2s6YKeFkktwRZjQO0rzDK_qNg7_BYnKy
+xPQ7hiGe34KlsARP_l_VNJBAUo3qKdTNTOxg7UPGKXpx_yMNBzh-bIq0wrlR4a0CYBssctiZ8Dahk_g76X7ACpi7n3fo6V6fFNwYTi_U5Yj_7EZUhUXsA8St
+K_J2ZWZPHhRMfgHyVYlgObT2PpvCe-aVAmLXdjqOGNAH0D9v3SYXt-R8-uDd6N6UzgQVaSR0hDpqGvotea_zYZn2Gtxgvn66yy1FqDddH_uQ3EcfhxDIK9xw
+Ji5ynsAmntu5_KY2x8zzptiHQ3ICc_vubPaZaFsLto8srWAiTizFW5HrBOHGVSDgPzZdFe_NjePW-um0t_DbFgQg6uiISa5icVJIhyiwHkX4SqOdw8Ll8TYY
+Pv6FfS85GS_zZB8CnJaoqhaVWg_RtyPQac8z8TYnF-h5KerCq0dDdV6tBpPU_Xa6ylQhg1L4yufnde7-bdzQjXy3cplevrqsYJZu_CGooitmDrEHHoqHd7nw
+3RBuiUo5Vv-c4CuQX_Ns453S8zJT6SqR4Fm84s1vGgs2VBCaHOYxeAWVerFJD7z16W4XknkYdxCsJHNnaypsy-HZTssQLDqre9MoZ-GjdTkZQL86-MS282Jt
+7D6fj_ieWDiMDCGUrH4Iezxk0aVFPFPRVypVeQdJ_3_aovT_
 }
 
 AWSEntityColoring(Support)
-!define Support(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3B48CC, Support, Support)
-!define Support(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3B48CC, Support, Support)
-!define SupportParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3B48CC, Support, Support)
-!define SupportParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3B48CC, Support, Support)
+!define Support(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Support, Support)
+!define Support(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Support, Support)
+!define SupportParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Support, Support)
+!define SupportParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Support, Support)

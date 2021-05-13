@@ -1,3 +1,5 @@
+This repository is forked from [aws-icons-for-plantuml](https://github.com/awslabs/aws-icons-for-plantuml)
+
 <!--
 Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-plantuml-icons/blob/main/LICENSE)

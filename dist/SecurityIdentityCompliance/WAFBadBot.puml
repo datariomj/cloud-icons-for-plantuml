@@ -9,7 +9,7 @@ Dhsh7ycRr4Er3V3DKnxe_R80BTPqbzRFgr-tY8jTA5is3Oq-0IZTcaAt3hpLVnL_xSNFTgKzrw_P5Uxq
 }
 
 AWSEntityColoring(WAFBadBot)
-!define WAFBadBot(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, WAFBadBot, WAFBadBot)
-!define WAFBadBot(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, WAFBadBot, WAFBadBot)
-!define WAFBadBotParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, WAFBadBot, WAFBadBot)
-!define WAFBadBotParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, WAFBadBot, WAFBadBot)
+!define WAFBadBot(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, WAFBadBot, WAFBadBot)
+!define WAFBadBot(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, WAFBadBot, WAFBadBot)
+!define WAFBadBotParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, WAFBadBot, WAFBadBot)
+!define WAFBadBotParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, WAFBadBot, WAFBadBot)

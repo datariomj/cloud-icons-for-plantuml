@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $premiumnetworktier [64x64/16z] {
+xPJ50GCm30FByY_xJrlcLbPS1jqtkO2fVIZ683RSuiOPg5vyoLrs_mcHKRKlNjElaoy9dOQxeeEjzZnUxxf3JpP0w-aEgSTTUkGwKXqdYPtDPkHuOM_r5Uhr
+1nFdDSbzrOXD-6g449zSJ_Gjqf_qDox8zKANp-Tl7u_7bUXVw2jKL-NNQn_aUkRpXbD-GzAKxUCmnXXZ5W
+}
+
+AWSEntityColoring(premiumnetworktier)
+!define premiumnetworktier(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, premiumnetworktier, premiumnetworktier)
+!define premiumnetworktier(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, premiumnetworktier, premiumnetworktier)
+!define premiumnetworktierParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, premiumnetworktier, premiumnetworktier)
+!define premiumnetworktierParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, premiumnetworktier, premiumnetworktier)

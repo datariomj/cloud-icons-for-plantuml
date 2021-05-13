@@ -9,7 +9,7 @@ Ar_J7ve06Uwnl-chwvybHThNhB-o8Y5ZoM-_V_Zl1vWsCOYpBxo4Z3DAcviNZ6WJ6RyFRm4
 }
 
 AWSEntityColoring(BackupComplianceReporting)
-!define BackupComplianceReporting(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, BackupComplianceReporting, BackupComplianceReporting)
-!define BackupComplianceReporting(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, BackupComplianceReporting, BackupComplianceReporting)
-!define BackupComplianceReportingParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, BackupComplianceReporting, BackupComplianceReporting)
-!define BackupComplianceReportingParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, BackupComplianceReporting, BackupComplianceReporting)
+!define BackupComplianceReporting(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, BackupComplianceReporting, BackupComplianceReporting)
+!define BackupComplianceReporting(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, BackupComplianceReporting, BackupComplianceReporting)
+!define BackupComplianceReportingParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, BackupComplianceReporting, BackupComplianceReporting)
+!define BackupComplianceReportingParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, BackupComplianceReporting, BackupComplianceReporting)

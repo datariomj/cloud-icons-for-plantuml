@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $S3OnOutpostsStorage [64x64/16z] {
-xPPLWcmv3CLaYEtiVy7DbFRSIHvJwQlWA4pp-t3ZHaQZvZaEdJpM4ylF17hi1paRnh4_VWF_vfk-Kz_g_uFZbn_u6bzu9v_zZE5kvXvPM__JuM487n6BB-X_
-28YDbsehmnKOfxw3Lui9SkOdTX7qQz_jXJa3lphe3iP_pWGPhVrXu4VjBrH0p4TaLcR6C06KSUHFRAOh7r6F6SIPBxhUAralmJhpLIxkcRdnUp0OhTYDlpJK
-GNFfrjvV1YeSvBaDdFgvJ5GD0QzPe7Na5puNGa4DHVP-6VIzbYuW43k_11kkzBuQAhQjNv-_3IoZ-f5uuVVvjlO84JdmdNeRms0niBsVmh8ElPP9sVd94Yg5
-w8lY-lqZKdCXXLfZdK96F35w4uDecw9dNkbDJCR1ZPREo0VGgy4fH_Ttg6EvuCZhyQUrzwVotuZd_3ygwl8f7LdpEtFZnZq
+xPK7akue30O_ab3Y_iUTxB9PpR_mSd9NfjHaIUFxS7EZ7F2n3o6IT7zrL0calEqpD0us_57-xRToOj_g_uFtftBYN-5ddEYRxygTMgsDM7pformyAZAkfCQ-
+Vtx9G6vTxCqnvLQ0HBxf4nBPc77EoBxbA-g3G7hiK_tW6XVctRZ_CGJ8FUw_0crh_uQSWLI9HSHKXAc-3Q3ltH_gK2guaXkxGFRyNDwthCAlYBuVfiFs_9B6
+PpJume-1WXwcNVhz726W7ATEPTE_N9Hp0_BxtyUkhzD3EIMaPiE0OZk-Azeym0N83GN9bxut0A3_16fBG4gGbMy9jLD6yVXy9TNb-lbzYOugF9-sOgD-2EXO
+3PWFblE6J_3Z72HfCb3NlcPCTQYTHt3GqXTCGLO02PyY-6TCIZOcDC5ZM2WNdT_eSOi2FWu3UrZ03-8M5HoICk3QqEM5c27qSJb6AEiUsj3aWYeX7UMlsDht
+Yi_9fEF_iAEx2GT4R7ndRcwU0G
 }
 
 AWSEntityColoring(S3OnOutpostsStorage)
-!define S3OnOutpostsStorage(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, S3OnOutpostsStorage, S3OnOutpostsStorage)
-!define S3OnOutpostsStorage(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, S3OnOutpostsStorage, S3OnOutpostsStorage)
-!define S3OnOutpostsStorageParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, S3OnOutpostsStorage, S3OnOutpostsStorage)
-!define S3OnOutpostsStorageParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, S3OnOutpostsStorage, S3OnOutpostsStorage)
+!define S3OnOutpostsStorage(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, S3OnOutpostsStorage, S3OnOutpostsStorage)
+!define S3OnOutpostsStorage(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, S3OnOutpostsStorage, S3OnOutpostsStorage)
+!define S3OnOutpostsStorageParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, S3OnOutpostsStorage, S3OnOutpostsStorage)
+!define S3OnOutpostsStorageParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, S3OnOutpostsStorage, S3OnOutpostsStorage)

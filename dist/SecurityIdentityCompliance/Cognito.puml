@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Cognito [64x64/16z] {
-xTG5kYCX44NXMmMKtFqlU3uwJLmWu-_bZyjf1tuD7nzMT49DtbSXEW72knA5Cmpsu7ld59G7VN2ApFQ9MtMX3sYx0btg6m-IEtcdRmAel-xDBzcXLsWjW1rw
-TppgR_M-Ri-fYDu3mDhweUm2TQn_QV-pTntAsFy_sbEH--wzrpiqI8FmTTymoEYpZ6ycrkzbg7llGFLMYfb0Stdx0nBSDUXoBqWUDNZ4qpuFjjVU2undWkJC
-yUklfVUGjVaZRDDVVUihRwpiFumdwQrPa17BynV9AAVBOB9dErqC1XIFZ2RGdErF31h7jvAyms5ynA4t7su8pE_9CGQ7TdzD8RWhw6WSt4WHtfDkzoJhQVKE
-IJOaLwYSvT6VVQrNCih8-uijzmqwykM-8BS5x3aRWYiCtgkHKuLB4blWoOsZSesT5ob8BYgd1OJ0kQn0B7jTqVDr3O0800s-9QsgbXRyEZu-VW
+xTG5akGm38NX9xCilVjVTokfk1di5ExCVCtmXst-37_-j3YZE5_Ba8ay83XVCIJEQAXllbTEGNhJTqwHsTu5J_92RuZb0U9IFuwKZqCk9tel0aJztZUzr_RU
+8q9EWhhtGVLj_snh2Wf93x2j1u2rzKlWfgECzI_jlw6CGtVg-3aoDuvqgcSGFtRlNAy8dLuH_7jVCSZeBOrlwlTUqv2FNWLPIygj1KHVtluEwJmKH5_iYuZn
+egBr_h5tssslllM2oXkTvCJn4nOWRJt4b-OFQplsrdJly_dvP-yhhxpLKZlP-tG_y7eTI7DEzYpNYw42ISrw3GWssr_LQrKXnXSKZUyeejz-u0ikqlGL7sDm
+AA_Nr0KlTIeg1wrq2Np5jRtYBF1B3ja-6rV4S9CRgL2k286qx2EdeYtt5T6FVBbFSB8W7ZahEbSqACaoSaRXYd72zCWLXMlgRM4YpaK9nIyvbAiy7GEtPuny
+JHL0H81eFCLRZZ4Luy_nvyy_
 }
 
 AWSEntityColoring(Cognito)
-!define Cognito(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D6242D, Cognito, Cognito)
-!define Cognito(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D6242D, Cognito, Cognito)
-!define CognitoParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D6242D, Cognito, Cognito)
-!define CognitoParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D6242D, Cognito, Cognito)
+!define Cognito(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Cognito, Cognito)
+!define Cognito(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Cognito, Cognito)
+!define CognitoParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Cognito, Cognito)
+!define CognitoParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Cognito, Cognito)

@@ -1,0 +1,12 @@
+' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
+sprite $cloudjobsapi [64x64/16z] {
+xT853WD134FHuZX2t_-qPOYQKHKlqnULdhl4QRQ5KadmPGa-l1_MG_H7rnamkFS5W7zVurg1pznlVlFA4F-a-bW33tkN6gXflw1vPvC3WOi3DUvFX3na_Uch
+lmiWizvnDq2U54zNvW1-VbqO1YJFJZrdxcrG7mOGVEBnZyzFDdiMzfeDcEa-DBi1jXuWNWZX8gfDQO0Z3x154jVRkW8
+}
+
+AWSEntityColoring(cloudjobsapi)
+!define cloudjobsapi(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, cloudjobsapi, cloudjobsapi)
+!define cloudjobsapi(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, cloudjobsapi, cloudjobsapi)
+!define cloudjobsapiParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, cloudjobsapi, cloudjobsapi)
+!define cloudjobsapiParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, cloudjobsapi, cloudjobsapi)

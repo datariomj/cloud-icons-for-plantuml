@@ -1,14 +1,15 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $Snowmobile [64x64/16z] {
-xPQ5aiOm28Gt1DltV-2pNpjJGc_EvHkjR5Y8mU_AF_-ugKurJxwUr84hGuElmkLPv95aXki0XlCm8O3crWqWmMCOeENRdWb9xf02OO_KOHIIlTnMcKbhtjQb
-cLpXpNVgSlp4OCD0hjm76sBXC1ltRGnBDdH11WhiPg2eW7kG67ENkw0EAq9FiZ9tUr_-4v77z09MrFeNXl49tIj0kdkK-dDT1eIa8tQtTvl_UVq7V2T-7Cf_
-8a_wWaxly48Vxj7h0rRevpN_K0qoJMsZJrL_rk_NZtd9N_641fuOUTCxdfZFUaMo0kAGJC50q33Z30P6K35Xw_NpH99vEgm5T_XfUpdh3PWCdnkzNx2JNfmE
-AysJZ8r_NZdvjth_dXVsfdwySQhVwlmuVxhDd_F6zSL4lF7yVFFvNMDlkp_82UKRnd_R_Vds-_lj_SFR-nSos_xfxVtRs_l77lTR__eD-UUVHm
+xPO5bcGn24LVZ40W-z_k74vRIUJFRvVRKleYUF-Y_F67IQLIg8gU42j5F1DB-p-rH1TnK-lQcFmL7rUtX41wVPg0UFGC5I2xCmO1TCXg6L675ab8jfSdbDct
+2D7syhgusNQ1ZBesJLxA6QKlASlrTNi-Yz3LwbiVD-GZdvtQmwhkzRhS9692lN3Hs4R2hNV4FEJ2Bm8UR-tVyRy1b-_Rv09DTAztKkWJ5deuiVhLQHG2oinj
+hd-mIu375qD6aOi3zoVaYG5LvCZzCxGtrm_PwnayqJVcjjUxLeRwydp_HjGyc0lRfLwfYEl7zklwT7y206e1kCXc50Q0x7fQf30I8wac18WniZo2YDYi88FN
+yGFuwlfGh1Cky4C7W6sQWAQzSRxK1twYFkWZcu0dyf3SmXVdlyoQX_FpB7-TubkFxESys6zPFzJt6_hFqLfaKoFpw-fdr_2Q-ltw_k4te5VqhrVtJx_WA_gt
+Ondf_FpWqAlcbuUTK4xFJuwaLynlhvyV7p3XnVpw-Vpnnpy
 }
 
 AWSEntityColoring(Snowmobile)
-!define Snowmobile(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #3F8624, Snowmobile, Snowmobile)
-!define Snowmobile(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #3F8624, Snowmobile, Snowmobile)
-!define SnowmobileParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #3F8624, Snowmobile, Snowmobile)
-!define SnowmobileParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #3F8624, Snowmobile, Snowmobile)
+!define Snowmobile(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, Snowmobile, Snowmobile)
+!define Snowmobile(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, Snowmobile, Snowmobile)
+!define SnowmobileParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, Snowmobile, Snowmobile)
+!define SnowmobileParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, Snowmobile, Snowmobile)

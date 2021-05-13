@@ -1,14 +1,14 @@
 ' Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ' SPDX-License-Identifier: CC-BY-ND-2.0 (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/main/LICENSE)
 sprite $ServerlessApplicationRepository [64x64/16z] {
-xPK7YiGm34M_kkv_uiKUGsmYqbYwtzI8_9AU_yncizc4cvb_5IlXXqI-nvhGtFMRWu0i6mvr1hqqKF1GE3HJNnhOa0_z63mcWCX5dzf_ucbxordV8BW08Cjx
-YFAaTm0i36ZUuP15xzvDUwbWsFFw8xVllF2nR-XUx_E-P9Eva22ofbwZ_UTfOj1B0sUS4dIQ-FNvB83uSXbv1Y7M2mkMDJ9Ej120_1TtNjq8UdtYCbY0Q7eY
-FgK5mRE04CSfCBxAf02NKnazkZruw0iOKTKNx-Wlcjk_FieCNn1OfJ-8P1nuAbPglTYW9PeDG941s4IHVx6psfYnHgtwoui3d1b4rKc-edK11Gd1xfE2ODLO
-0UWQRraReBuubc4mE6k20LQ_mWHNjsDZtC5szzoy9F9_s6mscpy
+xTC5RlGm68JXCNyqzp_k3wLOMuUgYlC85b_5o5_sU3mUeIBgFur7nflKdFTfGcgYEf207hof8md_CuWMPB-Rb-1dJtQau0twbcyz1ILuMQGKvDnpO90CNZ8W
+VEbPu3q1HNak9Nxh3K3f5UWyu-XptzL9CaD9Ue7oX43c7a0Dqet_1GfFTFWyc28DZLyQdCSQWfiWMQTl12Dum0eG1oDo0CqF1ezct4GtHaxS-2Y0SAsX-5lM
+W68a3IZfzU-QCRYYg7nJKHhWf26dedmH6SQ5Wk1_XaOQEcdheJhAyjl6Dm8bcUfkpufO3R_hc_7-wFh_NLDL8yDqrg7yHh09LcoCWXUowhjyCDBb4t8mKf99
+N_M6iN-XAZYHrVWZPQwWRByTNeE-7a17wHbo_gJ842vq80ad3S8LpsZ11USaAYhNeW9rw15fG0tkqO8pHNaaJ8vey7Sy7e_7Nm
 }
 
 AWSEntityColoring(ServerlessApplicationRepository)
-!define ServerlessApplicationRepository(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #D86613, ServerlessApplicationRepository, ServerlessApplicationRepository)
-!define ServerlessApplicationRepository(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #D86613, ServerlessApplicationRepository, ServerlessApplicationRepository)
-!define ServerlessApplicationRepositoryParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #D86613, ServerlessApplicationRepository, ServerlessApplicationRepository)
-!define ServerlessApplicationRepositoryParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #D86613, ServerlessApplicationRepository, ServerlessApplicationRepository)
+!define ServerlessApplicationRepository(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #232F3E, ServerlessApplicationRepository, ServerlessApplicationRepository)
+!define ServerlessApplicationRepository(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #232F3E, ServerlessApplicationRepository, ServerlessApplicationRepository)
+!define ServerlessApplicationRepositoryParticipant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #232F3E, ServerlessApplicationRepository, ServerlessApplicationRepository)
+!define ServerlessApplicationRepositoryParticipant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #232F3E, ServerlessApplicationRepository, ServerlessApplicationRepository)
